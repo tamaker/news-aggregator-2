@@ -1,5 +1,5 @@
 {
-    "timestamp": "7/6/2024, 12:30:47 PM",
+    "timestamp": "7/6/2024, 12:52:35 PM",
     "houston": [
         {
             "source": {
@@ -2060,19 +2060,6 @@
         {
             "source": {
                 "id": null,
-                "name": "The State"
-            },
-            "author": "Joseph Bustos, Anna Wilder",
-            "title": "SC governor signs $14.5 billion state budget. What did he cut in his 21 vetoes?",
-            "description": "Gov. McMaster has signed the budget. Raises for state employees and a cut to state income tax rate become law",
-            "url": "https://www.thestate.com/news/politics-government/article289656084.html",
-            "urlToImage": "https://media.zenfs.com/en/the_state_mcclatchy_264/c66f36498ce5ecafb09f5e36d13b123d",
-            "publishedAt": "2024-07-03T19:32:40Z",
-            "content": "Gov. Henry McMaster on Wednesday signed the states $14.5 billion spending plan for the next 12 months, which includes an accelerated income tax cut.\r\nBut McMaster did not give the OK to all spending.… [+4982 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "BroBible"
             },
             "author": "Jacob Elsey",
@@ -2082,6 +2069,19 @@
             "urlToImage": "https://brobible.com/wp-content/uploads/2024/06/Jakai-Moore.jpg",
             "publishedAt": "2024-06-23T21:08:41Z",
             "content": "Getty Image\r\nSouth Carolina offensive lineman Jakai Moore competed against teammates in an offseason hot wing eating contest over the weekend where he absolutely squashed his competition.\r\nThe big ma… [+2068 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The State"
+            },
+            "author": "Joseph Bustos, Anna Wilder",
+            "title": "SC governor signs $14.5 billion state budget. What did he cut in his 21 vetoes?",
+            "description": "Gov. McMaster has signed the budget. Raises for state employees and a cut to state income tax rate become law",
+            "url": "https://www.thestate.com/news/politics-government/article289656084.html",
+            "urlToImage": "https://media.zenfs.com/en/the_state_mcclatchy_264/c66f36498ce5ecafb09f5e36d13b123d",
+            "publishedAt": "2024-07-03T19:32:40Z",
+            "content": "Gov. Henry McMaster on Wednesday signed the states $14.5 billion spending plan for the next 12 months, which includes an accelerated income tax cut.\r\nBut McMaster did not give the OK to all spending.… [+4982 chars]"
         },
         {
             "source": {
