@@ -1,19 +1,5 @@
 {
-    "timestamp": "7/6/2024, 1:16:17 PM",
     "houston": [
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Mike Iscovitz",
-            "title": "Tropical Storm Beryl tracker: Latest update on path, Mexico landfall, Texas impacts",
-            "description": "Hurricane Beryl tracker including the latest update on path, location, a tracking map and how it may impact Texas and Houston.",
-            "url": "https://www.yahoo.com/news/hurricane-beryl-tracker-latest-path-112957939.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oFBOzDfOu6H6D25iAuyjpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/kriv_fox_local_articles_563/c3a9a0e67457ab19b4370e5fcee80ecb",
-            "publishedAt": "2024-07-05T11:29:57Z",
-            "content": "Beryl has spent the day moving across Mexico after making landfall on the Yucatan Peninsula near Tulum on Friday morning as a small Category 2 hurricane.\r\nAs of 10 p.m., Beryl has weakened to a tropi… [+3743 chars]"
-        },
         {
             "source": {
                 "id": null,
@@ -234,19 +220,6 @@
             "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F32%2F27%2Fe95afc294faf93db59527b8bd6ae%2Fgettyimages-2160430100.jpg",
             "publishedAt": "2024-07-03T13:26:09Z",
             "content": "Hurricane Beryl is hurtling toward Jamaica as a Category 4 storm after weaving a path of destruction across several southeast Caribbean islands.\r\nThe National Hurricane Center (NHC) said Wednesday mo… [+7846 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "George Dvorsky",
-            "title": "How Small Teams at Intuitive Machines Are Solving Big Lunar Challenges",
-            "description": "Intuitive Machines CTO Tim Crain spoke to Gizmodo about the new space race and what it will take to return to the Moon.",
-            "url": "https://gizmodo.com/how-small-teams-at-intuitive-machines-are-solving-big-l-1851561547",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/06/ed9830090683d98bfb2e97c764e532c9.jpg",
-            "publishedAt": "2024-07-05T17:01:38Z",
-            "content": "Intuitive Machines is fast becoming a key player in the burgeoning era of lunar exploration. Speaking with Gizmodo, CTO Tim Crain discussed how the company is trying to establish a niche in the lunar… [+10159 chars]"
         },
         {
             "source": {
@@ -481,19 +454,6 @@
             "urlToImage": "https://i.abcnewsfe.com/a/955c052c-9674-410b-8687-d770c594c4b5/wirestory_3ccd113496caee18a085dfa54c6e6c0e_16x9.jpg?w=1600",
             "publishedAt": "2024-06-15T01:23:43Z",
             "content": "HOUSTON -- A federal judge on Friday ordered the liquidation of conspiracy theorist Alex Jones personal assets but dismissed his companys separate bankruptcy case, leaving the immediate future of his… [+6174 chars]"
-        },
-        {
-            "source": {
-                "id": "die-zeit",
-                "name": "Die Zeit"
-            },
-            "author": "ZEIT ONLINE: News -",
-            "title": "Experiment in Texas: Vier Menschen, 378 Tage Mars - Nasa-Simulation endet",
-            "description": "Hier finden Sie Informationen zu dem Thema „Experiment in Texas“. Lesen Sie jetzt „Vier Menschen, 378 Tage Mars - Nasa-Simulation endet“.",
-            "url": "https://www.zeit.de/news/2024-07/05/vier-menschen-378-tage-mars-nasa-simulation-endet",
-            "urlToImage": "https://img.zeit.de/news/2024-07/05/vier-menschen-378-tage-mars-nasa-simulation-endet-image-group/wide__1300x731",
-            "publishedAt": "2024-07-05T03:00:37Z",
-            "content": "Vier Menschen, 160 Quadratmeter - und das mehr als ein ganzes Jahr lang: Nach 378 Tagen in einem Mars-Simulationsgelände der US-Raumfahrtbehörde Nasa im texanischen Houston sollen zwei Frauen und zwe… [+4848 chars]"
         },
         {
             "source": {
@@ -1108,19 +1068,6 @@
         },
         {
             "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "ESPN",
-            "title": "Dueling MLB mock draft: Selecting the best possible teams of 2024 prospects",
-            "description": "We tasked our experts with creating the best team out of 2024's top prospects -- here's how they did.",
-            "url": "https://www.espn.com/mlb/story/_/id/40494287/2024-mlb-draft-outsiders-mock-prospect-superteams",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0507%2Fr1329709_1296x729_16%2D9.jpg",
-            "publishedAt": "2024-07-05T11:23:59Z",
-            "content": "The 2024 MLB draft is just over a week away, so we asked three of our MLB experts to try their hand at selecting a first round consisting of this year's top prospects.\r\nThe rules of our superteam dra… [+16549 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Phys.Org"
             },
@@ -1291,6 +1238,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Forbes"
+            },
+            "author": "Sandra MacGregor, Contributor, \n Sandra MacGregor, Contributor\n https://www.forbes.com/sites/sandramacgregor/",
+            "title": "11 Hotels With Unforgettable Nighttime Activities Around The World",
+            "description": "Hotels are offering unique nighttime experiences, from museum tours and jungle walks to stargazing and astrological adventures, for all ages. Discover 11 of the best.",
+            "url": "https://www.forbes.com/sites/sandramacgregor/2024/06/05/11-hotels-with-unforgettable-nighttime-activities-around-the-world/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665119b4a636db7cdc8f0b9f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-06-05T10:07:25Z",
+            "content": "Milky Way Over The Genesee Arch Bridge And Upper Falls At Letchworth State Park In the Finger Lakes ... [+] region\r\ngetty\r\nGone are the days when your nights at your hotel were just for sleeping. Rec… [+6934 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Space.com"
             },
             "author": "Meredith Garofalo",
@@ -1300,6 +1260,45 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/3dx7hxezt9twBDypLc6d9m-1200-80.jpg",
             "publishedAt": "2024-06-13T19:25:55Z",
             "content": "Two severe weather events in May brought the number of billion-dollar disasters for the United States in 2024 up to nearly a dozen. \r\nThe month began with a tornado outbreak from May 6 to May 10 that… [+3635 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Arathy Somasekhar",
+            "title": "Oil prices edge up on optimistic demand outlook",
+            "description": "Oil prices ticked higher on Wednesday on upbeat global demand views from the U.S. Energy Information Administration and OPEC.  Brent crude futures rose 11...",
+            "url": "https://finance.yahoo.com/news/oil-prices-edge-optimistic-demand-003330508.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/08ae2ac72fb8f04b67c82d9b3191769b",
+            "publishedAt": "2024-06-12T00:33:30Z",
+            "content": "By Arathy Somasekhar\r\n(Reuters) - Oil prices ticked higher on Wednesday on upbeat global demand views from the U.S. Energy Information Administration and OPEC.\r\nBrent crude futures rose 11 cents, or … [+1872 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "ESPN",
+            "title": "MLB Power Rankings: A red-hot AL team makes its top-3 debut",
+            "description": "A handful of clubs continue to steadily climb the list in our final June edition, while another plummets even further down our rankings.",
+            "url": "https://www.espn.com/mlb/story/_/id/40430366/mlb-2024-power-rankings-week-13-phillies-yankees-guardians",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0626%2Fmlb_power13_cr_16x9.jpg",
+            "publishedAt": "2024-06-27T12:35:44Z",
+            "content": "Jun 27, 2024, 07:00 AM ET\r\nWith less than three weeks to go before the All-Star break, the Guardians have made their top-three debut.\r\nCleveland, winners of seven of its last eight games, took a seri… [+22900 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Timothy Rapp",
+            "title": "MLB All-Star Voting 2024 Rosters: Starters, Snubs and Predictions for Reserves",
+            "description": "The top teams in baseball will be well-represented at the 2024 MLB All-Star Game on July 16 at 7 p.m. ET (ESPN). The team with the best record in MLB, the…",
+            "url": "https://bleacherreport.com/articles/10127132-mlb-all-star-voting-2024-rosters-starters-snubs-and-predictions-for-reserves",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/x_114,y_86,w_1669,h_1111,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/v1720047838/ne7t8fvjek9mxlzc5spe.jpg",
+            "publishedAt": "2024-07-03T23:58:27Z",
+            "content": "Mitchell Leff/Getty Images\r\nThe top teams in baseball will be well-represented at the 2024 MLB All-Star Game on July 16 at 7 p.m. ET (ESPN).\r\nThe team with the best record in MLB, the Philadelphia Ph… [+5388 chars]"
         }
     ],
     "columbia": [
@@ -1591,6 +1590,19 @@
         },
         {
             "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Shane Laflin",
+            "title": "WBB recruiting: Top risers, emerging stars and new faces in the first rankings",
+            "description": "With the first recruiting rankings of this cycle here, we take a look at the top players in the 2025, 2026 and 2027 classes and who will be the next to rise the ranks.",
+            "url": "https://www.espn.com/womens-college-basketball/story/_/id/40276758/new-high-school-girls-basketball-player-rankings-2025-2026-2027",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0605%2Fr1341966_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-06-05T15:20:46Z",
+            "content": "The busy recruitment season in club basketball is here. The two spring evaluation periods have taken place, the USAB U18 and U17 Trials have concluded, and summer teams will prepare this month for th… [+16485 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Stereogum"
             },
@@ -1735,6 +1747,19 @@
         {
             "source": {
                 "id": null,
+                "name": "The State"
+            },
+            "author": "John Monk, Sammy Fretwell",
+            "title": "Industries polluted Columbia’s water with dangerous ‘forever chemicals,’ city’s lawsuit claims",
+            "description": "Forever chemicals are in Columbia’s drinking water. Now, the city is suing the makers and distributors of the toxic compounds to pay for filtering them out.",
+            "url": "https://www.thestate.com/news/local/crime/article288999709.html",
+            "urlToImage": "https://media.zenfs.com/en/the_state_mcclatchy_264/bfa6cdd36cfcb7407f3d4fcb7e6b29de",
+            "publishedAt": "2024-06-05T10:00:00Z",
+            "content": "More than 40 textile companies, chemical manufacturers and other industries have for years polluted Columbias municipal water supply with forever chemicals, a class of man-made compounds that can cau… [+11435 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "The Seattle Times"
             },
             "author": "JEFFREY COLLINS",
@@ -1861,6 +1886,19 @@
             "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1717510706",
             "publishedAt": "2024-06-11T04:11:02Z",
             "content": "COLUMBIA, S.C. Republican U.S. Rep. Nancy Mace of South Carolina is seeking a third term with the backing of someone who tried to stop her from getting a second former President Donald Trump.\r\nThe Tr… [+4955 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minneapolis Star Tribune"
+            },
+            "author": "JEFFREY COLLINS",
+            "title": "South Carolina is trading its all-male Supreme Court for an all-white one",
+            "description": "South Carolina is about to trade its all-male state Supreme court for an all-white one.",
+            "url": "https://www.startribune.com/south-carolina-is-trading-its-all-male-supreme-court-for-an-all-white-one/600371122/",
+            "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1717510706",
+            "publishedAt": "2024-06-05T04:19:33Z",
+            "content": "COLUMBIA, S.C. South Carolina is about to trade its all-male state Supreme court for an all-white one.\r\nThe General Assembly, which picks almost all state judges, is expected Wednesday to elevate Cou… [+5248 chars]"
         },
         {
             "source": {
@@ -2047,6 +2085,19 @@
         {
             "source": {
                 "id": null,
+                "name": "The State"
+            },
+            "author": "Chris Trainor",
+            "title": "A growing franchise is coming to this popular Columbia shopping center. What to know",
+            "description": "The business will be setting up shop in a high-traffic commercial corridor that already is home to many national companies.",
+            "url": "https://www.thestate.com/news/local/article289027384.html",
+            "urlToImage": "https://media.zenfs.com/en/the_state_mcclatchy_264/63672bb3e381605e4c33bd9db627a898",
+            "publishedAt": "2024-06-05T15:34:12Z",
+            "content": "A new business with a focus on fitness is headed to a popular shopping area in northeast Columbia.\r\nISI Elite Training, which has franchise locations in numerous states, has signed a lease for a spac… [+1774 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Minneapolis Star Tribune"
             },
             "author": "JEFFREY COLLINS",
@@ -2121,19 +2172,6 @@
             "urlToImage": "https://d.newsweek.com/en/full/2259028/destroyed-wedding-cake.jpg",
             "publishedAt": "2024-06-07T19:00:01Z",
             "content": "The District of Columbia has the highest proportion of single-parent households across the United States, while Utah has the lowest, according to data from the U.S. Census Bureau.\r\nThe findings, from… [+3905 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Raleigh News & Observer"
-            },
-            "author": "Emmy Martin",
-            "title": "Popular TV show to film in Chapel Hill and at UNC next week. What you need to know.",
-            "description": "If you’re coming to downtown Chapel Hill, plan ahead. Here are some accommodations the town is making for cast and crew.",
-            "url": "https://www.newsobserver.com/entertainment/article289693989.html",
-            "urlToImage": "https://media.zenfs.com/en/raleigh_news_and_observer_mcclatchy_712/0820830bf7394a352519ade668319b6d",
-            "publishedAt": "2024-07-05T12:30:00Z",
-            "content": "The N&amp;O Summer Desk is a pop-up initiative to help navigate the season. Whether youre heading to the beach, mountains or backyard, the Summer Desk is here to guide you. Share your story ideas wit… [+6736 chars]"
         },
         {
             "source": {
@@ -2531,6 +2569,19 @@
                 "name": "ABC News"
             },
             "author": "JEFFREY COLLINS Associated Press",
+            "title": "South Carolina is trading its all-male Supreme Court for an all-white one",
+            "description": "South Carolina is about to trade its all-male state Supreme court for an all-white one",
+            "url": "https://abcnews.go.com/US/wireStory/south-carolina-trading-male-supreme-court-white-110849412",
+            "urlToImage": "https://i.abcnewsfe.com/a/82892959-7194-4047-8faf-885cc558595e/wirestory_91d359c0c7f4129d5213992a93a95dbb_16x9.jpg?w=1600",
+            "publishedAt": "2024-06-05T04:22:43Z",
+            "content": "COLUMBIA, S.C. -- South Carolina is about to trade its all-male state Supreme court for an all-white one.\r\nThe General Assembly, which picks almost all state judges, is expected Wednesday to elevate … [+5126 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JEFFREY COLLINS Associated Press",
             "title": "Voters kick all the Republican women out of the South Carolina Senate",
             "description": "The only three Republican women in the South Carolina Senate took on their party and stopped a total abortion ban from passing in their state last year",
             "url": "https://abcnews.go.com/US/wireStory/voters-kick-republican-women-south-carolina-senate-111571176",
@@ -2550,58 +2601,6 @@
             "urlToImage": "https://s26551.pcdn.co/wp-content/uploads/2022/08/2022-08-30-ARL-Features-02.jpg",
             "publishedAt": "2024-06-30T19:30:29Z",
             "content": "Lightning strikes in the distance on a stormy night in Ballston, looking south along Glebe Road in August 2022 (staff photo by Jay Westcott)\r\nArlington — as well as D.C. and surrounding areas —  is u… [+1322 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Rachel Dobkin",
-            "title": "Lara Trump's Vow to 'Prosecute' Election Cheats Raises Eyebrows",
-            "description": "Lara Trump, RNC co-chair and daughter-in-law to Donald Trump, warned election cheats that \"we will track you down.\"",
-            "url": "https://www.newsweek.com/lara-trump-vow-prosecute-election-cheats-raises-eyebrows-online-1913331",
-            "urlToImage": "https://d.newsweek.com/en/full/2410843/lara-trump.jpg",
-            "publishedAt": "2024-06-15T20:28:08Z",
-            "content": "Lara Trump, former President Donald Trump's daughter-in-law and co-chair of the Republican National Committee (RNC), vowed on Friday at a conservative event to \"prosecute\" election cheats, raising ey… [+4836 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Boston Herald"
-            },
-            "author": "Boston Herald editorial staff",
-            "title": "Editorial: Elite colleges with application drop can only blame themselves",
-            "description": "What parent wants to send their child to a college that does nothing to encourage critical thinking, and where students have their need for \"solidarity\" co-opted by political agendas?",
-            "url": "https://www.bostonherald.com/2024/06/21/editorial-elite-colleges-with-application-drop-can-only-blame-themselves/",
-            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/05/rvardnl003_8c4848.jpg?w=1024&h=767",
-            "publishedAt": "2024-06-21T04:14:41Z",
-            "content": "Don’t shed a tear for schools like Emerson College, Harvard University and other elite institutions seeing applications drop: they did it to themselves.\r\nHarvard received 54,008 applicants for the cl… [+3119 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Minneapolis Star Tribune"
-            },
-            "author": "KIMBERLEE KRUESI, CHRISTINE FERNANDO and LEAH WILLINGHAM",
-            "title": "Abortion access has won when it's been on the ballot. That's not an option for half the states",
-            "description": "Tucked inside the West Virginia Statehouse is a copy of a petition to lawmakers with a simple request: Let the voters decide whether to reinstate legal access to abortion.",
-            "url": "https://www.startribune.com/abortion-access-has-won-when-its-been-on-the-ballot-thats-not-an-option-for-half-the-states/600375462/",
-            "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1717510706",
-            "publishedAt": "2024-06-23T04:15:01Z",
-            "content": "CHARLESTON, W.Va. Tucked inside the West Virginia Statehouse is a copy of a petition to lawmakers with a simple request: Let the voters decide whether to reinstate legal access to abortion.\r\nThe requ… [+7709 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The New Republic"
-            },
-            "author": "Grace Segers",
-            "title": "Republican Governors Are Refusing Free Meals for Millions of Kids",
-            "description": "The Covid pandemic provided a real-time experiment of a strengthened social safety net, in which several anti-poverty programs were bolstered and benefits increased. One such program, called Pandemic EBT, provided a voucher for families to purchase groceries …",
-            "url": "https://newrepublic.com/article/182395/republican-governors-refuse-free-summer-meals-millions-kids",
-            "urlToImage": "https://images.newrepublic.com/f108668d3ff0137cc14e69f608eab1bdb9807829.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-            "publishedAt": "2024-06-07T10:00:00Z",
-            "content": "But Chris Bernard, the president and CEO of Hunger Free Oklahoma, noted that only 6 percent of eligible children in the state participate in summer meal programs. Moreover, he argued, the existing su… [+1139 chars]"
         }
     ],
     "orlando": [
@@ -2724,19 +2723,6 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Maria Noyen",
-            "title": "I'm a boomer traveling the world. I choose to swap houses with strangers instead of staying in Airbnbs.",
-            "description": "Dorine Olive, 60, lets strangers stay in her Florida house and is bunking with others in Turkey and Uganda during an epic round-the-world trip.",
-            "url": "https://www.businessinsider.com/boomer-travels-world-doing-house-swap-home-exchange-pros-cons-2024-7",
-            "urlToImage": "https://i.insider.com/667d807650b021b5cae9f115?width=1200&format=jpeg",
-            "publishedAt": "2024-07-05T12:13:03Z",
-            "content": "Dorine Olive has used Home Exchange to visit over 40 different houses owned by other people.Courtesy of Dorine Olive\r\n<ul><li>Dorine Olive, 60, was diagnosed with ovarian cancer in 2019, which reigni… [+4534 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
@@ -2760,6 +2746,32 @@
             "urlToImage": "https://i.insider.com/6669cb90e079049018183f1c?width=1200&format=jpeg",
             "publishedAt": "2024-06-13T00:19:41Z",
             "content": "Minnie Mouse at Walt Disney World.Anadolu/Getty Images\r\n<ul><li>The Central Florida Tourism Oversight District approved a $17 billion development deal with Disney.</li><li>The development plan could … [+3123 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "MIKE SCHNEIDER",
+            "title": "Now that the fight with DeSantis appointees has ended, Disney set to invest $17B in Florida parks",
+            "description": "Months after Disney and Gov. Ron DeSantis' appointees agreed to end a protracted legal fight, the two sides are set to approve an agreement that could result...",
+            "url": "https://finance.yahoo.com/news/now-fight-desantis-appointees-ended-043913760.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/cc2AcWiPr6iol2WovOlzvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/6957b345e3f94ff49a8ea3c76ba38fce",
+            "publishedAt": "2024-06-05T04:39:13Z",
+            "content": "ORLANDO, Fla. (AP) Months after Disney and Gov. Ron DeSantis' appointees agreed to end a protracted legal fight, the two sides are set to approve an agreement that could result in the company investi… [+3256 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "MIKE SCHNEIDER",
+            "title": "Now that the fight with DeSantis appointees has ended, Disney set to invest $17B in Florida parks",
+            "description": "Months after Disney and Gov. Ron DeSantis' appointees agreed to end a protracted legal fight, the two sides are set to approve an agreement that could result...",
+            "url": "https://www.yahoo.com/news/now-fight-desantis-appointees-ended-043913760.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/j0GuUVV4KnWj.QRRtsyOpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjE-/https://media.zenfs.com/en/ap.org/5ad470bc456f58c748b31651e26c7a7c",
+            "publishedAt": "2024-06-05T04:39:13Z",
+            "content": "ORLANDO, Fla. (AP) Months after Disney and Gov. Ron DeSantis' appointees agreed to end a protracted legal fight, the two sides are set to approve an agreement that could result in the company investi… [+3250 chars]"
         },
         {
             "source": {
@@ -2838,19 +2850,6 @@
             "urlToImage": "https://readwrite.com/wp-content/uploads/2024/06/CFB25_Campus-IQ_16x9_Watermark-scaled.jpg",
             "publishedAt": "2024-06-25T16:09:08Z",
             "content": "EA Sports’ old NCAA Football series had an unusual mechanism that was a nod to the large homefield advantages that big time programs had, even over rivals or higher ranked teams. That returns with Co… [+4550 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Francisco Velasquez",
-            "title": "Disney World can't escape inflation: See how much food prices have risen in 10 years",
-            "description": "Walt Disney World is a key player in the world of entertainment. The Orlando, Florida-based resort is widely known for being a magical place that welcomes those of all ages.Read more...",
-            "url": "https://qz.com/disney-world-food-prices-increases-inflation-1851538692",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/14b0e7cab5aa871dd97f1926f625b867.jpg",
-            "publishedAt": "2024-07-05T09:00:00Z",
-            "content": "Walt Disney World is a key player in the world of entertainment. The Orlando, Florida-based resort is widely known for being a magical place that welcomes those of all ages.\r\nBut in the inflation eco… [+508 chars]"
         },
         {
             "source": {
@@ -2955,6 +2954,19 @@
             "urlToImage": "https://thepointsguy.global.ssl.fastly.net/us/originals/2023/05/Chicago-Trip-Zach-Griff11.jpg",
             "publishedAt": "2024-06-27T19:00:19Z",
             "content": "American Airlines is growing in its New York LaGuardia Airport (LGA) hub with new \"sun-and-fun\" destinations.\r\nThe carrier is adding four routes from LGA this winter, as first seen in Cirium schedule… [+3694 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Daniel Oyefusi",
+            "title": "Browns sign Stefanski, GM Berry to extensions",
+            "description": "The Cleveland Browns have signed coach Kevin Stefanski and general manager Andrew Berry to contract extensions, the team announced Wednesday.",
+            "url": "https://www.espn.com/nfl/story/_/id/40283990/browns-sign-coach-kevin-stefanski-gm-andrew-berry-extensions",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0329%2Fr992680_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-06-05T15:11:33Z",
+            "content": "The Cleveland Browns have signed head coach Kevin Stefanski and general manager Andrew Berry to contract extensions, the team announced Wednesday, retaining the decision-making duo that has guided th… [+3231 chars]"
         },
         {
             "source": {
@@ -3150,6 +3162,19 @@
             "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2024/06/trump_animatronic.jpeg",
             "publishedAt": "2024-06-24T19:33:00Z",
             "content": "Claim:\r\nA photograph authentically shows the animatronic version of former U.S. President Donald Trump in Disney Worlds Hall of Presidents in Orlando, Florida.\r\nIn June 2024, a photograph claiming to… [+4032 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Verdictfoodservice.com"
+            },
+            "author": "GlobalData",
+            "title": "Friendly’s opens newest location in Orlando, Florida",
+            "description": "The opening bolsters its presence to three locations in Florida and extends its national footprint beyond 100 outlets.",
+            "url": "https://www.verdictfoodservice.com/news/friendlys-opens-location-orlando-florida/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/qNbHwCehGHxlThfEExezXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/verdict_food_service_772/8e035be922c765b646c5e3bb46690f6a",
+            "publishedAt": "2024-06-05T13:27:12Z",
+            "content": "Friendly's Restaurants Franchising, a US-based restaurant chain serving burgers, sandwiches and ice creams, has opened a store in Orlando, Florida.\r\nThe addition bolsters the brand's presence in Flor… [+2970 chars]"
         },
         {
             "source": {
@@ -3803,6 +3828,19 @@
         },
         {
             "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "Now that the fight with DeSantis appointees has ended, Disney set to invest $17B in Florida parks",
+            "description": "After Disney and Gov. Ron DeSantis’ appointees agreed to end a legal fight, the two sides are to approve a $17 billion agreement.",
+            "url": "https://www.nbcnews.com/news/us-news/now-fight-desantis-appointees-ended-disney-set-invest-17b-florida-park-rcna155556",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-06/240605-disney-mb-0916-aa4a70.jpg",
+            "publishedAt": "2024-06-05T08:26:46Z",
+            "content": "ORLANDO, Fla Months after Disney and Gov. Ron DeSantis appointees agreed to end a protracted legal fight, the two sides are set to approve an agreement that could result in the company investing $17 … [+3278 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Advocate.com"
             },
@@ -3865,45 +3903,6 @@
             "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yT97qRltcannToetnx6yrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/507a25c967f3b2220114ade8943583e2",
             "publishedAt": "2024-06-20T21:00:24Z",
             "content": "If the Sunshine State is calling your name for retirement, you may already know that some parts of Florida can be quite pricey. In fact, the state may offer some of the most expensive and popular ret… [+3128 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Sabina Graves",
-            "title": "Probé la cara de Shrek y la encontré... ¿babosa?",
-            "description": "Hay un nuevo regalo de pantano en Universal Studios OrlandoDreamworks Land, recientemente inaugurado, y rinde homenaje a shrek de la manera más extraña y desquiciada. Es un pretzel con la forma de la cara de ogro de Mike Myers inspirada en la exitosa franquic…",
-            "url": "https://es.gizmodo.com/revision-definitiva-de-shrekzel-de-universal-studios-or-1851554403",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c3f93cca3716556132311c73228383c4.jpg",
-            "publishedAt": "2024-06-21T20:15:00Z",
-            "content": "Hay un nuevo regalo de pantano en Universal Studios OrlandoDreamworks Land, recientemente inaugurado, y rinde homenaje a shrek de la manera más extraña y desquiciada. Es un pretzel con la forma de la… [+3322 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "The Associated Press,WFTV.com News Staff",
-            "title": "Disney faces lawsuit after workers claim they were forced to move across the country",
-            "description": "Disney workers are suing their employer, claiming they were fraudulently induced to move from California to Florida to work in a new office campus only to...",
-            "url": "https://www.yahoo.com/news/disney-faces-lawsuit-workers-claim-191402634.html",
-            "urlToImage": "https://media.zenfs.com/en/wftv_cox_articles_135/f5849edaf1bae776be6f95c491344ecc",
-            "publishedAt": "2024-06-21T19:14:02Z",
-            "content": "Disney workers are suing their employer, claiming they were fraudulently induced to move from California to Florida to work in a new office campus only to have those plans later scrapped amid a fight… [+4156 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Advocate.com"
-            },
-            "author": "Jacob Ogles",
-            "title": "Florida just got its first LGBTQ+ Latino state senator",
-            "description": "“It’s also important to acknowledge and celebrate the significance of our election for Florida’s LGBTQ community, who have been relentlessly attacked and demonized by the majority party in this Legislature over the past few years,” Smith said on Friday.",
-            "url": "https://www.advocate.com/politics/carlos-guillermo-smith-florida-senate-2668531648",
-            "urlToImage": "https://www.advocate.com/media-library/carlos-guillermo-smith-florida.jpg?id=52458090&width=1200&height=600&coordinates=0%2C0%2C0%2C78",
-            "publishedAt": "2024-06-14T20:55:34Z",
-            "content": "LGBTQ+ advocate Carlos Guillermo Smith just became the first out Latino to join the Florida state Senate.\r\nMy heart is full of gratitude for this community who has entrusted me with the responsibilit… [+3154 chars]"
         }
     ],
     "florence": [
@@ -3975,6 +3974,32 @@
         {
             "source": {
                 "id": null,
+                "name": "The State"
+            },
+            "author": "John Monk, Sammy Fretwell",
+            "title": "Industries polluted Columbia’s water with dangerous ‘forever chemicals,’ city’s lawsuit claims",
+            "description": "Forever chemicals are in Columbia’s drinking water. Now, the city is suing the makers and distributors of the toxic compounds to pay for filtering them out.",
+            "url": "https://www.thestate.com/news/local/crime/article288999709.html",
+            "urlToImage": "https://media.zenfs.com/en/the_state_mcclatchy_264/bfa6cdd36cfcb7407f3d4fcb7e6b29de",
+            "publishedAt": "2024-06-05T10:00:00Z",
+            "content": "More than 40 textile companies, chemical manufacturers and other industries have for years polluted Columbias municipal water supply with forever chemicals, a class of man-made compounds that can cau… [+11435 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Anna Skinner",
+            "title": "Weather Alerts Issued in Five States, Travel Deemed 'Difficult'",
+            "description": "Winds could gust up to 60 miles per hour in some areas.",
+            "url": "https://www.newsweek.com/weather-alerts-issued-five-states-travel-deemed-difficult-1908465",
+            "urlToImage": "https://d.newsweek.com/en/full/2404244/weather-alerts-issued-travel-deemed-difficult.jpg",
+            "publishedAt": "2024-06-05T12:57:23Z",
+            "content": "High winds are making it difficult to travel by car in five Northern states as winds associated with a West Coast storm begin to move through the region.\r\nAn atmospheric river made landfall in Washin… [+3272 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Wikipedia.org"
             },
             "author": "Contributors to Wikimedia projects",
@@ -4023,19 +4048,6 @@
             "urlToImage": null,
             "publishedAt": "2024-06-05T18:28:53Z",
             "content": "Explanatory note: This page grew out of one of my investigations for Open Phil, but then I got fascinated and put a bunch of personal time into elaborating certain parts of it, and it evolved into so… [+155616 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Inman"
-            },
-            "author": "Lillian Dickerson",
-            "title": "Luxury goes global: Paris Olympics, visas and the rise of ‘set-jetting’",
-            "description": "From Golden Visa availability to the 2024 Paris Olympic Games and a trend favored by the rich that proves all the world's a stage, luxury real estate is going international in a big way this summer.",
-            "url": "https://www.inman.com/2024/07/05/luxury-goes-global-paris-olympics-visas-and-the-rise-of-set-jetting/",
-            "urlToImage": "https://assets.inman.com/wp-content/uploads/2024/07/luxury-month-2-1024x576.png",
-            "publishedAt": "2024-07-05T17:15:01Z",
-            "content": "July is Luxury Month at Inman. Tune in as we survey the evolving luxury market, explore emerging trends, and talk to top producers and influencers in the ultra-luxury space about how they got where t… [+9866 chars]"
         },
         {
             "source": {
