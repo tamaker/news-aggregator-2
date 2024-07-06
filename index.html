@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>News Aggregator 1234</title>
+    <title>News Aggregator</title>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <style>
         .news-column {
@@ -16,7 +16,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="text-center my-4">News Aggregator aaa</h1>
+        <h1 class="text-center my-4">News Aggregator<br><span class="timestamp"></span></h1>
         <div class="row">
             <div class="col-md-3 news-column">
                 <h2 class="text-center">Houston, TX</h2>
@@ -57,6 +57,7 @@
 
                     $(`#${city} .news-item`).slice(0, displayLimit).show();
                 });
+                $('.timestamp').text(new Date().toLocaleString())
             });
 
             $('.see-more').on('click', function() {

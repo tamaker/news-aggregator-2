@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://tamaker.github.io/news-aggregate-site",
   "scripts": {
-    "deploy": "gh-pages -d public"
+    "deploy": "gh-pages"
   },
   "keywords": [],
   "author": "",
