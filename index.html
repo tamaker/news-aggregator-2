@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Aggregator</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .news-column {
+            margin-bottom: 20px;
+        }
+        .news-item {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center my-4">News Aggregator###</h1>
+        <div class="row">
+            <div class="col-md-3 news-column">
+                <h2 class="text-center">Houston, TX</h2>
+                <div id="houston"></div>
+                <button class="btn btn-primary btn-block see-more" data-city="houston">See More</button>
+            </div>
+            <div class="col-md-3 news-column">
+                <h2 class="text-center">Columbia, SC</h2>
+                <div id="columbia"></div>
+                <button class="btn btn-primary btn-block see-more" data-city="columbia">See More</button>
+            </div>
+            <div class="col-md-3 news-column">
+                <h2 class="text-center">Orlando, FL</h2>
+                <div id="orlando"></div>
+                <button class="btn btn-primary btn-block see-more" data-city="orlando">See More</button>
+            </div>
+            <div class="col-md-3 news-column">
+                <h2 class="text-center">Florence, SC</h2>
+                <div id="florence"></div>
+                <button class="btn btn-primary btn-block see-more" data-city="florence">See More</button>
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(() => {
+            const displayLimit = $(window).width() >= 768 ? 5 : 3;
+
+            //$.get('/news', (data) => {
+            $.get('news.json', (data) => {
+                const cities = ['houston', 'columbia', 'orlando', 'florence'];
+                
+                cities.forEach(city => {
+                    const articles = data[city];
+                    articles.forEach((article, index) => {
+                        $(`#${city}`).append(`<p class="news-item" data-index="${index}">${article.title}</p>`);
+                    });
+
+                    $(`#${city} .news-item`).slice(0, displayLimit).show();
+                });
+            });
+
+            $('.see-more').on('click', function() {
+                const city = $(this).data('city');
+                const items = $(`#${city} .news-item`);
+                const visibleItems = items.filter(':visible').length;
+                items.slice(visibleItems, visibleItems + displayLimit).show();
+                if (items.length <= visibleItems + displayLimit) {
+                    $(this).hide();
+                }
+            });
+        });
+    </script>
+</body>
+</html>
