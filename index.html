@@ -13,7 +13,7 @@
             display: none;
         }
         .timestamp {
-            font-size: .3em; color: gray; letter-spacing: -.02em;
+            font-size: .5em; color: gray; letter-spacing: -.02em;
         }
     </style>
 </head>
@@ -60,7 +60,7 @@
 
                     $(`#${city} .news-item`).slice(0, displayLimit).show();
                 });
-                $('.timestamp').text(new Date().toLocaleString())
+                $('.timestamp').text('Last updated: ' + data.timestamp)
             });
 
             $('.see-more').on('click', function() {
