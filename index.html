@@ -16,7 +16,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="text-center my-4">News Aggregator<br><span class="timestamp"></span></h1>
+        <h1 class="text-center my-4">News Aggregator 111<br><span class="timestamp"></span></h1>
         <div class="row">
             <div class="col-md-3 news-column">
                 <h2 class="text-center">Houston, TX</h2>
@@ -57,7 +57,7 @@
 
                     $(`#${city} .news-item`).slice(0, displayLimit).show();
                 });
-                $('.timestamp').text(new Date().toLocaleString())
+                $('.timestamp').text(data.timestamp)
             });
 
             $('.see-more').on('click', function() {
