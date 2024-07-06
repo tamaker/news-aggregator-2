@@ -1,10 +1,11 @@
 var ghpages = require('gh-pages');
+require('dotenv').config();
 
 function finishedRunningCallback(){
     console.log('done. Auto-generated commit ' + new Date().toLocaleString())
 }
-ghpages.publish('/Applications/MAMP/htdocs/node/news-aggregate-file', {
+ghpages.publish(process.env.APP_PATH+'news-aggregate-file', {
     branch: 'master',
-    repo: 'https://github.com/tamaker/news-aggregator-2',
+    repo: process.env.REPO_URL,
     message: 'Auto-generated commit ' + new Date().toLocaleString()
   }, finishedRunningCallback);
