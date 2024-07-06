@@ -5,6 +5,6 @@ function finishedRunningCallback(){
 }
 ghpages.publish('/Applications/MAMP/htdocs/node/news-aggregate-file', {
     branch: 'master',
-    repo: 'https://github.com/tamaker/news-aggregate-site',
+    repo: 'https://github.com/tamaker/news-aggregator-2',
     message: 'Auto-generated commit ' + new Date().toLocaleString()
   }, finishedRunningCallback);
