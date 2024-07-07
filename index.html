@@ -53,14 +53,19 @@
                 const cities = ['houston', 'columbia', 'orlando', 'florence'];
                 
                 cities.forEach(city => {
+                    var pubDate = new Date(article.title).toLocaleString()
                     const articles = data[city];
                     articles.forEach((article, index) => {
-                        $(`#${city}`).append(`<p class="news-item" data-index="${index}">${article.title}</p>`);
+                        $(`#${city}`).append(`<p class="news-item" data-index="${index}">${article.title}<br>${pubDate}</p>`);
                     });
 
                     $(`#${city} .news-item`).slice(0, displayLimit).show();
                 });
                 $('.timestamp').text('Last updated: ' + data.timestamp)
+
+                $('body').on('click', '.news-item', function(i, val){
+                        var searchQueryString=
+                })
             });
 
             $('.see-more').on('click', function() {

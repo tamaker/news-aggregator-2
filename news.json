@@ -1,6 +1,19 @@
 {
-    "timestamp": "7/6/2024, 5:58:27 PM",
+    "timestamp": "7/7/2024, 1:10:58 AM",
     "houston": [
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Caller"
+            },
+            "author": "Katelynn Richardson",
+            "title": "Dems Want Us To Believe The Supreme Court Is ‘Out Of Control.’ Final Vote Tallies Demolish That Narrative",
+            "description": "While Democrats continue to cast the Supreme Court as \"right-wing\" and dangerous, the vote breakdowns across the term don't support their narrative.",
+            "url": "https://dailycaller.com/2024/07/05/democrats-supreme-court-final-vote-tallies/",
+            "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/07/GettyImages-2159699945-scaled-e1720015205580.jpg",
+            "publishedAt": "2024-07-06T00:19:11Z",
+            "content": "While Democrats continue to cast the Supreme Court as dangerous, the line-ups in majority decisions from the recently concluded term don’t support their narrative.\r\nThe term’s statistics reflect that… [+8246 chars]"
+        },
         {
             "source": {
                 "id": "nbc-news",
@@ -1287,19 +1300,6 @@
             "urlToImage": "https://www.catholicnewsagency.com/storage/image/texas-childrens-hospital-houston-1.jpeg?jpg",
             "publishedAt": "2024-06-24T20:00:00Z",
             "content": "In addition to Haim, Texas Childrens nurse Vanessa Sivadge shared with City Journal information indicating that the hospital was stealing from the government by billing sex-change procedures on minor… [+1064 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YES! Magazine"
-            },
-            "author": "Sara Youngblood Gregory",
-            "title": "Pride Is Power: How Queer People Are Defeating Anti-LGBTQ Laws",
-            "description": "Faced with unprecedented numbers of anti-LGBTQ bills, queer people are taking to the state houses, courts, and communities to prove that love wins.",
-            "url": "https://www.yesmagazine.org/democracy/2024/06/24/pride-laws-bills-lgbtq",
-            "urlToImage": "https://www.yesmagazine.org/wp-content/uploads/2024/06/Anti-LGBTQ-Laws_1400x840.jpg",
-            "publishedAt": "2024-06-24T19:28:42Z",
-            "content": "Were living in a historic moment of anti-LGBTQ rhetoric and political mobilization. In the urgency of the timesand the seemingly endless spiral of headlinesit can be easy to lose sight of exactly how… [+11869 chars]"
         }
     ],
     "columbia": [
@@ -1695,6 +1695,19 @@
         }
     ],
     "orlando": [
+        {
+            "source": {
+                "id": null,
+                "name": "Inside the Magic"
+            },
+            "author": "Emmanuel Detres",
+            "title": "National Weather Service Issues Stay-in Alert for Disney World Guests, Mass Casualties Reported",
+            "description": "It’s the dead of summer, so the weather isn’t too favorable for those looking to spend some time in the sun, including Walt Disney World Resort guests. Numerous casualties have been reported directly related to scorching temperatures and the heat index. Disne…",
+            "url": "https://insidethemagic.net/2024/07/disney-world-heat-index-warning-emd1/",
+            "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/05/disney-hollywood-studios-entrance-featured-ed-aguila.jpg",
+            "publishedAt": "2024-07-06T00:39:52Z",
+            "content": "It’s the dead of summer, so the weather isn’t too favorable for those looking to spend some time in the sun, including Walt Disney World Resort guests. Numerous casualties have been reported directly… [+3993 chars]"
+        },
         {
             "source": {
                 "id": "business-insider",
@@ -2981,19 +2994,6 @@
             "urlToImage": "https://pyxis.nymag.com/v1/imgs/e28/645/f66e3d263f459ba0cc161bfbd98fd78675-Greg-Kading-lede.1x.rsocial.w1200.jpg",
             "publishedAt": "2024-06-12T09:00:16Z",
             "content": "One evening last July, a convoy of SWAT vehicles and police vans pulled to a stop in front of a single-story tan stucco home in the Las Vegas suburb of Henderson, Nevada. To the areas residents it wa… [+35830 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "David K. Li",
-            "title": "Canadian swimming phenom Summer McIntosh poised for her moment on Olympics podium",
-            "description": "Not too long ago, Summer McIntosh did nothing but look up to Katie Ledecky — literally staring up to a swim cap belonging to the American icon, thumb tacked onto a bedroom wall.",
-            "url": "https://www.nbcnews.com/news/us-news/canadian-swimming-phenom-summer-mcintosh-poised-moment-olympics-podium-rcna148973",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-06/240610-Summer-McIntosh-al-1143-06c37e.jpg",
-            "publishedAt": "2024-06-11T19:10:21Z",
-            "content": "Not too long ago, Summer McIntosh did nothing but look up to Katie Ledecky literally staring up to a swim cap belonging to the American icon, thumb tacked onto a bedroom wall.\r\nNow, the Canadian wund… [+5681 chars]"
         }
     ],
     "florence": []
