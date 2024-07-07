@@ -56,7 +56,7 @@
                     
                     const articles = data[city];
                     articles.forEach((article, index) => {
-                        var pubDate = new Date(article.title).toLocaleString()
+                        var pubDate = new Date(article.publishedAt).toLocaleString()
                         $(`#${city}`).append(`<p class="news-item" data-index="${index}">${article.title}<br>${pubDate}</p>`);
                     });
 
