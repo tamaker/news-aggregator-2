@@ -1,0 +1,20 @@
+{
+  "name": "news-aggregate-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://tamaker.github.io/news-aggregate-site",
+  "scripts": {
+    "deploy": "gh-pages -d /Applications/MAMP/htdocs/node/news-aggregate-file"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
