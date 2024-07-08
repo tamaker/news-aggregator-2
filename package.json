@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://tamaker.github.io/news-aggregate-site",
+  "homepage": "https://tamaker.github.io/news-aggregator-2",
   "scripts": {
     "deploy": "gh-pages -d /Applications/MAMP/htdocs/node/news-aggregate-file"
   },
