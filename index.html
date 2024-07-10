@@ -48,7 +48,7 @@
         $(document).ready(() => {
             const displayLimit = $(window).width() >= 768 ? 5 : 3;
 
-
+            //$.get('/news', (data) => {
             $.get('news.json', (data) => {
                 const cities = ['houston', 'columbia', 'orlando', 'florence'];
                 
@@ -57,7 +57,7 @@
                     const articles = data[city];
                     articles.forEach((article, index) => {
                         var pubDate = new Date(article.publishedAt).toLocaleString()
-                        $(`#${city}`).append(`<p class="news-item" data-index="${index}">${article.title}<br><a href="${article.url}" class="btn btn-primary" target="_blank">Read more</a><br>${pubDate}</p>`);
+                        $(`#${city}`).append(`<p class="news-item" data-index="${index}">${article.title}<br>${pubDate}</p>`);
                     });
 
                     $(`#${city} .news-item`).slice(0, displayLimit).show();

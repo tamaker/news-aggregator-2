@@ -1,6 +1,266 @@
 {
-    "timestamp": "7/8/2024, 10:01:01 PM",
+    "timestamp": "7/9/2024, 7:59:18 PM",
     "houston": [
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Antonio Pequeño IV, Forbes Staff, \n Antonio Pequeño IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+            "title": "Tropical Storm Beryl: Power Outages Will Take Days To Fix As Nearly 3 Million Without Electricity",
+            "description": "At least three people in Texas have died since Tropical Storm Beryl made landfall.",
+            "url": "https://www.forbes.com/sites/antoniopequenoiv/2024/07/08/tropical-storm-beryl-power-outages-will-take-days-to-fix-as-nearly-3-million-without-electricity/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/668c7802e757f577c46f5568/0x0.jpg?format=jpg&crop=3160,2106,x0,y0,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-08T23:50:41Z",
+            "content": "Fully restoring power to millions of southeast Texas residents slammed by Tropical Storm Beryl will take days, state officials said Monday, after the region was slammed by strong winds and flooding f… [+2369 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sputnikglobe.com"
+            },
+            "author": "Sputnik International",
+            "title": "Tropical Storm Beryl Leaves 2Mln Texans Without Power, Outage Expected for Days -Officials",
+            "description": "WASHINGTON (Sputnik) - Tropical Storm Beryl has left at least 2.1 million residents in Texas without power, and recovery efforts may take several days for some residents, according to Texas officials.",
+            "url": "https://sputnikglobe.com/20240708/tropical-storm-beryl-leaves-2mln-texans-without-power-outage-expected-for-days--officials-1119302998.html",
+            "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1119302998.jpg?11193028231720481768",
+            "publishedAt": "2024-07-08T23:36:06Z",
+            "content": "Sputnik brings you all the latest breaking stories, expert analysis and videos from North and South America.\r\nhttps://sputnikglobe.com/20240708/tropical-storm-beryl-leaves-2mln-texans-without-power-o… [+1509 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Catholicnewsagency.com"
+            },
+            "author": "Kate Quiñones",
+            "title": "Catholic Charities responds to Hurricane Beryl power outages and flooding",
+            "description": "Hurricane Beryl hit Texas early Monday morning as a Category 1 hurricane, claiming two lives and causing power outages in 2.7 million homes in Houston. / Credit: EWTN News Nightly/Screenshot\n\nCNA Staff, Jul 8, 2024 / 19:15 pm (CNA).\nAfter Hurricane Beryl hit …",
+            "url": "https://www.catholicnewsagency.com/news/258221/catholic-charities-responds-to-hurricane-beryl-power-outages-and-flooding",
+            "urlToImage": "https://www.catholicnewsagency.com/storage/image/beryl.2.jpg?jpg",
+            "publishedAt": "2024-07-08T23:15:00Z",
+            "content": "What I know about Houston, we are resilient, were collaborative, we lean on our faith, she continued. We know that God has a plan, and he has us in the palm of his hands.\r\nBefore it reached Houston, … [+796 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Inside the Magic"
+            },
+            "author": "Alessia Dunn",
+            "title": "Dolly Parton Exits as Dollywood “CEO”, Theme Park Faces Uncertain Future",
+            "description": "The American treasure herself, Dolly Parton, may not hold the title that you think she does at her award-winning theme park, Dollywood. Dolly Parton, a name synonymous with rhinestone-studded suits and heartfelt country ballads, boasts a career as rich and vi…",
+            "url": "https://insidethemagic.net/2024/07/dolly-parton-dollywood-dreamer-in-cheif-ad1mmb/",
+            "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/07/Untitled-design-2024-07-08T164220.555.jpg",
+            "publishedAt": "2024-07-08T20:53:55Z",
+            "content": "The American treasure herself, Dolly Parton, may not hold the title that you think she does at her award-winning theme park, Dollywood.\r\nDolly Parton, a name synonymous with rhinestone-studded suits … [+11074 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Stacker.com"
+            },
+            "author": "Stacker",
+            "title": "Best places to live in America",
+            "description": "What exactly makes a place an ideal hometown? The answer has changed throughout the decades. In the middle of the 20th century, the suburbs were born. Post-World War II, white Americans were entranced by the idea of owning their own newly affordable homes wit…",
+            "url": "https://stacker.com/business-economy/best-places-live-america",
+            "urlToImage": "https://analytics.stacker.com/tracking/97182d8f-4c7c-4771-8466-54b7ad4d1313/pixel.gif?source=feed",
+            "publishedAt": "2024-07-08T20:46:42Z",
+            "content": "Stacker compiled a list of the best places to live using Niche data, which ranks places based on factors such as the cost of living.\r\n \r\n \r\n- Nicole Glass Photography // Shutterstock\r\nWhat exactly ma… [+22925 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Antonio Pequeño IV, Forbes Staff, \n Antonio Pequeño IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+            "title": "Millions Without Power As Tropical Storm Beryl Brings Floods, Power Outages To Southeast Texas (Photos)",
+            "description": "At least two people have died following the storm’s landfall Monday morning.",
+            "url": "https://www.forbes.com/sites/antoniopequenoiv/2024/07/08/millions-without-power-as-tropical-storm-beryl-brings-floods-power-outages-to-southeast-texas-photos/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/668c466b42e95872fd121388/0x0.jpg?format=jpg&crop=1500,1000,x0,y0,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-08T20:28:08Z",
+            "content": "Tropical Storm Beryl made landfall in southeast Texas on Monday, flooding roadways, toppling trees and killing at least twopeople as it brought wind gusts and excessive rainfall to Houston and surrou… [+2725 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Beryl floods parts of Texas, high winds cause damage and power outages",
+            "description": "Beryl made landfall just south of Houston, Texas, as a Category 1 hurricane before weakening into a tropical storm Monday. CBS News Dallas chief meteorologist Scott Padgett breaks down the forecast for North Texas and CBS News San Francisco meteorologist Zoe …",
+            "url": "https://www.cbsnews.com/video/beryl-hits-texas-flooding-high-winds-power-outages/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/07/08/26971da6-3d42-45bf-bbe5-6304a54c6bbc/thumbnail/1200x630/d95ec0a62bf8cfb2226c98161ca90cc4/cbsn-fusion-beryl-hits-houston-with-flooding-high-winds-thumbnail.jpg?v=2287029998c5246c93d6dd038eb30603",
+            "publishedAt": "2024-07-08T19:23:00Z",
+            "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Here's where Hurricane Beryl is headed next after hitting Texas coast",
+            "description": "Hurricane Beryl has made landfall south of Houston, Texas, as a Category 1 storm, bringing dangerous winds and storm surge. CBS News Texas reporter Jason Allen has more on the conditions in Texas and Weather Channel meteorologist Jim Cantore has a look at the…",
+            "url": "https://www.cbsnews.com/video/hurricane-beryl-texas-coast-where-its-headed-next/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/07/08/8ff75f0e-7b01-415f-8a46-7333cf6fca9c/thumbnail/1200x630/890eadd441746546856f668312f32703/cbsn-fusion-hurricane-beryl-texas-coast-where-its-headed-next-thumbnail.jpg?v=57e8061b2038d609da26e467de5ddfb8",
+            "publishedAt": "2024-07-08T14:35:00Z",
+            "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Hurricane Beryl impacts travelers returning from holiday weekend",
+            "description": "Hurricane Beryl, which made landfall in Texas on Monday morning, is causing travel impacts on what was expected to be another busy day for airlines. Overnight, United, American Airlines and Southwest canceled dozens of flights in Houston and other cities beca…",
+            "url": "https://www.cbsnews.com/video/hurricane-beryl-impacts-travelers-returning-from-holiday-weekend/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/07/08/b720cf51-5ad1-45f2-8f6f-3497c168f4f0/thumbnail/1200x630/badd179eb6e0bc12bc6c52fe1bf381b1/0708-cmo-beryl4thtravel-kvc-mid.jpg?v=57e8061b2038d609da26e467de5ddfb8",
+            "publishedAt": "2024-07-08T13:58:00Z",
+            "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Brian Bushard, Forbes Staff, \n Brian Bushard, Forbes Staff\n https://www.forbes.com/sites/brianbushard/",
+            "title": "Las Vegas Breaks All-Time Heat Record—Here Are The Other Major Heat Records Broken This Summer",
+            "description": "New heat records were set in dozens of U.S. cities last week, while temperatures in Death Valley climbed just one degree shy of the hottest temperature ever recorded on Earth.",
+            "url": "https://www.forbes.com/sites/brianbushard/2024/07/08/las-vegas-breaks-all-time-heat-record-here-are-the-other-major-heat-records-broken-this-summer/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6654e6c37409b0b0bf9ab337/0x0.jpg?format=jpg&crop=3000,1686,x0,y142,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-08T13:23:29Z",
+            "content": "A blistering West Coast heat wave toppled all-time record high temperatures in Las Vegas over the July 4 weekend and set daily records in dozens of citieswith forecasters warning more records could f… [+11638 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Bob Price, Bob Price",
+            "title": "1.5 Million Homes Lose Power as Cat 1 Hurricane Beryl Makes Texas Landfall",
+            "description": "More than 1.5 million Texas households were without power Monday morning as Hurricane Beryl made landfall on the state's central coast. Beryl's eye crossed the Texas coastline early Monday near Matagorda, Texas.\nThe post 1.5 Million Homes Lose Power as Cat 1 …",
+            "url": "https://www.breitbart.com/border/2024/07/08/1-5-million-homes-lose-power-as-cat-1-hurricane-beryl-makes-texas-landfall/",
+            "urlToImage": "https://media.breitbart.com/media/2024/07/GettyImages-2161059434-2-640x335.jpg",
+            "publishedAt": "2024-07-08T13:09:44Z",
+            "content": "More than 1.5 million Texas households were without power Monday morning as Hurricane Beryl made landfall on the state’s central coast. Beryl’s eye crossed the Texas coastline early Monday near Matag… [+2821 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Beryl makes landfall in Texas as Category 1 hurricane",
+            "description": "Hurricane Beryl has come ashore in Texas about 70 miles south of Houston as a Category 1 storm with damaging winds and life-threatening storm surge, the National Hurricane Center said. CBS News correspondent Janet Shamlian has more.",
+            "url": "https://www.cbsnews.com/video/beryl-makes-landfall-in-texas-as-category-1-hurricane/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/07/08/78890ac3-7e5e-48d4-8934-1997b59d67af/thumbnail/1200x630/00af9400e590be3fa8955997729265e3/cbsn-fusion-beryl-makes-landfall-in-texas-as-category-1-hurricane-thumbnail.jpg?v=57e8061b2038d609da26e467de5ddfb8",
+            "publishedAt": "2024-07-08T12:19:00Z",
+            "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Reuters",
+            "title": "What to know about Hurricane Beryl as it barrels across Texas",
+            "description": "Hurricane Beryl, the earliest Category 5 hurricane on record in the Atlantic, made landfall near Matagorda, Texas, causing significant storm surges, strong winds, and heavy rain. The storm is expected to weaken quickly. Scientists link this severe hurricane s…",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/what-to-know-about-hurricane-beryl-as-it-barrels-across-texas/articleshow/111578875.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-111579239,width-1200,height-630,imgsize-37340,overlay-economictimes/photo.jpg",
+            "publishedAt": "2024-07-08T10:54:08Z",
+            "content": "Hurricane Beryl made landfall near the coastal town of Matagorda in Texas on Monday, bringing dangerous storm surges along the coast and packing strong winds and heavy rain as it moved inland, the U.… [+4431 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Bloomberg News",
+            "title": "Doug Burgum Charms Trump and Donors to Emerge as VP Contender",
+            "description": "About this time last year, voters didn’t know the name Doug Burgum. Just to get on a debate stage with other Republican presidential primary contenders, he had to give out $20 gift cards in return for $1 campaign donations.",
+            "url": "https://financialpost.com/pmn/business-pmn/doug-burgum-charms-trump-and-donors-to-emerge-as-vp-contender",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/07/776164345.jpg",
+            "publishedAt": "2024-07-08T09:19:40Z",
+            "content": "About this time last year, voters didnt know the name Doug Burgum. Just to get on a debate stage with other Republican presidential primary contenders, he had to give out $20 gift cards in return for… [+10492 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "NBC Sports",
+            "title": "Pirates' Skenes an All-Star just 8 weeks after debut, and 7 Phillies are picked for July 16 game",
+            "description": "Pittsburgh Pirates pitcher Paul Skenes was picked for the All-Star Game on Sunday just eight weeks after his debut, and the major league-leading Philadelphia Phillies had a big league-high seven selections.",
+            "url": "https://www.nbcsports.com/mlb/news/pirates-skenes-an-all-star-just-8-weeks-after-debut-and-7-phillies-are-picked-for-july-16-game",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oI0t_2Mu7yZG3s.41LmgzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/nbcsports.com/f3ba56ae6708e42c23c2ceb2e03da1d1",
+            "publishedAt": "2024-07-08T00:10:34Z",
+            "content": "Pittsburgh Pirates pitcher Paul Skenes was picked for the All-Star Game on Sunday just eight weeks after his debut, and the major league-leading Philadelphia Phillies had a big league-high seven sele… [+5757 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Boston Globe"
+            },
+            "author": "Staff reports",
+            "title": "Pirates’ Paul Skenes is an All-Star eight weeks after his MLB debut, and the National League roster is stacked with Phillies",
+            "description": "While the rookie fireballer has been a show-stopper, MLB-best Philadelphia has a team-record seven players named to the July 16 summer classic in Arlington, Texas.",
+            "url": "https://www.bostonglobe.com/2024/07/07/sports/2024-mlb-all-star-selections/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/cFJkbTPbW5CZUJLeSn_yDQOVRmw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/LR2FFJB7WZWXNAY4SWVC4T6OII.jpg",
+            "publishedAt": "2024-07-07T23:29:22Z",
+            "content": "Chicago Cubs pitcher Shoto Imanaga joined Skenes and San Diego outfielder Jackson Merrill as the only rookie All-Stars for the July 16 game at Arlington, Texas.\r\nPhiladelphia pitchers Zack Wheeler, R… [+7065 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "Pirates' Paul Skenes an All-Star just 8 weeks after debut, and 7 Phillies picked for All-Star Game",
+            "description": "Pittsburgh pitcher Paul Skenes was picked for the All-Star Game just eight weeks after his debut, and major league-leading Philadelphia had a big league-high seven selections.",
+            "url": "https://www.foxsports.com/stories/mlb/pirates-skenes-an-allstar-just-8-weeks-after-debut-and-7-phillies-are-picked-for-july-16-game",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/06/1408/814/2024-05-31_2024-MLB-all-star-game-general-info_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2024-07-07T22:51:37Z",
+            "content": "Pittsburgh Pirates pitcher Paul Skenes was picked for the All-Star Game on Sunday just eight weeks after his debut, and the major league-leading Philadelphia Phillies had a big league-high seven sele… [+5562 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minneapolis Star Tribune"
+            },
+            "author": "RONALD BLUM",
+            "title": "Pirates' Skenes an All-Star just 8 weeks after debut, and 7 Phillies are picked for July 16 game",
+            "description": "Pittsburgh Pirates pitcher Paul Skenes was picked for the All-Star Game on Sunday just eight weeks after his debut, and the major league-leading Philadelphia Phillies had a big league-high seven selections.",
+            "url": "https://www.startribune.com/pirates-skenes-an-all-star-just-8-weeks-after-debut-and-7-phillies-are-picked-for-july-16-game/600379002/",
+            "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1719329587",
+            "publishedAt": "2024-07-07T22:05:01Z",
+            "content": "Pittsburgh Pirates pitcher Paul Skenes was picked for the All-Star Game on Sunday just eight weeks after his debut, and the major league-leading Philadelphia Phillies had a big league-high seven sele… [+5463 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -1040,269 +1300,35 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/Jocelyn-Nungaray-suspects.png",
             "publishedAt": "2024-06-26T17:27:39Z",
             "content": "Both suspects in the murder of 12-year-old Jocelyn Nungaray in Texas were part of a program that has seen expanded use under President Biden.\r\nVenezuelan migrants Johan Jose Martinez-Rangel, 22, and … [+3498 chars]"
-        },
+        }
+    ],
+    "columbia": [
         {
             "source": {
                 "id": null,
-                "name": "Boredpanda.com"
+                "name": "Forbes"
             },
-            "author": "Ugnė Lazauskaitė",
-            "title": "Passenger Exposes Man Cheating On His Wife On A Plane: “He’s Staying With Katy Tonight”",
-            "description": "“Proof that us ladies are better than damn FBI agents.”\nThe post Passenger Exposes Man Cheating On His Wife On A Plane: “He’s Staying With Katy Tonight” first appeared on Bored Panda.",
-            "url": "https://www.boredpanda.com/woman-spies-husband-openly-cheating-front-of-whole-plane/",
-            "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2024/06/woman-spies-husband-openly-cheating-front-of-whole-plane-fb.png",
-            "publishedAt": "2024-06-26T16:31:08Z",
-            "content": "An American female airplane passenger caught someone’s alleged husband joining the mile-high club with somebody who appeared to be his mistress, leading to a viral sensation and an international chea… [+3629 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Danielle Wallace",
-            "title": "House Republicans warn Garland could be brought into custody over Biden tapes ahead of inherent contempt vote",
-            "description": "Rep. Anna Paulina Luna said she will bring an inherent contempt motion to the House floor Friday, and Attorney General Merrick Garland could be detained.",
-            "url": "https://www.foxnews.com/politics/house-republicans-warn-garland-could-brought-custody-biden-tapes-inherent-contempt-vote",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/GettyImages-2156059175.jpg",
-            "publishedAt": "2024-06-26T16:17:42Z",
-            "content": "Rep. Anna Paulina Luna, R-Fla., warned that U.S. Attorney General Merrick Garland could be brought into custody for failing to deliver tapes of special counsel Rob Hur's interview of President Biden … [+7035 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Caitlyn Moorhead",
-            "title": "Retirement in Fort Worth: 4 Reasons It Costs You Less Than $50,000 a Year",
-            "description": "Everything may be bigger in Texas, but this doesn't have to include your cost of living, especially in your retirement. If you are seeking to move to warm...",
-            "url": "https://finance.yahoo.com/news/retirement-fort-worth-4-reasons-150121462.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/as3vaJGbIkwny03K6JhIow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/26e36ff047e1898c206a5da54871f499",
-            "publishedAt": "2024-06-26T15:01:21Z",
-            "content": "DenisTangneyJr / Getty Images/iStockphoto\r\nEverything may be bigger in Texas, but this doesnt have to include your cost of living, especially in your retirement. If you are seeking to move to warm we… [+7070 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investing.com"
-            },
-            "author": "Investing.com",
-            "title": "Conviva and CenterWell partner with PsychArmor to ensure healthcare providers are Veteran Ready",
-            "description": "Conviva and CenterWell partner with PsychArmor to ensure healthcare providers are Veteran Ready",
-            "url": "https://www.investing.com/news/press-releases/conviva-and-centerwell-partner-with-psycharmor-to-ensure-healthcare-providers-are-veteran-ready-93CH-3497651",
-            "urlToImage": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
-            "publishedAt": "2024-06-26T14:52:05Z",
-            "content": "Humana's Primary Care Organization employees are receiving military cultural competency training\r\n LOUISVILLE, Ky.--(BUSINESS WIRE)--Conviva Care Center and CenterWell Senior Primary Care ®, subsidia… [+6350 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-sports",
-                "name": "Fox Sports"
-            },
-            "author": "John Fanta",
-            "title": "Bracket revealed for 2024 edition of The Basketball Tournament",
-            "description": "The road to winning $1 million on the hardwood this summer has been laid out for the 64 teams participating in the 11th edition of The Basketball Tournament.",
-            "url": "https://www.foxsports.com/stories/nba/bracket-revealed-2024-edition-basketball-tournament",
-            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/06/1408/814/tbt-bracket-wide-062424.jpg?ve=1&tl=1",
-            "publishedAt": "2024-06-26T14:42:34Z",
-            "content": "The road to winning $1 million on the hardwood this summer has been laid out for the 64 teams participating in the 11th edition of The Basketball Tournament.\r\nKnown as TBT, the summertime basketball … [+10998 chars]"
+            "author": "Monica Mercuri, Contributor, \n Monica Mercuri, Contributor\n https://www.forbes.com/sites/monicamercuri/",
+            "title": "Who Are ‘The Bachelorette’ Contestants? Meet The 25 Men In Jenn Tran’s Season",
+            "description": "'The Bachelorette\" returns to ABC tonight. Who are the men vying for Jenn Tran's heart? Meet the 25 suitors who are competing in Season 21.",
+            "url": "https://www.forbes.com/sites/monicamercuri/2024/07/08/who-are-the-bachelorette-contestants-meet-the-25-men-in-jenn-trans-season/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6689ea0f034797b83ad01f8f/0x0.jpg?format=jpg&crop=1280,720,x0,y0,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-08T17:44:38Z",
+            "content": "\"The Bachelorette\" Season 21 Contestants\r\nCourtesy of ABC\r\nBachelor Nation, get ready! Tonight marks the premiere of a new season of The Bachelorette. Jenn Tran from Joey Graziadeis season is looking… [+15946 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Forbes"
             },
-            "author": "John Kostyack, Contributor, \n John Kostyack, Contributor\n https://www.forbes.com/sites/johnkostyack/",
-            "title": "Reality Check For Regulators: A Dangerous Carbon Bubble Persists",
-            "description": "Although progress has been made on climate risk disclosure, more action from regulators is needed to address a dangerous bubble of inflated carbon-intensive assets.",
-            "url": "https://www.forbes.com/sites/johnkostyack/2024/06/26/reality-check-for-regulators-a-dangerous-carbon-bubble-persists/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/667c25111af1d2f38ebbd540/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-06-26T14:31:07Z",
-            "content": "In its March 2024 climate risk disclosure rule, the SEC makes a compelling case that climate change risks faced by public companies are material to investors. It cites evidence that when a businesss … [+10621 chars]"
+            "author": "Brian Bushard, Forbes Staff, \n Brian Bushard, Forbes Staff\n https://www.forbes.com/sites/brianbushard/",
+            "title": "Las Vegas Breaks All-Time Heat Record—Here Are The Other Major Heat Records Broken This Summer",
+            "description": "New heat records were set in dozens of U.S. cities last week, while temperatures in Death Valley climbed just one degree shy of the hottest temperature ever recorded on Earth.",
+            "url": "https://www.forbes.com/sites/brianbushard/2024/07/08/las-vegas-breaks-all-time-heat-record-here-are-the-other-major-heat-records-broken-this-summer/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6654e6c37409b0b0bf9ab337/0x0.jpg?format=jpg&crop=3000,1686,x0,y142,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-08T13:23:29Z",
+            "content": "A blistering West Coast heat wave toppled all-time record high temperatures in Las Vegas over the July 4 weekend and set daily records in dozens of citieswith forecasters warning more records could f… [+11638 chars]"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": "bleacher-report",
-                "name": "Bleacher Report"
-            },
-            "author": "Paul Kasabian",
-            "title": "2024 ESPYS Awards Nominees Revealed Featuring Caitlin Clark, Mahomes, Ohtani and More",
-            "description": "Caitlin Clark, Patrick Mahomes and Shohei Ohtani are among the superstar athletes nominated for this year's ESPYS. Clark is the only athlete nominated for…",
-            "url": "https://bleacherreport.com/articles/10126081-2024-espys-awards-nominees-revealed-featuring-caitlin-clark-mahomes-ohtani-and-more",
-            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1719364633/exxy6mztluea0mqesp6t.jpg",
-            "publishedAt": "2024-06-26T12:01:12Z",
-            "content": "Melissa Tamez/Icon Sportswire via Getty Images\r\nCaitlin Clark, Patrick Mahomes and Shohei Ohtani are among the superstar athletes nominated for this year's ESPYS.\r\nClark is the only athlete nominated… [+8008 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Patrick Hipes",
-            "title": "Caitlin Clark Tops Espy Awards Nominations List; Patrick Mahomes, Shohei Ohtani Among Double Nominees",
-            "description": "Basketball star Caitlin Clark, whose stellar year included breaking an NCAA scoring record and becoming the first pick the WNBA draft, leads all athletes with three nominations for the 2024 Espy Awards that were unveiled Wednesday. Clark is nommed in three ca…",
-            "url": "http://deadline.com/2024/06/2024-espy-awards-nominations-list-1235983312/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2024/06/Caitlin-Clark.jpg?w=1024",
-            "publishedAt": "2024-06-26T12:00:00Z",
-            "content": "Basketball star Caitlin Clark, whose stellar year included breaking an NCAA scoring record and becoming the first pick the WNBA draft, leads all athletes with three nominations for the 2024 Espy Awar… [+4714 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Daily Caller"
-            },
-            "author": "Hailey Gomez",
-            "title": "‘Illegal Men Took That Opportunity’: Family Of 12-Year-Old Brutally Murdered Calls For Tighter Border Security",
-            "description": "Family members of 12-year-old Jocelyn Nungaray, who was allegedly murdered by two migrants, told Fox News how they are now calling for tighter border security.",
-            "url": "https://dailycaller.com/2024/06/26/jocelyn-nungaray-family-tighter-border-security-migrants/",
-            "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/06/Screenshot-2024-06-26-at-12.22.08%e2%80%afAM-e1719386616320.png",
-            "publishedAt": "2024-06-26T11:21:16Z",
-            "content": "Family members of 12-year-old Jocelyn Nungaray, who was allegedly sexually assaulted and murdered by two migrants, told Fox News how they are now calling for tighter border security following Nungara… [+3221 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Noah Camras",
-            "title": "Rockets Agree to Huge Trade With Nets, Now Focused on Adding Superstar in New Deal",
-            "description": "The Houston Rockets have made a huge pick trade with the Brooklyn Nets, and are now focused on making a blockbuster deal for a superstar.",
-            "url": "https://www.newsweek.com/sports/nba/rockets-agree-huge-trade-nets-now-focused-adding-superstar-new-deal-1917420",
-            "urlToImage": "https://d.newsweek.com/en/full/2416793/ime-udoka-jalen-green.jpg",
-            "publishedAt": "2024-06-26T04:04:01Z",
-            "content": "The Brooklyn Nets were very busy on Tuesday night — and the Houston Rockets appear to be on their way to getting very busy.\r\nFirst, ESPN's Adrian Wojnarowski reported Brooklyn was sending star forwar… [+4616 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Yael Halon",
-            "title": "Family of Jocelyn Nungaray pleads for heightened border security: 'We have to stop burying our kids'",
-            "description": "The mother and grandfather of Jocelyn Nungaray remember the 12-year-old who was brutally murdered and deliver a pointed message for lawmakers in an exclusive interview on \"Hannity.\"",
-            "url": "https://www.foxnews.com/media/family-jocelyn-nungaray-allegedly-pleads-heightened-border-security",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/jn4.jpg",
-            "publishedAt": "2024-06-26T03:14:31Z",
-            "content": "The family of Jocelyn Nungaray, the 12-year-old Houston girl who was allegedly murdered last week by two illegal immigrants, pleaded for a \"safer country\" and called for heightened border security to… [+3621 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Adam Shaw",
-            "title": "Border Patrol intercepts multiple illegal immigrant sex offenders in a single weekend",
-            "description": "Border Patrol agents announced the arrest of seven sex offenders with prior convictions in a single weekend at the U.S. southern border.",
-            "url": "https://www.foxnews.com/politics/border-patrol-intercepts-multiple-illegal-immigrant-sex-offenders-single-weekend",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/border-catch.jpg",
-            "publishedAt": "2024-06-25T22:30:38Z",
-            "content": "Border Patrol agents announced they have stopped multiple sex offenders in a single weekend attempting to evade them as they crossed into the United States amid continued concerns about criminals bre… [+2386 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "First Showing"
-            },
-            "author": "Alex Billington",
-            "title": "Baseball Film 'You Gotta Believe' Trailer w/ Luke Wilson & Greg Kinnear",
-            "description": "\"There's nothing that makes me feel better than watching ya'll play ball.\" \"But we're awful.\" Well Go has revealed the official trailer for a kids baseball movie called You Gotta Believe, a cheesy uplifting tale of a true story of a Little League team in 2002…",
-            "url": "https://www.firstshowing.net/2024/baseball-film-you-gotta-believe-trailer-with-luke-wilson-greg-kinnear/",
-            "urlToImage": "https://media2.firstshowing.net/firstshowing/img16/YougottabelieveFilmPostermainTW1.jpg",
-            "publishedAt": "2024-06-25T21:49:48Z",
-            "content": "by Alex BillingtonJune 25, 2024Source:YouTube\r\n\"There's nothing that makes me feel better than watching ya'll play ball.\" \"But we're awful.\" Well Go has revealed the official trailer for a kids baseb… [+2208 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Snopes.com"
-            },
-            "author": "Jordan Liles",
-            "title": "Did Trump's Policies Cause Low US Gas Prices in 2020?",
-            "description": "We previously asked this question of Patrick De Haan, head of petroleum analysis for GasBuddy.com. Here's what we learned.",
-            "url": "https://www.snopes.com//news/2024/06/25/gas-prices-march-2020-meme/",
-            "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2024/06/march_25_remember_november.jpg",
-            "publishedAt": "2024-06-25T21:02:00Z",
-            "content": "Camp, Kevin M., et al. \"From the Barrel to the Pump: The Impact of the COVID-19 Pandemic on Prices for Petroleum Products: Monthly Labor Review: U.S. Bureau of Labor Statistics.\" U.S. Bureau of Labor… [+4431 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "collectSPACE.com"
-            },
-            "author": "robert@collectspace.com (Robert Z. Pearlman)",
-            "title": "SpaceX Dragon capsule on display ahead of joining space shuttle LA exhibit",
-            "description": "What do you do when your star space shuttle is under wraps and out of view from the public for the next few years? If you are the California Science Center, you land another spacecraft.",
-            "url": "http://www.collectspace.com/news/news-062424a-spacex-dragon-california-science-center-exhibit.html",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/nzyngwekLFt4Xe7s9hJLZj-1200-80.jpg",
-            "publishedAt": "2024-06-25T18:00:21Z",
-            "content": "What do you do when your star attraction — a retired space shuttle — is under wraps and out of view from the public for the next few years? If you're the California Science Center, you land another s… [+5918 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Keith Jenkins",
-            "title": "Which colleges have produced the most No.1 NBA draft picks?",
-            "description": "Each year, the NBA draft attracts top notch talent from college basketball institutions. Which programs have produced the most No. 1 draft picks?",
-            "url": "https://www.espn.com/mens-college-basketball/story/_/id/40430005/which-colleges-produced-most-no1-nba-draft-picks",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0624%2Fr1350010_1024x576_16%2D9.jpg",
-            "publishedAt": "2024-06-25T17:40:58Z",
-            "content": "Jun 25, 2024, 01:37 PM ET\r\nNot many players can claim they were the No. 1 overall pick in the NBA draft.\r\nThe exclusive club doesn't include all-time greats like Michael Jordan, Kobe Bryant, Kevin Du… [+3159 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Michael Lee",
-            "title": "Houston area, an immigration hot spot, reeling from murder of Jocelyn Nungaray",
-            "description": "The Houston area at the center of the horrific murder of 12-year-old Jocelyn Nungaray has become an immigration hotbed, with immigrants nearly a quarter of the population.",
-            "url": "https://www.foxnews.com/politics/houston-area-immigration-hot-spot-reeling-murder-jocelyn-nungaray",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/Jocelyn-Nungaray-suspects.png",
-            "publishedAt": "2024-06-25T17:35:35Z",
-            "content": "A Houston area still reeling over the death of 12-year-old Jocelyn Nungaray has become a hot spot for both legal and illegal immigrants.\r\nAlmost a quarter of the nine-county Houston metro area is com… [+3468 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Data Skrive",
-            "title": "How to Watch Blaine Hale at the Rocket Mortgage Classic: Live Stream, TV Channel, Odds",
-            "description": "Below we help you make your best bets on Hale before he tees off in Detroit, MI by breaking down his performances in recent events.How to watch Blaine Hale at the Rocket Mortgage ClassicDate: June …",
-            "url": "https://ftw.usatoday.com/article/how-to-watch-blaine-hale-at-the-rocket-mortgage-classic-live-stream-tv-channel-odds",
-            "urlToImage": "https://ftw.usatoday.com/wp-content/uploads/sites/90/2024/06/8410721.jpg?w=1024&h=576&crop=1",
-            "publishedAt": "2024-06-25T17:15:00Z",
-            "content": "Below we help you make your best bets on Hale before he tees off in Detroit, MI by breaking down his performances in recent events.\r\nHow to watch Blaine Hale at the Rocket Mortgage Classic\r\n<ul><li>D… [+1713 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Adam Shaw",
-            "title": "Venezuelan migrants' barbaric crimes come as Maduro refuses to take back illegal immigrants from US",
-            "description": "The Venezuelan regime is still refusing to accept illegal immigrants from the U.S., even as migrants commit a slew of horrific crimes across the U.S.",
-            "url": "https://www.foxnews.com/politics/venezuelan-migrants-barbaric-crimes-come-maduro-refuses-take-back-illegal-immigrants-from-us",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/maduro-migrants.jpg",
-            "publishedAt": "2024-06-25T16:36:50Z",
-            "content": "The horrific murder of a 12-year-old girl in Texas, allegedly by two Venezuelan illegal immigrants in Houston, comes amid a continued block by the socialist Maduro regime on deportation flights of Ve… [+3485 chars]"
-        }
-    ],
-    "columbia": [
         {
             "source": {
                 "id": "usa-today",
@@ -1682,6 +1708,71 @@
         }
     ],
     "orlando": [
+        {
+            "source": {
+                "id": null,
+                "name": "WFTV Orlando"
+            },
+            "author": "Alex Walker",
+            "title": "Orlando Magic founder Pat Williams in ICU battling serious medical condition",
+            "description": "Williams recently got sick and has been battling an aggressive, viral Pneumonia in the ICU.",
+            "url": "https://www.wftv.com/news/local/orlando-magic-founder-pat-williams-icu/L7D23MS32BGYZKB6DAICJQVVFY/",
+            "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/5BnCpPY1eOWONNKkH8iLDp6ZMiA=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/BR7W5LLX2NGV7AU4DPTH5WXKCY.jpg",
+            "publishedAt": "2024-07-08T23:30:50Z",
+            "content": "ORLANDO, Fla. — Orlando Magic founder Pat Williams is in the midst of a major medical battle. He is currently in the ICU at AdventHealth Orlando.\r\nHis family has been posting about this situation on … [+1360 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Freerepublic.com"
+            },
+            "author": "CBS",
+            "title": "United Airlines Boeing flight lands in Denver after losing a wheel in Los Angeles",
+            "description": "Officials at Denver International Airport said United Flight 1001 -- a Boeing 757-200 -- landed at DIA just before 11 a.m. after a wheel on the rear landing gear fell off the plane upon takeoff at LAX. No injuries were reported among the 174 passengers or sev…",
+            "url": "https://freerepublic.com/focus/f-news/4249774/posts",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T22:44:31Z",
+            "content": "Skip to comments.\r\nUnited Airlines Boeing flight lands in Denver after losing a wheel in Los AngelesCBS ^\r\n | 7/8/24\r\n | Austin Erblat\r\nPosted on 07/08/2024 3:44:31 PM PDT by DallasBiff\r\nOfficials at… [+6549 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "disneyfoodblog.com"
+            },
+            "author": "Myranda Juarez",
+            "title": "WEATHER ALERT: Heat Advisory Issued, Expect Extreme Temps in Disney World Today",
+            "description": "Central Florida's latest severe weather advisory is currently in effect and we're breaking down everything you need to know about the warning.\nThe post WEATHER ALERT: Heat Advisory Issued, Expect Extreme Temps in Disney World Today first appeared on the disne…",
+            "url": "https://www.disneyfoodblog.com/2024/07/08/weather-alert-heat-advisory-issued-expect-extreme-temps-in-disney-world-today/",
+            "urlToImage": "https://www.disneyfoodblog.com/wp-content/uploads/2024/03/2024-mickey-shorts-cartoon-reaction-face-thumbnail-featured-image-angry-aggrivated-mad-grimace.png",
+            "publishedAt": "2024-07-08T15:56:44Z",
+            "content": "Planning and perfectly executing a Disney World vacation isn’t for the faint of heart. Things can get even more complicated when you add in a heat advisory for Central Florida.\r\n©Disney\r\nWe’re expert… [+3189 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Inside the Magic"
+            },
+            "author": "Alessia Dunn",
+            "title": "National Advisory: All Disney World Visitors Officially Required to Cancel Trips Due to Invading Safety Threat",
+            "description": "Things are getting spicy in Orlando, and if you are planning on visiting Walt Disney World, you may want to re-think that trip after the latest government update. Disney World’s Heat Problem Traveling to Walt Disney World Resort is always an exciting and magi…",
+            "url": "https://insidethemagic.net/2024/07/national-heat-advisory-disney-world-ad1mmb/",
+            "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/07/Untitled-design-100.jpg",
+            "publishedAt": "2024-07-08T15:18:49Z",
+            "content": "Things are getting spicy in Orlando, and if you are planning on visiting Walt Disney World, you may want to re-think that trip after the latest government update.\r\nCredit: Inside The Magic\r\nDisney Wo… [+8473 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Brian Bushard, Forbes Staff, \n Brian Bushard, Forbes Staff\n https://www.forbes.com/sites/brianbushard/",
+            "title": "Las Vegas Breaks All-Time Heat Record—Here Are The Other Major Heat Records Broken This Summer",
+            "description": "New heat records were set in dozens of U.S. cities last week, while temperatures in Death Valley climbed just one degree shy of the hottest temperature ever recorded on Earth.",
+            "url": "https://www.forbes.com/sites/brianbushard/2024/07/08/las-vegas-breaks-all-time-heat-record-here-are-the-other-major-heat-records-broken-this-summer/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6654e6c37409b0b0bf9ab337/0x0.jpg?format=jpg&crop=3000,1686,x0,y142,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-08T13:23:29Z",
+            "content": "A blistering West Coast heat wave toppled all-time record high temperatures in Las Vegas over the July 4 weekend and set daily records in dozens of citieswith forecasters warning more records could f… [+11638 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -2916,71 +3007,6 @@
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/06/city-council-comp.jpg?quality=75&strip=all&w=1024",
             "publishedAt": "2024-06-13T04:48:06Z",
             "content": "A Florida city council gathering burst into laughter when a poorly timed and inappropriate comment blared over the PA system while a woman was about to speak.\r\nThe hilarious incident happened about h… [+2687 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Advocate.com"
-            },
-            "author": "Jacob Ogles",
-            "title": "Pulse shooting remains a grim moment in LGBTQ+ history 8 years later",
-            "description": "It has been eight years since a Florida\r\n man swearing allegiance to ISIS entered an Orlando nightclub and killed 49 people. Most victims in the Pulse shooting\r\n were LGBTQ+, Latino or both, and the crime remains the deadliest attack on queer individuals in A…",
-            "url": "https://www.advocate.com/crime/pulse-shooting-8-years-ago",
-            "urlToImage": "https://www.advocate.com/media-library/orlando-florida-lgbtq-pulse-nightclub-mass-shooting-memorial-mourners.jpg?id=52445459&width=1200&height=600&coordinates=0%2C0%2C0%2C78",
-            "publishedAt": "2024-06-12T17:18:13Z",
-            "content": "It has been eight years since aFlorida\r\n man swearing allegiance to ISIS entered an Orlando nightclub and killed 49 people. Most victims in thePulse shooting\r\n were LGBTQ+, Latino or both, and the cr… [+5847 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Chris Eberhart",
-            "title": "Woman accused of killing her boyfriend in suitcase says her 8th lawyer has 'snotty attitude'",
-            "description": "A woman accused of stuffing her boyfriend in a suitcase and letting him die forced her eighth lawyer since February 2020 to quit in a series of bizarre behaviors.",
-            "url": "https://www.foxnews.com/us/woman-accused-killing-her-boyfriend-suitcase-says-her-eighth-lawyer-has-snotty-attitude",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/sarah-boone-thumbnail-2.jpg",
-            "publishedAt": "2024-06-12T15:25:26Z",
-            "content": "Sarah Boone is like Goldilocks trying to find the right defense lawyer. \r\nHer eighth attorney, Patricia Cashman, was \"too snotty,\" said the suspected murderer, who allegedly zipped up her boyfriend i… [+2834 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investing.com"
-            },
-            "author": "Investing.com",
-            "title": "Homeowners list while buyers hang back, pushing inventory higher",
-            "description": "Homeowners list while buyers hang back, pushing inventory higher",
-            "url": "https://www.investing.com/news/press-releases/homeowners-list-while-buyers-hang-back-pushing-inventory-higher-93CH-3481554",
-            "urlToImage": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
-            "publishedAt": "2024-06-12T15:12:05Z",
-            "content": "Home value growth eases along with competition price relief may be on the horizon\r\n<ul><li>Homeowners are breaking free from rate lock new listings rose nearly 13% since last year.</li><li>Inventory … [+14466 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Inside the Magic"
-            },
-            "author": "Alessia Dunn",
-            "title": "Universal Heads for Disney’s Throat: Monumental Expansion Approved, 4th Theme Park Incoming",
-            "description": "Walt Disney World, watch out: Epic Universe is gearing up for a major expansion before it even opens. Universal Orlando Resort is on the cusp of a transformation unlike any other with the highly anticipated arrival of Universal Epic Universe. This innovative …",
-            "url": "https://insidethemagic.net/2024/06/universal-epic-universe-expansion-ad1mmb/",
-            "urlToImage": "https://insidethemagic.net/wp-content/uploads/2023/10/Untitled-design-75.jpg",
-            "publishedAt": "2024-06-12T15:01:00Z",
-            "content": "Walt Disney World, watch out: Epic Universe is gearing up for a major expansion before it even opens.\r\nCredit: Inside The Magic\r\nUniversal Orlando Resort is on the cusp of a transformation unlike any… [+11283 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Anna Skinner",
-            "title": "Florida Rain Breaks 52-Year City Record",
-            "description": "\"Last night's storm was pretty exceptional,\" National Weather Service (NWS) meteorologist Austen Flannery told Newsweek.",
-            "url": "https://www.newsweek.com/florida-rain-breaks-52-year-sarasota-record-1911750",
-            "urlToImage": "https://d.newsweek.com/en/full/2408427/rain-breaks-52-year-old-record.jpg",
-            "publishedAt": "2024-06-12T12:55:30Z",
-            "content": "Moisture-laden storms arrived in Florida earlier this week, and the torrential rain has already broken a city record after more than 10 inches of rain fell in Sarasota on Tuesday.\r\nA plume of moistur… [+3572 chars]"
         }
     ],
     "florence": []
