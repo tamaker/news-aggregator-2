@@ -1,9 +1,9 @@
-{
+	{
   "name": "news-aggregate-file",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://tamaker.github.io/news-aggregator-2",
+  "homepage": "https:github.com/tamaker/news-aggregator-2",
   "scripts": {
     "deploy": "gh-pages -d /var/opt/node/news-aggregator-2"
   },
