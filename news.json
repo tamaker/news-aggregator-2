@@ -1,6 +1,110 @@
 {
-    "timestamp": "7/9/2024, 10:58:48 PM",
+    "timestamp": "7/10/2024, 6:38:05 AM",
     "houston": [
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Steve Helling",
+            "title": "Killer mom Andrea Yates, who drowned her 5 children in a bathtub in 2001, is rejecting the chance to go free",
+            "description": "The Post has learned that Yates, 60, lives a quiet life inside Kerrville State Hospital, which is intended for those acquitted of a criminal offense and committed by a court to receive inpatient mental health services.",
+            "url": "https://nypost.com/2024/07/09/us-news/andrea-yates-who-drowned-5-kids-is-refusing-chance-to-go-free/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/andrea-yates-children-bathtub-drowning-murder-mental-hospital-comp-00.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-07-09T10:01:29Z",
+            "content": "Andrea Yates, the Texas mom who drowned her five young children in 2001 while in the throes of postpartum psychosis, remains housed in a mental hospital  and if she gets her way, she’ll never be rele… [+3430 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sky.com"
+            },
+            "author": null,
+            "title": "At least four dead and millions without power as Hurricane Beryl tears through Texas",
+            "description": "At least four people have died after Hurricane Beryl ripped through Texas late on Monday.",
+            "url": "https://news.sky.com/story/at-least-four-dead-and-millions-without-power-as-hurricane-beryl-tears-through-texas-13175389",
+            "urlToImage": "https://e3.365dm.com/24/07/1600x900/skynews-dallas-hurricane-beryl_6621680.jpg?20240709071320",
+            "publishedAt": "2024-07-09T06:00:00Z",
+            "content": "At least four people have died after Hurricane Beryl ripped through Texas late on Monday.\r\nRussell Richardson, a 54-year-old information security officer called in to help with relief efforts, died w… [+3023 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARK VANCLEAVE Associated Press, JUAN A. LOZANO Associated Press",
+            "title": "Some power restored in Houston after Hurricane Beryl, while storm spawns tornadoes as it moves east",
+            "description": "Power has started to come back for some of the millions of homes and businesses left in the dark when Hurricane Beryl slammed into the Houston area",
+            "url": "https://abcnews.go.com/US/wireStory/power-restored-houston-after-hurricane-beryl-storm-spawns-111765360",
+            "urlToImage": "https://i.abcnewsfe.com/a/e15556d8-e81b-434f-a024-037584291c28/wirestory_8bfeeed79444eed0bf116d09f1ea7e6c_16x9.jpg?w=1600",
+            "publishedAt": "2024-07-09T04:14:33Z",
+            "content": "HOUSTON -- Power started to come back for some of the millions of homes and businesses left in the dark when Hurricane Beryl slammed into the Houston area, while the weakened storm moved east, spawni… [+6478 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Boston Globe"
+            },
+            "author": "MARK VANCLEAVE and JUAN A. LOZANO",
+            "title": "Some power restored in Houston after Hurricane Beryl, while storm spawns tornadoes as it moves east",
+            "description": "After a peak Monday of more than 2.7 million customers around Houston without power, the numbers improved to more than 2.4 million homes and businesses lacking electricity by Monday night, according to PowerOutage.us.",
+            "url": "https://www.bostonglobe.com/2024/07/09/nation/some-power-restored-houston-after-hurricane-beryl-while-storm-spawns-tornadoes-it-moves-east/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/s0AJs8JxlrZhB8Dc2pUsEFNe9Ks=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/LM2LHFOVT6SVNQG3KC4IUXQH5M.jpg",
+            "publishedAt": "2024-07-09T04:11:26Z",
+            "content": "Houstonians need to know were working around the clock so you will be safe, Houston Mayor John Whitmire said Monday at a media briefing, urging residents to also know the dangers of high water, to st… [+5727 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "The Canadian Press",
+            "title": "Some power restored in Houston after Hurricane Beryl, while storm spawns tornadoes as it moves east",
+            "description": "HOUSTON (AP) — Power started to come back for some of the millions of homes and businesses left in the dark when Hurricane Beryl slammed into the Houston area, while the weakened storm moved east, spawning suspected tornadoes and causing more damage.",
+            "url": "https://ca.news.yahoo.com/power-restored-houston-hurricane-beryl-040607811.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MVQWRun7L.3wrk1EZy513Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzc-/https://media.zenfs.com/en/cp_news_842/46976afe3afced21e28b97f7a2b5005f",
+            "publishedAt": "2024-07-09T04:06:07Z",
+            "content": "HOUSTON (AP) Power started to come back for some of the millions of homes and businesses left in the dark when Hurricane Beryl slammed into the Houston area, while the weakened storm moved east, spaw… [+6525 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minneapolis Star Tribune"
+            },
+            "author": "MARK VANCLEAVE and JUAN A. LOZANO",
+            "title": "Some power restored in Houston after Hurricane Beryl, while storm spawns tornadoes as it moves east",
+            "description": "Power started to come back for some of the millions of homes and businesses left in the dark when Hurricane Beryl slammed into the Houston area, while the weakened storm moved east, spawning suspected tornadoes and causing more damage.",
+            "url": "https://www.startribune.com/some-power-restored-in-houston-after-hurricane-beryl-while-storm-spawns-tornadoes-as-it-moves-east/600379294/",
+            "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1719329587",
+            "publishedAt": "2024-07-09T04:05:02Z",
+            "content": "HOUSTON Power started to come back for some of the millions of homes and businesses left in the dark when Hurricane Beryl slammed into the Houston area, while the weakened storm moved east, spawning … [+6491 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "The Canadian Press",
+            "title": "AP News in Brief at 12:04 a.m. EDT",
+            "description": "Beryl weakens to tropical depression after slamming into Texas as Category 1 hurricane",
+            "url": "https://ca.news.yahoo.com/ap-news-brief-12-04-040452862.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2024-07-09T04:04:52Z",
+            "content": "Beryl weakens to tropical depression after slamming into Texas as Category 1 hurricane\r\nHOUSTON (AP) After Hurricane Beryl slammed into Texas early Monday, knocking out power to nearly 3 million home… [+14673 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
         {
             "source": {
                 "id": null,
@@ -1196,110 +1300,6 @@
             "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/06/wolf-image.jpg",
             "publishedAt": "2024-06-27T00:37:33Z",
             "content": "The founders of Venture Global stand at the forefront of a US natural gas export boom thats now in question.\r\nAuthor of the article:\r\nVenture Global's Plaquemines plant is expected to begin shipments… [+17213 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Entertainment Tonight"
-            },
-            "author": "Miguel A. Melendez",
-            "title": "Bill Cobbs, 'The Bodyguard' and 'Air Bud' Actor, Dead at 90",
-            "description": "Bill Cobbs died 'peacefully' on Tuesday at his home in Riverside, California.",
-            "url": "https://www.etonline.com/bill-cobbs-the-bodyguard-and-air-bud-actor-dead-at-90-228112",
-            "urlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-06/GettyImages-463571524.jpg?h=8499dada",
-            "publishedAt": "2024-06-26T23:51:19Z",
-            "content": "Bill Cobbs -- a veteran actor best known for his roles in The Bodyguard, Air Bud and Night at the Museum -- has died. He was 90.\r\n\"We are saddened to share the passing of Bill Cobbs. On Tuesday, June… [+2321 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Life"
-            },
-            "author": "Vivian",
-            "title": "Caitlyn Clark, Coco Gauff, And More Nominated for 2024 ESPYs",
-            "description": "The 2024 nominations for the ESPYs have been released and Caitlyn Clark leads with three nominations.",
-            "url": "https://hollywoodlife.com/2024/06/26/caitlyn-clark-coco-gauff-and-more-at-2024-espys/",
-            "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2024/06/clark-coco-gauff-featue.jpg?quality=100",
-            "publishedAt": "2024-06-26T23:20:59Z",
-            "content": "ESPYs season, which arrives every summer, has returned once more to celebrate the world of sports, specifically honoring the athletes within it.\r\nWith this mornings announcement of nominees across al… [+5617 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Louis Casiano",
-            "title": "Harris County Judge Lina Hidalgo on Jocelyn Nungaray murder: 'Evil happens regardless of immigration status'",
-            "description": "Harris County Judge Lina Hidalgo cautioned against blaming immigrants over the death of a 12-year-old girl allegedly killed by two migrants.",
-            "url": "https://www.foxnews.com/us/harris-county-judge-lina-hidalgo-jocelyn-nungaray-murder-evil-happens-regardless-immigration-status",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/Hadalgo-copy.jpg",
-            "publishedAt": "2024-06-26T21:32:29Z",
-            "content": "The head of the governing body that oversees Harris County, Texas, urged leaders not to malign immigrants over the murder of a 12-year-old girl found strangled to death last week.  \r\nHarris County Ju… [+3688 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
-            "author": "Katherine Hamilton, Katherine Hamilton",
-            "title": "Man Caught on Video Abandoning Baby Near Texas Bayou",
-            "description": "The baby girl has been placed with a foster family since being abandoned near a bayou in Harris County, Texas.\nThe post Man Caught on Video Abandoning Baby Near Texas Bayou appeared first on Breitbart.",
-            "url": "https://www.breitbart.com/crime/2024/06/26/man-caught-on-video-abandoning-baby-near-texas-bayou/",
-            "urlToImage": "https://media.breitbart.com/media/2023/06/newborn-baby-feet-basket-pexels-640x335.jpg",
-            "publishedAt": "2024-06-26T20:22:45Z",
-            "content": "On June 15, a man was caught on camera abandoning a newborn baby on a walking trail near a bayou in Harris County, Texas, Click2Houston reported.\r\nThe baby was discovered wrapped in a towel around 9:… [+2291 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Daily Dot"
-            },
-            "author": "Lindsey Weedston",
-            "title": "Bryan Stacy: cheater or falsely accused victim?",
-            "description": "Bryan Stacy, Fort Worth business owner, is a man accused of cheating on his wife after caught on video flirting on a plane. A TikTok user by the name of Caroline Rened filmed him flirting with a woman named Katy on her flight and spotted a wedding ring on his…",
-            "url": "https://www.dailydot.com/memes/bryan-stacy-fort-worth/",
-            "urlToImage": "https://uploads.dailydot.com/2024/06/bryan-stacy-fort-worth.jpg?auto=compress&fm=pjpg",
-            "publishedAt": "2024-06-26T19:37:44Z",
-            "content": "Bryan Stacy, Fort Worth business owner, is a man accused of cheating on his wife after caught on video flirting on a plane. A TikTok user by the name of Caroline Rened filmed him flirting with a woma… [+3927 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Science Daily"
-            },
-            "author": null,
-            "title": "How do our memories last a lifetime? New study offers a biological explanation",
-            "description": "A new study by a team of international researchers has uncovered a biological explanation for long-term memories. It centers on the discovery of the role of a molecule, KIBRA, that serves as a 'glue' to other molecules, thereby solidifying memory formation.",
-            "url": "https://www.sciencedaily.com/releases/2024/06/240626152118.htm",
-            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-            "publishedAt": "2024-06-26T19:21:18Z",
-            "content": "Whether it's a first-time visit to a zoo or when we learned to ride a bicycle, we have memories from our childhoods kept well into adult years. But what explains how these memories last nearly an ent… [+4518 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Greg Norman, Hillary Vaughn",
-            "title": "House Democrats react to Jocelyn Nungaray murder: ‘I don’t know who she is’",
-            "description": "House Democrats' reactions to the Jocelyn Nungaray murder have been caught on video Wednesday, with one lawmaker saying that \"I don’t know who she is.\"",
-            "url": "https://www.foxnews.com/politics/house-democrats-react-jocelyn-nungaray-murder-i-dont-know-who-she-is",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/Summer-Lee.png",
-            "publishedAt": "2024-06-26T18:57:35Z",
-            "content": "House Democrats have been caught on video apparently downplaying the influence of illegal immigration in the murder of Houston 12-year-old Jocelyn Nungaray, with one telling FOX Business that \"I dont… [+3106 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Michael Lee",
-            "title": "Tracking program used by Jocelyn Nungaray murder suspects has expanded under Biden",
-            "description": "Both suspects in the murder of 12-year-old Jocelyn Nungaray in Texas were outfitted with GPS ankle bracelet devices as part of the ICE Alternatives to Detention program.",
-            "url": "https://www.foxnews.com/politics/tracking-program-used-jocelyn-nungaray-murder-suspects-has-expanded-under-biden",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/Jocelyn-Nungaray-suspects.png",
-            "publishedAt": "2024-06-26T17:27:39Z",
-            "content": "Both suspects in the murder of 12-year-old Jocelyn Nungaray in Texas were part of a program that has seen expanded use under President Biden.\r\nVenezuelan migrants Johan Jose Martinez-Rangel, 22, and … [+3498 chars]"
         }
     ],
     "columbia": [
@@ -1708,6 +1708,19 @@
         }
     ],
     "orlando": [
+        {
+            "source": {
+                "id": null,
+                "name": "WFTV Orlando"
+            },
+            "author": null,
+            "title": "Hackers claim massive data heist of Florida Health Department system",
+            "description": "The Florida Department of Health is responding to what they’ve called a “possible cyber incident.”",
+            "url": "https://www.wftv.com/news/local/hackers-claim-massive-data-heist-florida-health-department-system/AWOZV35GJFAG3F76QLICWYZJMQ/",
+            "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/jjF_uS7jzKzaoDqgY5NwqyUyCow=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/XFJTBPJUPRERXGUFEZPDSJILOI.png",
+            "publishedAt": "2024-07-09T03:06:44Z",
+            "content": "ORLANDO, Fla. — The Florida Department of Health is responding to what theyve called a possible cyber incident.\r\nThe Department holds vital records like birth certificates, death certificates and mar… [+2670 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -2994,19 +3007,6 @@
             "urlToImage": "https://www.rawstory.com/media-library/former-u-s-president-donald-trump-afp.jpg?id=25444803&width=1200&height=600&coordinates=0%2C24%2C0%2C25",
             "publishedAt": "2024-06-13T10:45:00Z",
             "content": "The breach troubled Harris for two reasons. First, it involved the companys cloud a virtual storehouse typically containing an organizations most sensitive data. Second, the attackers had pulled it o… [+34849 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ProPublica"
-            },
-            "author": "by Renee Dudley, with research by Doris Burke",
-            "title": "Microsoft Chose Profit Over Security and Left U.S. Government Vulnerable to Russian Hack, Whistleblower Says",
-            "description": "by Renee Dudley, with research by Doris Burke \n \n\n \n \n ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as they’re published.\n\n \n\n \n\n \n \n\n\n\n \nMicrosoft hired Andrew Harris for his extraordina…",
-            "url": "https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers",
-            "urlToImage": "https://img.assets-d.propublica.org/v5/images/20240416-KAHN-Tech-Project-0189_maxWidth_3000_maxHeight_3000_ppi_72_quality_95_embedColorProfile_true-1.jpg?crop=focalpoint&fit=crop&fp-x=0.4719&fp-y=0.491&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=8f5dd56d72a8fc3fb2ed591a51e87ecc",
-            "publishedAt": "2024-06-13T09:00:00Z",
-            "content": "ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as theyre published.\r\nMicrosoft hired Andrew Harris for his extraordinary skill in… [+36458 chars]"
         }
     ],
     "florence": []
