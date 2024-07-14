@@ -1,6 +1,45 @@
 {
-    "timestamp": "7/14/2024, 12:58:51 PM",
+    "timestamp": "7/14/2024, 1:15:04 PM",
     "houston": [
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minneapolis Star Tribune"
+            },
+            "author": "KEVIN McGILL",
+            "title": "A popular tour guide's death leads to more scrutiny of border issues",
+            "description": "New Orleans' oldest neighborhood and a place where residents of historic homes and owners of tourist-dependent restaurants and clubs have long worried about recurring violent crime.",
+            "url": "https://www.startribune.com/a-popular-tour-guides-death-leads-to-more-scrutiny-of-border-issues/600380512/",
+            "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1720545114",
+            "publishedAt": "2024-07-13T17:08:01Z",
+            "content": "Kristie Thibodeaux's gunfire death made headlines first because it happened in the French Quarter New Orleans' oldest neighborhood and a place where residents of historic homes and owners of tourist-… [+4235 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kyle Morris",
+            "title": "Murder of Jocelyn Nungaray inspires Cruz, Nehls border bill cracking down on DHS",
+            "description": "Sen. Ted Cruz, R-Texas, in the Senate and Rep. Troy Nehls, R-Texas, introduced a bill to improve the detention and tracking of illegal immigrants who enter the United States.",
+            "url": "https://www.foxnews.com/politics/gop-lawmakers-introduce-bill-improve-detention-tracking-illegal-immigrants-entering-us",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/Ted-Cruz-Jocelyn-Nungaray-Troy-Nehls.jpg",
+            "publishedAt": "2024-07-13T17:02:45Z",
+            "content": "Two Republican lawmakers have introduced a measure to improve the detention and tracking of illegal immigrants who enter the United States.\r\nThe Justice for Jocelyn Act was introduced by Sen. Ted Cru… [+3965 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -1261,45 +1300,6 @@
             "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/cFJkbTPbW5CZUJLeSn_yDQOVRmw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/LR2FFJB7WZWXNAY4SWVC4T6OII.jpg",
             "publishedAt": "2024-07-07T23:29:22Z",
             "content": "Chicago Cubs pitcher Shoto Imanaga joined Skenes and San Diego outfielder Jackson Merrill as the only rookie All-Stars for the July 16 game at Arlington, Texas.\r\nPhiladelphia pitchers Zack Wheeler, R… [+7065 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-sports",
-                "name": "Fox Sports"
-            },
-            "author": null,
-            "title": "Pirates' Paul Skenes an All-Star just 8 weeks after debut, and 7 Phillies picked for All-Star Game",
-            "description": "Pittsburgh pitcher Paul Skenes was picked for the All-Star Game just eight weeks after his debut, and major league-leading Philadelphia had a big league-high seven selections.",
-            "url": "https://www.foxsports.com/stories/mlb/pirates-skenes-an-allstar-just-8-weeks-after-debut-and-7-phillies-are-picked-for-july-16-game",
-            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/06/1408/814/2024-05-31_2024-MLB-all-star-game-general-info_16x9.jpg?ve=1&tl=1",
-            "publishedAt": "2024-07-07T22:51:37Z",
-            "content": "Pittsburgh Pirates pitcher Paul Skenes was picked for the All-Star Game on Sunday just eight weeks after his debut, and the major league-leading Philadelphia Phillies had a big league-high seven sele… [+5562 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Minneapolis Star Tribune"
-            },
-            "author": "RONALD BLUM",
-            "title": "Pirates' Skenes an All-Star just 8 weeks after debut, and 7 Phillies are picked for July 16 game",
-            "description": "Pittsburgh Pirates pitcher Paul Skenes was picked for the All-Star Game on Sunday just eight weeks after his debut, and the major league-leading Philadelphia Phillies had a big league-high seven selections.",
-            "url": "https://www.startribune.com/pirates-skenes-an-all-star-just-8-weeks-after-debut-and-7-phillies-are-picked-for-july-16-game/600379002/",
-            "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1719329587",
-            "publishedAt": "2024-07-07T22:05:01Z",
-            "content": "Pittsburgh Pirates pitcher Paul Skenes was picked for the All-Star Game on Sunday just eight weeks after his debut, and the major league-leading Philadelphia Phillies had a big league-high seven sele… [+5463 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Luke Garrett",
-            "title": "Beryl is set to gain hurricane strength as it bears down on the Texas coast",
-            "description": "Beryl is set to strengthen into a hurricane before making landfall along the Texas coast early Monday morning.",
-            "url": "https://www.npr.org/2024/07/07/nx-s1-5032054/beryl-hurricane-texas-coast-prepares",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8667x4875+0+446/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2F2c%2F45db8241474bb6dfa27f3a2a6ac2%2Fgettyimages-2161025110.jpg",
-            "publishedAt": "2024-07-07T20:07:21Z",
-            "content": "Beryl is set to make landfall early Monday morning along the Texas coast as the storm regains hurricane-level strength in the Gulf of Mexico, according to the National Weather Service. On Sunday, rai… [+3277 chars]"
         }
     ],
     "columbia": [
