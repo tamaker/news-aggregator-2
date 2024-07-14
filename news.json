@@ -1,6 +1,929 @@
 {
-    "timestamp": "7/10/2024, 6:38:05 AM",
+    "timestamp": "7/14/2024, 12:55:29 PM",
     "houston": [
+        {
+            "source": {
+                "id": null,
+                "name": "Freerepublic.com"
+            },
+            "author": "Phys.org",
+            "title": "Beryl sets off alarm bells among hurricane experts",
+            "description": "This year, hurricane season has taken off with a ferocious, ominous start thanks to Beryl—the earliest Category 5 hurricane ever recorded, with winds topping out at 165 mph. Beryl bulldozed the Caribbean, made its way through Mexico and then plowed into Texas…",
+            "url": "https://freerepublic.com/focus/f-chat/4250927/posts",
+            "urlToImage": null,
+            "publishedAt": "2024-07-13T16:53:55Z",
+            "content": "Skip to comments.\r\nBeryl sets off alarm bells among hurricane expertsPhys.org ^\r\n | 06.10 .2024\r\n | Nisha Gopalan\r\nPosted on 07/13/2024 9:53:55 AM PDT by ChicagoConservative27\r\nThis year, hurricane s… [+6690 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Freerepublic.com"
+            },
+            "author": "Legal Insurrection",
+            "title": "Biden’s Energy Dept. Rejected Houston’s Request to Improve Grid a Year Before Hurricane Beryl",
+            "description": "CenterPoint’s project would have used the money “to fund high wind and flood mitigation projects.” President Joe Biden’s Department of Energy rejected Houston’s request to strengthen its energy grid in 2023. Houston entered day five of power outages after Hur…",
+            "url": "https://freerepublic.com/focus/f-chat/4250902/posts",
+            "urlToImage": null,
+            "publishedAt": "2024-07-13T14:58:58Z",
+            "content": "Skip to comments.\r\nBidens Energy Dept. Rejected Houstons Request to Improve Grid a Year Before Hurricane BerylLegal Insurrection ^\r\n | 12 Jul, 2024\r\n | Mary Chastain \r\nPosted on 07/13/2024 7:58:58 AM… [+4317 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Capitalbnews.org"
+            },
+            "author": "Adam Mahoney",
+            "title": "Crypto Mining Is Creating an Environmental Crisis for Black Texas Communities",
+            "description": "Energy companies plan to build new fossil fuel plants in communities of color to meet the demands of crypto mining.",
+            "url": "https://capitalbnews.org/crypto-mining-natural-gas-black-communities/",
+            "urlToImage": "https://truthout.org/app/uploads/2024/07/GettyImages-1235926785-3-scaled.jpg",
+            "publishedAt": "2024-07-13T14:51:14Z",
+            "content": "This story was originally published by Capital B. \r\nBitcoin is more than just a shiny new way to lose money. Its also fueling Texas energy struggles as the state prepares for another year of record-b… [+9952 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Mike Axisa",
+            "title": "2024 MLB Mock Draft: Reds play it safe with Charlie Condon at No. 2, JJ Wetherholt falls out of top five",
+            "description": "The draft begins Sunday, July 14",
+            "url": "https://www.cbssports.com/mlb/news/2024-mlb-mock-draft-reds-play-it-safe-with-charlie-condon-at-no-2-jj-wetherholt-falls-out-of-top-five/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/07/12/e46eaea4-1ce9-4361-a3b8-747b42b5443c/thumbnail/1200x675/dfb6f73a2737c93cc320537397b16adf/charlie-condon-georgia-g.jpg",
+            "publishedAt": "2024-07-13T13:00:45Z",
+            "content": "The 2024 MLB Draft is only a day away. Three years ago, MLB pushed the draft back from the first week of June to the All-Star break in an effort to better market the event, and it will remain there m… [+23891 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Dot"
+            },
+            "author": "Braden Bjella",
+            "title": "‘This is more than just a normal thing that happened’: Texas resident thinks Houston was actually hit with an EMP. He’s not alone",
+            "description": "Hurricane Beryl recently made its way through Houston, Texas.\n\n\nThis has resulted in a litany of problems for city residents. For example, many have been without power and lacked proper resources to find which areas have electricity, forcing them to rely on W…",
+            "url": "https://www.dailydot.com/?p=1620623",
+            "urlToImage": "https://uploads.dailydot.com/2024/07/Houston-EMP.jpg?auto=compress&fm=pjpg",
+            "publishedAt": "2024-07-13T13:00:00Z",
+            "content": "Hurricane Beryl recently made its way through Houston, Texas.\r\nThis has resulted in a litany of problems for city residents. For example, many have been without power and lacked proper resources to f… [+4011 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JAMES POLLARD Associated Press",
+            "title": "Houston community groups strain to keep feeding and cooling a city battered by repeat storms",
+            "description": "In the wake of Hurricane Beryl, fresh food and cool air are coming from Houston community groups that have honed their disaster services in a city frequently battered by extreme weather",
+            "url": "https://abcnews.go.com/US/wireStory/houston-community-groups-strain-feeding-cooling-city-battered-111904253",
+            "urlToImage": "https://i.abcnewsfe.com/a/b6cc96ff-9949-4ce1-a7bf-c9a6e19e5ea7/wirestory_054704e2de841b8d58c4c84b078d01a6_16x9.jpg?w=1600",
+            "publishedAt": "2024-07-13T04:14:46Z",
+            "content": "HOUSTON -- The deafening hum of a generator was a welcome noise Thursday evening at a Houston independent living center where several dozen seniors had lost power in the wake of Hurricane Beryl.\r\nJoe… [+5240 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minneapolis Star Tribune"
+            },
+            "author": "JAMES POLLARD",
+            "title": "Houston community groups strain to keep feeding and cooling a city battered by repeat storms",
+            "description": "The deafening hum of a generator was a welcome noise Thursday evening at a Houston independent living center where several dozen seniors had lost power in the wake of Hurricane Beryl.",
+            "url": "https://www.startribune.com/houston-community-groups-strain-to-keep-feeding-and-cooling-a-city-battered-by-repeat-storms/600380443/",
+            "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1720545114",
+            "publishedAt": "2024-07-13T04:07:07Z",
+            "content": "HOUSTON The deafening hum of a generator was a welcome noise Thursday evening at a Houston independent living center where several dozen seniors had lost power in the wake of Hurricane Beryl.\r\nJoe an… [+5278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Katherine Hamilton, Katherine Hamilton",
+            "title": "‘Satanic’ Statue at University of Houston Beheaded During Hurricane Beryl",
+            "description": "An 18-foot horned statue featured at the University of Houston — and dubbed by pro-life groups as \"Satanic\" — was beheaded during Hurricane Beryl on Monday, the New York Times reported.\nThe post ‘Satanic’ Statue at University of Houston Beheaded During Hurric…",
+            "url": "https://www.breitbart.com/politics/2024/07/12/satanic-statue-university-houston-beheaded-hurricane-beryl/",
+            "urlToImage": "https://media.breitbart.com/media/2024/07/University-of-Houston-pro-abortion-statue-havah-satanic-file-Feb24-getty-640x335.jpg",
+            "publishedAt": "2024-07-13T02:15:40Z",
+            "content": "An 18-foot horned statue featured at the University of Houston and dubbed by pro-life groups as “Satanic” was beheaded during Hurricane Beryl on Monday, the New York Timesreported.\r\nThe sculpture is … [+5363 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Meredith Garofalo",
+            "title": "Hurricane Beryl sets multiple records as 1st major storm of 2024 Atlantic season (video)",
+            "description": "What started as a tropical wave off the coast of Africa has now set multiple records and claimed the spot as the first hurricane to develop during the 2024 Atlantic season.",
+            "url": "https://www.space.com/hurricane-beryl-1st-storm-hurricane-season-2024-records",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/eXKEx8iQKn28uM559VCJEW-1200-80.jpg",
+            "publishedAt": "2024-07-12T21:00:53Z",
+            "content": "What started as a tropical wave off the coast of Africa more than two weeks ago has now set records and claimed the spot as the first hurricane to develop during the 2024 Atlantic season.\r\nHurricanes… [+4850 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Li Cohen",
+            "title": "Watch: Satellite video tracks Beryl's deadly 2-week journey",
+            "description": "The 2024 Atlantic hurricane season got off to a deadly start as Hurricane Beryl tore across the Caribbean, Mexico and eventually the U.S.",
+            "url": "https://www.cbsnews.com/news/watch-hurricane-beryl-path-atlantic-caribbean-us/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/07/12/0697b3b7-ef55-448a-a77c-4684fe0c3d1f/thumbnail/1200x630/29dac6f229f0ea5583929715f1164c75/202407011800-202407012130-g16-meso-band2geocolorglm-breathtaking-beryl-lightning-nolabels0.png?v=bc37a4cad39dacb7e4b48f11b71f691b",
+            "publishedAt": "2024-07-12T17:15:02Z",
+            "content": "Beryl, which formed in the Atlantic Ocean at the end of June, quickly strengthened to become a multiple-record-breaking hurricane that left a trail of death and disaster across multiple countries. Ov… [+6187 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Freerepublic.com"
+            },
+            "author": "texasscorecard.com",
+            "title": "Patrick: Documentation Proves Biden Lied About Granting Major Disaster Declaration [Beryl - Texas]",
+            "description": "White House documentation shows that President Biden ended the Major Disaster Declaration required for FEMA aid the same day he granted it. ===================================================================== Acting Gov. Dan Patrick has levied accusations ag…",
+            "url": "https://freerepublic.com/focus/f-news/4250669/posts",
+            "urlToImage": null,
+            "publishedAt": "2024-07-12T15:21:07Z",
+            "content": "Skip to comments.\r\nPatrick: Documentation Proves Biden Lied About Granting Major Disaster Declaration [Beryl - Texas]texasscorecard.com ^\r\n | JULY 11, 2024\r\n | Will Biagini \r\nPosted on 07/12/2024 8:2… [+3766 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Life"
+            },
+            "author": "Elisabeth McGowan",
+            "title": "ESPY Awards 2024: The Full List of This Year’s Winners",
+            "description": "The annual ESPY Awards honors the top athletes and sports performances of the year. See the complete list of winners, here.",
+            "url": "https://hollywoodlife.com/feature/espy-awards-2024-winners-5296744/",
+            "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2024/07/GettyImages-2161692143_5f713e-e1720790853203.jpeg?quality=100",
+            "publishedAt": "2024-07-12T13:56:17Z",
+            "content": "Image Credit: Getty Images\r\nThe 2024 ESPY Awards honored the best and brightest in sports. From Patrick Mahomes to Simone Biles, the top athletes in every sport were recognized for their achievements… [+3550 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Freerepublic.com"
+            },
+            "author": "Hyperallergic",
+            "title": "Artist’s Monument to Women Beheaded at University of Houston",
+            "description": "It’s unclear whether the attack on Shahzia Sikander’s sculpture is related to protests by anti-abortion groups, which previously denounced it as “satanic.” Shahzia Sikander's sculpture \"Witness\" after vandalism on the University of Houston campus (© Shahzia S…",
+            "url": "https://freerepublic.com/focus/f-chat/4250625/posts",
+            "urlToImage": null,
+            "publishedAt": "2024-07-12T13:21:32Z",
+            "content": "Skip to comments.\r\nArtists Monument to Women Beheaded at University of HoustonHyperallergic ^\r\n | JULY 9, 2024\r\n | Rhea Nayyar\r\nPosted on 07/12/2024 6:21:32 AM PDT by Red Badger\r\nIts unclear whether … [+8744 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Roanoke Times"
+            },
+            "author": "Lee National Newsroom, The Associated Press",
+            "title": "Biden vows to remain in race; deadly helicopter crash off Hawaiian island of Kauai | Hot off the Wire podcast",
+            "description": " Get the latest national, international, sports and entertainment news on our daily podcast.",
+            "url": "https://roanoke.com/news/nation-world/biden-vows-to-remain-in-race-deadly-helicopter-crash-off-hawaiian-island-of-kauai-hot/article_67031b72-3dce-59e9-a463-c6ce8ddd774d.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/9/40/940a64b9-d7ea-50b3-8eb1-7c3454952089/669090edc5160.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2024-07-12T13:15:00Z",
+            "content": "On this version of Hot off the Wire:\r\nWASHINGTON (AP) President Joe Biden used his closely watched anticipated news conference Thursday to deliver a forceful defense of his foreign and domestic polic… [+3330 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Dot"
+            },
+            "author": "Braden Bjella",
+            "title": "‘I’d clock out expeditiously’: Houston woman tries to get Whataburger in aftermath of Hurricane Beryl. It backfires",
+            "description": "Hurricane Beryl has deeply impacted residents of Houston, Texas. While power companies have promised that they are trying to return to normal services as fast as possible, many in the city are still without power.\n\n\n“Power outages peaked at 2.7 million custom…",
+            "url": "https://www.dailydot.com/news/houston-hurricane-beryl-whataburger/",
+            "urlToImage": "https://uploads.dailydot.com/2024/07/whataburger-long-line.jpg?auto=compress&fm=pjpg",
+            "publishedAt": "2024-07-12T13:00:00Z",
+            "content": "Hurricane Beryl has deeply impacted residents of Houston, Texas. While power companies have promised that they are trying to return to normal services as fast as possible, many in the city are still … [+3250 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Hundreds of thousands still without power in Texas after Hurricane Beryl made landfall Monday",
+            "description": "In Houston, Texas, hundreds of thousands still do not have power amid intense heat after Hurricane Beryl made landfall earlier this week. Houston's main utility provider is accused of not being ready for the storm.",
+            "url": "https://www.cbsnews.com/video/hundreds-of-thousands-still-without-power-in-texas-after-hurricane-beryl-made-landfall-monday/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/07/12/921a5b30-fd08-4b15-b651-03691595ad0c/thumbnail/1200x630/8d77b49a306e277b6fadfe77d4436279/0712-cmo-heatimpact-shamlian-mid.jpg?v=bc37a4cad39dacb7e4b48f11b71f691b",
+            "publishedAt": "2024-07-12T12:41:00Z",
+            "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Dave Vellante",
+            "title": "Dave Vellante’s Breaking Analysis: The complete collection",
+            "description": "Breaking Analysis is a weekly editorial program combining knowledge from SiliconANGLE’s theCUBE with spending data from Enterprise Technology Research. Branded as theCUBE Insights, Powered by ETR, the program is our opportunity to share independent, unfiltere…",
+            "url": "https://siliconangle.com/2024/07/12/dave-vellantes-breaking-analysis-complete-collection/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/dave-breaking-analysis.png",
+            "publishedAt": "2024-07-12T10:33:12Z",
+            "content": "Breaking Analysis is a weekly editorial program combining knowledge from SiliconANGLEs theCUBE with spending data from Enterprise Technology Research.\r\nBranded as theCUBE Insights, Powered by ETR, th… [+182838 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boredpanda.com"
+            },
+            "author": "Gabija Palšytė",
+            "title": "Woman Chases Neighborhood Boy Down The Street After Catching Him Kicking Her House",
+            "description": "After catching a neighborhood boy wreaking havoc on her home, this woman didn't hesitate to channel her inner tattle tale.\nThe post Woman Chases Neighborhood Boy Down The Street After Catching Him Kicking Her House first appeared on Bored Panda.",
+            "url": "https://www.boredpanda.com/kid-kicks-house-revenge/",
+            "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2024/07/kid-kicks-house-revenge-fb.png",
+            "publishedAt": "2024-07-12T09:18:44Z",
+            "content": "When you own a home, you get to decide exactly what kind of neighbor you want to be. Will you bake brownies for every new family that moves onto your street? Or will you shout at children who step fo… [+5322 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Insurance Journal"
+            },
+            "author": "Don Jergler",
+            "title": "CBO Says Mortgage Subsidy Cost from Flood Damage to Hit $395M by 2053",
+            "description": "Climate change is expected to increase the frequency and severity of floods in the U.S., posing greater risks to homeowners and mortgage lenders—and since flood damage tends to lower the market value of affected homes, it’s more likely that homeowners …",
+            "url": "https://www.insurancejournal.com/news/national/2024/07/12/783417.htm",
+            "urlToImage": "https://www.insurancejournal.com/img/social/opengraph/ij-social-trends-1200x630.png",
+            "publishedAt": "2024-07-12T05:47:54Z",
+            "content": "Climate change is expected to increase the frequency and severity of floods in the U.S., posing greater risks to homeowners and mortgage lendersand since flood damage tends to lower the market value … [+5203 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lawyersgunsmoneyblog.com"
+            },
+            "author": "Scott Lemieux",
+            "title": "Nation’s fourth largest city still largely without power",
+            "description": "At least I assume the weather in Houston is relatively moderate at this time of year? When the power goes out in Houston, some neighborhoods are filled with the sound of gas-powered backup generators, creating an instant sonic guide to the city’s social divis…",
+            "url": "https://www.lawyersgunsmoneyblog.com/2024/07/nations-fourth-largest-city-still-largely-without-power",
+            "urlToImage": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2024/07/Screenshot-2024-07-11-at-7.22.21-PM-1024x517.png",
+            "publishedAt": "2024-07-12T02:23:18Z",
+            "content": "When the power goes out in Houston, some neighborhoods are filled with the sound of gas-powered backup generators, creating an instant sonic guide to the citys social divisions.\r\nIn wealthier parts o… [+1267 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Millions in Texas still dealing with power outages after Beryl",
+            "description": "In Texas, where Hurricane Beryl made its U.S. landfall earlier this week, more than a million homes and businesses in the Houston area are still without power. The city also remains under an excessive heat warning. CBS News correspondent Janet Shamlian has th…",
+            "url": "https://www.cbsnews.com/video/millions-in-texas-still-dealing-with-power-outages-after-beryl/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/07/12/ac45cd02-b21a-4d62-83a9-25ac2bf63344/thumbnail/1200x630/7990404b53f59c6eab4e96575e0ddb06/cbsn-fusion-millions-in-texas-still-dealing-with-power-outages-after-beryl-thumbnail.jpg?v=bc37a4cad39dacb7e4b48f11b71f691b",
+            "publishedAt": "2024-07-12T01:36:00Z",
+            "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Ruiz",
+            "title": "Texas man captured after deputy's ambush shooting death following Little Caesars' attack: sheriff",
+            "description": "Ronald “Ronnie\" Palmer Jr. captured after day-long manhunt in Houston area following ambush murder of Harris County Deputy Fernando Esqueda, sheriff says.",
+            "url": "https://www.foxnews.com/us/us-texas-man-captured-deputys-ambush-shooting-death-little-caesars-attack-sheriff",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/Little-Ceasers-Esqueda-split.jpg",
+            "publishedAt": "2024-07-12T01:06:36Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+3465 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "IndieWire"
+            },
+            "author": "Wilson Chapman",
+            "title": "Shelley Duvall’s Best Performances, From ‘The Shining’ to ‘3 Women’",
+            "description": "Best known for her iconic role in Stanley Kubrick's \"The Shining,\" Shelley Duvall was a quiet but powerful force of '70s cinema.",
+            "url": "https://www.indiewire.com/gallery/best-shelley-duvall-movies/",
+            "urlToImage": "https://www.indiewire.com/wp-content/uploads/2024/07/Shelley-Duvall-Best-Performances.png?w=650",
+            "publishedAt": "2024-07-12T00:00:11Z",
+            "content": "From the moment she appeared on screen, Shelley Duvall had an inherent, if unconventional, star quality. Recruited by Robert Altman to play a supporting role in his bizarro “M*A*S*H” follow-up “Brews… [+12733 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Ruiz",
+            "title": "Texas sheriff releases new images of person of interest in deadly deputy ambush as manhunt continues",
+            "description": "Texas' Gov. Greg Abbott has announced that state authorities are joining the manhunt for the person of interest in the fatal ambush of a Harris County deputy.",
+            "url": "https://www.foxnews.com/us/texas-sheriff-releases-new-images-person-interest-deadly-deputy-ambush-manhunt-continues",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/Little-Ceasers-Esqueda-split.jpg",
+            "publishedAt": "2024-07-11T23:08:22Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+3292 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KPBS"
+            },
+            "author": "Jade Hindmon, Julianna Domingo, Elaine Alfaro, Beth Accomando, Julia Dixon Evans",
+            "title": "The legacy of the late playwright and philanthropist Dea Hurston",
+            "description": "Playwright, philanthropist and theater icon Dea Hurston died on July 7. On Thursday we discuss Hurston's legacy. Also, a look at how the Old Globe is engaging the community. Then, a preview of weekend arts events ahead.",
+            "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/the-legacy-of-the-late-playwright-and-philanthropist-dea-hurston",
+            "urlToImage": "https://cdn.kpbs.org/dims4/default/ccc6e9c/2147483647/strip/true/crop/1000x525+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2F04%2F4e%2F0981268c49f68213e3b6e04a8e2d%2Farts303-dea-hurston-playwright-philanthropist-copy.png",
+            "publishedAt": "2024-07-11T20:55:00Z",
+            "content": "S1: It's time for Midday Edition on KPBS. Today , we're talking about the life and legacy of a local icon in the theater community , then the largest Shakespeare production the globe has ever present… [+36167 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Ruiz",
+            "title": "Texas person of interest, deputy killed in ambush identified as state lends support in active manhunt",
+            "description": "Texas' Gov. Greg Abbott has announced that state authorities are joining the manhunt for the person of interest in the fatal ambush of a Harris County deputy.",
+            "url": "https://www.foxnews.com/us/texas-person-interest-deputy-killed-ambush-identified-state-lends-support-active-manhunt",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/Texas-deputy-split.jpg",
+            "publishedAt": "2024-07-11T18:36:05Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+2887 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Clemson Wire",
+            "title": "The Big 12 is rumored to have Clemson, Florida State in it sights",
+            "description": "\"Clemson to the Big 12\" just doesn't have the same ring to it.",
+            "url": "https://clemsonwire.usatoday.com/2024/07/11/clemson-florida-state-rumor-to-big-12/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/z9BX9pmnZCiTyH.YfGAcWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/clemson_wire_usa_today_articles_107/27cbe570277254e1bc18d9cb1c1a267b",
+            "publishedAt": "2024-07-11T18:33:34Z",
+            "content": "When Texas and Oklahoma left the Big 12, it wouldve been rational to assume it was on the way to extinction. Instead, it added BYU, UCF, Cincinnati, and Houston. It also devoured part of the Pac-12 (… [+1222 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Texas hospitals filling up as heat and power cuts take toll",
+            "description": "More than one million people remain without electricity as city struggles through severe temperatures.",
+            "url": "https://www.bbc.com/news/articles/c29d01j1jkzo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/05b5/live/92738eb0-3fb2-11ef-ac18-e9e918866dc8.jpg",
+            "publishedAt": "2024-07-11T18:17:07Z",
+            "content": "By Brandon Drenon, BBC News, Washington\r\nHospitals in the Houston area filling up after Hurricane Beryl left more than a million people in the city without electricity during a deadly heat wave.\r\nThe… [+2670 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Dot"
+            },
+            "author": "Marlin Ramos",
+            "title": "‘Is this not price gouging???’: Houston man slams DoubleTree for charging $783 for a room amid power outages",
+            "description": "As over 1 million Texans are without power in the aftermath of Hurricane Beryl, one TikToker says they were shocked to learn DoubleTree is charging $783 for a room.\n\n\nIn a viral video, Malcolm Dwain Carter (@malcolmdwaincarte) shares that while they were look…",
+            "url": "https://www.dailydot.com/news/houston-doubletree-783-dollar-room-power-outages/",
+            "urlToImage": "https://uploads.dailydot.com/2024/07/double-tree-prices.jpg?auto=compress&fm=pjpg",
+            "publishedAt": "2024-07-11T18:00:00Z",
+            "content": "As over 1 million Texans are without power in the aftermath of Hurricane Beryl, one TikToker says they were shocked to learn DoubleTree is charging $783 for a room.\r\nIn a viral video, Malcolm Dwain C… [+2405 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Boston Globe"
+            },
+            "author": "Sarah Barber",
+            "title": "Your guide to the 2024 MLB Draft: When will the Red Sox pick, local players to watch, and first-round order",
+            "description": "This year, the Guardians have the first pick despite having only a 2 percent chance to win the draft lottery.",
+            "url": "https://www.bostonglobe.com/2024/07/11/sports/mlb-draft-2024-red-sox-picks/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Vs2f28WXXnb9aG5-8WYU_MwvydE=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/DP2AXJ74YNG5P4T3G7Z254BAMA.jpg",
+            "publishedAt": "2024-07-11T16:11:24Z",
+            "content": "Heres more of what you need to know about this years draft: \r\nWhen: The draft will begin Sunday at 7 p.m. The first night will comprise the first two rounds and first two supplemental rounds. Rounds … [+7819 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Billal Rahman",
+            "title": "Border Officers Capture Sex Offender",
+            "description": "Ramon Diaz Barriga Villicana was apprehended on Tuesday, 9 July, at Juarez-Lincoln Bridge while sitting in a taxi.",
+            "url": "https://www.newsweek.com/border-officers-capture-sex-offender-1923984",
+            "urlToImage": "https://d.newsweek.com/en/full/2426534/photo-shows-juarez-mexico.jpg",
+            "publishedAt": "2024-07-11T15:57:21Z",
+            "content": "U.S. Customs and Border Protection (CBP) officers have captured a man wanted for a sex-related offense involving a child.\r\nRamon Diaz Barriga Villicana was apprehended on Tuesday, 9 July, at Juarez-L… [+2823 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Unit 202 Productions, Alex Shanahan, David Mantey",
+            "title": "Another Fatal Accident at Troubled Tank Cleaning Business",
+            "description": "OSHA said the company disregarded federal safety standards that could've prevented the incident.",
+            "url": "https://finance.yahoo.com/news/another-fatal-accident-troubled-tank-153520633.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yzbtAfgjVRd5HVfzwjfJpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ien_820/73ec2729fdd0754189fcd18fd20d62d8",
+            "publishedAt": "2024-07-11T15:35:20Z",
+            "content": "Quala is a company that brands itself as the \"Tank Pros.\" Quala says it operates the largest independent network of tank cleaning, maintenance, and industrial services in North America, with more tha… [+2221 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Inside the ongoing power issues in Houston impacting more than a million people",
+            "description": "More than a million people in the Houston area are still without electricity following the destruction from Hurricane Beryl as triple-digit temperatures scorch the state. Emily Foxhall, climate reporter for the Texas Tribune, joined CBS News to discuss the ou…",
+            "url": "https://www.cbsnews.com/video/ongoing-power-issues-more-than-million-people-houston-texas/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/07/11/736a1c24-3a48-4e35-aa2b-dcc1541bb30b/thumbnail/1200x630/5c0fa3afbb33f71f0bbd7177040bf9e3/cbsn-fusion-inside-the-ongoing-power-issues-for-over-a-million-people-around-houston-texas-thumbnail.jpg?v=2287029998c5246c93d6dd038eb30603",
+            "publishedAt": "2024-07-11T15:28:00Z",
+            "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fangraphs.com"
+            },
+            "author": "Eric Longenhagen",
+            "title": "2024 Mock Draft 1.0",
+            "description": "With the draft set to kick off Sunday, who's going where in the first round?",
+            "url": "https://blogs.fangraphs.com/2024-mock-draft-1-0/",
+            "urlToImage": "https://blogs.fangraphs.com/wp-content/uploads/2024/07/USATSI_23512756.jpg",
+            "publishedAt": "2024-07-11T15:13:34Z",
+            "content": "Jordan Prather-USA TODAY Sports\r\n\n\n\n\n MLB Draft Week 2024\r\n\n <ul><li>Warning: The Jocks Talk Like Nerds Now</li><li>Seaver King on How to Win Friends and Influence Baseball Games</li><li>Updated Draf… [+16181 chars]"
+        },
+        {
+            "source": {
+                "id": "marca",
+                "name": "Marca"
+            },
+            "author": "marca.com",
+            "title": "ESPY Awards 2024 Winners: Complete list of winners for this year's ESPN awards",
+            "description": "The ESPY Awards (Excellence in Sports Performance Yearly Awards), commonly known as the ESPYs, is an annual American awards show produced by ESPN since 1993. It honors individual a",
+            "url": "https://www.marca.com/en/more-sports/2024/07/11/668ff12722601d553d8b45aa.html",
+            "urlToImage": "https://phantom-marca.unidadeditorial.es/9da5669538737204de75b68df33e9345/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/11/17207078869007.jpg",
+            "publishedAt": "2024-07-11T14:51:51Z",
+            "content": "The ESPY Awards (Excellence in Sports Performance Yearly Awards), commonly known as the ESPYs, is an annual American awards show produced by ESPN since 1993. It honors individual and team athletic ac… [+5119 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entertainment Tonight"
+            },
+            "author": "Rebecca Rovenstine",
+            "title": "How to Watch the 2024 ESPYs Online: Stream the Sports Awards Show",
+            "description": "Legendary tennis player Serena Williams will host this year's ESPY Awards. Here's everything you need to know to stream the show.",
+            "url": "https://www.etonline.com/how-to-watch-the-2024-espys-online-stream-the-sports-awards-show-hosted-by-serena-williams-228841",
+            "urlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-07/GettyImages-2075740124.jpg?h=199d8c1f",
+            "publishedAt": "2024-07-11T14:06:20Z",
+            "content": "Celebrating the best of the best in sports, the 2024 ESPY Awards are here. \r\nLast year, there was no single host for the Excellence in Sports Performance Yearly Awards due to the writer's strike, but… [+8008 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Bloomberg News",
+            "title": "No Shops, No Gas: Large Swaths of Houston Are Still in the Dark",
+            "description": "Days after Hurricane Beryl crashed through the city, Houston is still grappling with the aftershocks.",
+            "url": "https://financialpost.com/pmn/business-pmn/no-shops-no-gas-large-swaths-of-houston-are-still-in-the-dark",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/07/776170786-2.jpg",
+            "publishedAt": "2024-07-11T13:59:53Z",
+            "content": "Days after Hurricane Beryl crashed through the city, Houston is still grappling with the aftershocks.\r\nAuthor of the article:\r\nResidents cool off and charge electronics at a community center after Hu… [+7454 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Patrick Smith",
+            "title": "Heat-related deaths continue to rise as record-breaking hot weather persists",
+            "description": "The mother of a man who died alone in his trailer park home with no air conditioning this week in Sacramento, California, on a day the city reached a high of 106 degrees, has urged others to listen to heat warnings and take them seriously.",
+            "url": "https://www.nbcnews.com/news/weather/heat-related-deaths-continue-rise-record-breaking-hot-weather-persists-rcna161307",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-07/240708-heat-wave-las-vegas-mn-0850-3e2877.jpg",
+            "publishedAt": "2024-07-11T13:08:03Z",
+            "content": "The mother of a man who died alone in his trailer park home with no air conditioning this week in Sacramento, California, on a day the city reached a high of 106 degrees, has urged others to listen t… [+3991 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TODAY"
+            },
+            "author": "Randi Richardson",
+            "title": "What to know about the 2024 ESPYS, including a list of nominees",
+            "description": "ESPN'S ESPYS 2024 awards ceremony, hosted by Serena Williams, will take place Thursday, July 11, on ABC. Here's the nominees list and how to watch.",
+            "url": "https://www.today.com/news/sports/espys-2024-nominees-rcna159950",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2024-07/ESPYs-2024-nominees-2x1-zz-240702-58a073.jpg",
+            "publishedAt": "2024-07-11T11:00:00Z",
+            "content": "ESPN is honoring the best in sports with the 2024 ESPYS on July 11.\r\nThe award ceremony comes on the heels of the Boston Celtics and the Florida Panthers winning this year's NBA championship and NHL … [+5872 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New York Review of Books"
+            },
+            "author": "Sam Huber",
+            "title": "Circles ’Neath Your Eyes",
+            "description": "Again and again in the music of Lucinda Williams, the sins of the father are visited upon the son’s girlfriend. Over more than four decades, working across country, rock, folk, the blues, and (briefly, in the early 2000s) hip-hop, Williams has assembled a vas…",
+            "url": "https://www.nybooks.com/online/2024/07/11/circles-neath-your-eyes/",
+            "urlToImage": "https://www.nybooks.com/wp-content/uploads/2024/07/Huber202407_4.jpg",
+            "publishedAt": "2024-07-11T11:00:00Z",
+            "content": "Again and again in the music of Lucinda Williams, the sins of the father are visited upon the son’s girlfriend. Over more than four decades, working across country, rock, folk, the blues, and (briefl… [+21515 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alexandra Banner",
+            "title": "5 things to know for July 11: Biden’s health, Power outages, Gaza, ‘Rust’ movie shooting, NASA | CNN",
+            "description": "5 things to know for July 11: Biden’s health, Power outages, Gaza, ‘Rust’ movie shooting, NASA | CNNcnn.com",
+            "url": "https://www.cnn.com/2024/07/11/us/5-things-to-know-for-july-11-bidens-health-power-outages-gaza-rust-movie-shooting-nasa/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24192643278692.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-07-11T10:59:42Z",
+            "content": "Costco is raising membership fees for the first time since 2017. The hikes, which go into effect on September 1, are part of a larger effort to crack down on membership moochers and boost revenue for… [+5805 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "What's on Netflix"
+            },
+            "author": "Andrew Morgan",
+            "title": "Best New Netflix Original Movies of 2024 So Far – Mid-Year Edition",
+            "description": "The first half of the 2024 Film Year is in the books!",
+            "url": "https://www.whats-on-netflix.com/what-to-watch/best-netflix-original-movies-of-2024-so-far-mid-year-edition/",
+            "urlToImage": "https://www.whats-on-netflix.com/wp-content/uploads/2024/07/best-new-movies-released-by-netflix-in-2024.jpg",
+            "publishedAt": "2024-07-11T10:23:11Z",
+            "content": "Pictures: Netflix\r\nWhile the slate of Netflix Originals so far may have its share of critical disappointments from big-name stars (Sorry, J-Los Atlas &amp; Lindsay Lohans Irish Wish wont be on this l… [+19674 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Killough",
+            "title": "Hurricane Beryl: Anger mounts in Texas over power outages and CenterPoint Energy’s response amid crippling heat",
+            "description": "Frustrations are mounting across southeast Texas as residents enter a fourth day of crippling power outages and heat, a combination that has proven dangerous – and at times deadly – as residents struggle to access food, gas and medical care.",
+            "url": "https://www.cnn.com/2024/07/11/weather/texas-heat-beryl-power-outage-thursday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-07-10t063056z-1116356832-rc22s8ad9tn0-rtrmadp-3-usa-weather-20240711035602342.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-07-11T05:38:01Z",
+            "content": "Frustrations are mounting across southeast Texas as residents enter a fourth day of crippling power outages and heat, a combination that has proven dangerous and at times deadly as some struggle to a… [+8575 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Siladitya Ray, Forbes Staff, \n Siladitya Ray, Forbes Staff\n https://www.forbes.com/sites/siladityaray/",
+            "title": "Houston Area Faces Sweltering Temperatures As 1.3 Million Homes Remain Under Post-Beryl Blackout",
+            "description": "The heat index in Houston could touch 103 degrees on Thursday, even as more than a million homes and businesses in the area remain without power.",
+            "url": "https://www.forbes.com/sites/siladityaray/2024/07/11/houston-area-faces-sweltering-temperatures-as-13-million-homes-remain-under-post-beryl-blackout/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/668f6845db9897e50ce400c8/0x0.jpg?format=jpg&crop=3200,1798,x0,y0,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-11T05:07:49Z",
+            "content": "Weather officials issued a heat advisory for Houston and its surrounding regions for Thursday, as more than a million homes and businesses in the area remained without power late on Wednesday night i… [+2655 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Texas officials race to restore power after Beryl",
+            "description": "Texas is facing more than a million power outages as it battles extreme heat in the aftermath of Beryl. The problem is especially prominent in Houston, which is the nation's fourth-largest city. CBS News correspondent Omar Villafranca is there with the latest.",
+            "url": "https://www.cbsnews.com/video/texas-officials-race-to-restore-power-after-beryl/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/07/10/1502f71f-a496-40d6-8b53-aeaed4f6481e/thumbnail/1200x630/c786a6b514e7dd6992150aa82af6317f/cbsn-fusion-texas-officials-race-to-restore-power-after-beryl-thumbnail.jpg?v=2287029998c5246c93d6dd038eb30603",
+            "publishedAt": "2024-07-10T23:43:00Z",
+            "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Caller"
+            },
+            "author": "Jason Hopkins",
+            "title": "Dem Senate Candidate Downplayed Illegal Immigrant Crime. Then A 12-Year-Old Girl Was Murdered",
+            "description": "Colin Allred downplayed crime by illegal immigrants just days before a Jocelyn Nungaray was sexually assaulted and strangled to death by two illegal migrants.",
+            "url": "https://dailycaller.com/2024/07/10/dem-senate-candidate-downplayed-illegal-immigrant-crime-then-a-12-year-old-girl-was-murdered/",
+            "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/07/Colin-Allred-scaled-e1720636233656.jpg",
+            "publishedAt": "2024-07-10T22:57:13Z",
+            "content": "A Democratic congressman challenging Texas GOP Sen. Ted Cruz for his seat downplayed crime by illegal immigrants just days before a 12-year-old Texas girl was allegedly sexually assaulted and strangl… [+3453 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Artshub.com.au"
+            },
+            "author": "ArtsHub",
+            "title": "The Orchestra Breaking All The Rules",
+            "description": "These novel approaches have allowed this maverick company to chart an enviable path in the US arts scene as a small-to-medium outfit that punches well above its weight, especially when it comes to artist diversity and audience reach. – ArtsHub",
+            "url": "http://www.artshub.com.au/news/features/the-performing-arts-company-breaking-every-convention-in-the-book-and-winning-2734724/",
+            "urlToImage": "https://www.artshub.com.au/wp-content/uploads/sites/2/2024/07/ROCO-performs-at-POST-Houston-horizontal-Daniel-Ortiz_RESIZED.jpg",
+            "publishedAt": "2024-07-10T21:31:00Z",
+            "content": "When ArtsHub first meets ROCO chamber orchestra Founder and Artistic Director Alecia Lawyer over the Zoom screen (ArtsHub in Australia, Lawyer in Houston, Texas), its clear this Juilliard-trained obo… [+6933 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WWD"
+            },
+            "author": "Renan Botelho",
+            "title": "The Best-dressed Stars in ESPY Awards History: Ciara Embracing Cutouts, Kylie Jenner Sparkling in Gold and More Looks",
+            "description": "The ESPY Awards best-dressed stars include Ciara, Nina Dobrev, Kylie Jenner, Kendall Jenner, Lindsey Vonn and more.",
+            "url": "http://wwd.com/feature/espy-awards-best-dressed-all-time-1236485094/",
+            "urlToImage": "https://wwd.com/wp-content/uploads/2024/07/ESPYs-awards-best-dressed-.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-07-10T17:54:07Z",
+            "content": "The ESPY Awards, established in 1993 to honor outstanding achievements in sports, have evolved into a prestigious event that celebrates not only athletic prowess but also red carpet fashion. Over the… [+3890 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Bloomberg News",
+            "title": "Abbott Rips Biden Over Beryl Call: ‘He Just Flat Out Made It Up’",
+            "description": "Texas Governor Greg Abbott fired back at President Joe Biden’s contention that he had trouble tracking him down to free up emergency funds for hurricane relief, saying the allegation was “completely false and bizarre.”",
+            "url": "https://financialpost.com/pmn/business-pmn/abbott-rips-biden-over-beryl-call-he-just-flat-out-made-it-up",
+            "urlToImage": null,
+            "publishedAt": "2024-07-10T15:30:30Z",
+            "content": "Texas Governor Greg Abbott fired back at President Joe Bidens contention that he had trouble tracking him down to free up emergency funds for hurricane relief, saying the allegation was completely fa… [+6569 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "‘Oppressively hot’: Record-breaking heatwave engulfs western US",
+            "description": "More than 161 million people are under heat alerts as extreme weather prompts warnings and health fears.",
+            "url": "https://www.aljazeera.com/news/2024/7/10/oppressively-hot-record-breaking-heat-wave-engulfs-western-us",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/07/AFP__20240710__2161420422__v1__HighRes__DeathValleyNearsRecordHighsAsCaliforniaConti-1720617852.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-07-10T15:15:39Z",
+            "content": "The western United States continues to grapple with an oppressive heatwave that is believed to have killed at least seven people, authorities say, and has spurred safety warnings across large swaths … [+3304 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Dot"
+            },
+            "author": "Braden Bjella",
+            "title": "‘They’re still out here’: Houston tenant says she’s had no power for 3 days—but landlord is still towing her neighbors",
+            "description": "While Hurricane Beryl has mostly moved past Houston, Texas, millions in the city still do not have power. \n\n\n“Nearly 2 million homes and businesses around Houston lacked electricity Tuesday, down from a peak of over 2.7 million on Monday, according to PowerOu…",
+            "url": "https://www.dailydot.com/news/landlord-towing-cars-power-outage/",
+            "urlToImage": "https://uploads.dailydot.com/2024/07/landlord-tows-residence.jpg?auto=compress&fm=pjpg",
+            "publishedAt": "2024-07-10T15:00:00Z",
+            "content": "While Hurricane Beryl has mostly moved past Houston, Texas, millions in the city still do not have power. \r\nNearly 2 million homes and businesses around Houston lacked electricity Tuesday, down from … [+2398 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "GlobeNewswire",
+            "title": "MAX Power and Larin Engineering Launch USA Natural Hydrogen Search in Texas",
+            "description": "VANCOUVER, British Columbia, July 10, 2024 (GLOBE NEWSWIRE) — MAX Power Mining Corp. (CSE: MAXX; OTC: MAXXF; FRANKFURT: 89N) (“MAX Power” or the “Company”) and Larin Engineering HHC (“Larin Engineering”) have commenced a comprehensive Natural Hydrogen study o…",
+            "url": "https://financialpost.com/globe-newswire/max-power-and-larin-engineering-launch-usa-natural-hydrogen-search-in-texas",
+            "urlToImage": null,
+            "publishedAt": "2024-07-10T14:06:44Z",
+            "content": "Author of the article:\r\nArticle content\r\nVANCOUVER, British Columbia, July 10, 2024 (GLOBE NEWSWIRE) MAX Power Mining Corp. (CSE: MAXX; OTC: MAXXF; FRANKFURT: 89N) (MAX Power or the Company) and Lari… [+11721 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Raw Story"
+            },
+            "author": "Agence France-Presse",
+            "title": "Eight killed after Beryl sweeps across U.S.",
+            "description": "At least eight people were killed in the southern United States after storm Beryl felled trees and caused heavy flooding, before being downgraded to a post-tropical cyclone on Tuesday.In the aftermath, as millions in the Houston area remained without power an…",
+            "url": "https://www.rawstory.com/eight-killed-after-beryl-sweeps-across-u-s/",
+            "urlToImage": "https://www.rawstory.com/media-library/an-aerial-view-shows-a-destroyed-waterfront-home-in-surfside-beach-texas-after-hurricane-beryl-made-landfall-mark-felix.png?id=52666124&width=1200&height=600&coordinates=0%2C49%2C0%2C49",
+            "publishedAt": "2024-07-10T10:40:36Z",
+            "content": "The former US president is seeking a number two who can walk the delicate line between helping mobilize Trump's right-wing base and staying in lane as a sidekick who won't hog the limelight or, worse… [+4108 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Raw Story"
+            },
+            "author": "Agence France-Presse",
+            "title": "Trump eyes big reveal as veepstakes hits final stretch",
+            "description": "With the pomp and pageantry of his official nomination just days away, Donald Trump's search for a running mate on the Republican presidential ticket is in the home stretch, with a trio of frontrunners jockeying to be first across the finish line.The former U…",
+            "url": "https://www.rawstory.com/trump-eyes-big-reveal-as-veepstakes-hits-final-stretch/",
+            "urlToImage": "https://www.rawstory.com/media-library/donald-trump-afp.jpg?id=27233432&width=1200&height=600&coordinates=0%2C94%2C0%2C94",
+            "publishedAt": "2024-07-10T10:37:09Z",
+            "content": "Millions of Texans are heading into a third summer day without power after Hurricane Beryl wreaked havoc through several counties including the states most populous one and temperatures rose dangerou… [+10323 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Raw Story"
+            },
+            "author": "Brad Reed",
+            "title": "Dem operative scolds media for ignoring Trump's health because he's 'tanner and louder'",
+            "description": "Former Hillary Clinton adviser Philippe Reines on Wednesday scolded the mainstream press for obsessively focusing on the mental acuity of President Joe Biden while giving a pass to former President Donald Trump, who is only three years younger and who regular…",
+            "url": "https://www.rawstory.com/trump-vs-biden-2024-2668720997/",
+            "urlToImage": "https://www.rawstory.com/media-library/donald-trump.jpg?id=52141929&width=1200&height=600&coordinates=0%2C819%2C0%2C820",
+            "publishedAt": "2024-07-10T10:35:26Z",
+            "content": "Millions of Texans are heading into a third summer day without power after Hurricane Beryl wreaked havoc through several counties including the states most populous one and temperatures rose dangerou… [+10323 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Raw Story"
+            },
+            "author": "Agence France-Presse",
+            "title": "Deadly, record-breaking heat wave grips western U.S.",
+            "description": "A record-breaking heat wave continued to grip the western United States on Tuesday, smashing records and endangering lives with little relief in sight.Approximately 162 million people -- nearly one-half of the US population -- were living in areas under activ…",
+            "url": "https://www.rawstory.com/record-breaking-heat-wave-grips-western-u-s/",
+            "urlToImage": "https://www.rawstory.com/media-library/a-man-walks-near-the-las-vegas-strip-during-a-heatwave-in-las-vegas-nevada-on-july-7-2024-robyn-beck.jpg?id=52666112&width=1200&height=600&coordinates=0%2C83%2C0%2C39",
+            "publishedAt": "2024-07-10T10:33:25Z",
+            "content": "Millions of Texans are heading into a third summer day without power after Hurricane Beryl wreaked havoc through several counties including the states most populous one and temperatures rose dangerou… [+10323 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Cecilia Reyes",
+            "title": "Locked out",
+            "description": "Tenants facing illegal evictions often call police for help but spotty laws, training, and enforcement mean landlords rarely face penalties.",
+            "url": "https://www.businessinsider.com/illegal-wrongful-evictions-law-enforcement-police-court-2024-7",
+            "urlToImage": "https://i.insider.com/66619057cc442a2f676e6f09?width=1200&format=jpeg",
+            "publishedAt": "2024-07-10T10:19:16Z",
+            "content": "Andrei Cojocaru for Business Insider\r\nAlfred Perry got word on Labor Day weekend. He'd just thrown one of his signature cookouts in the courtyard of his apartment complex in Las Vegas.It was the kind… [+40526 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Cecilia Reyes",
+            "title": "When renters get locked out, it's unlikely they'll ever get back in.",
+            "description": "Most remedies to illegal evictions offer impunity to landlords — and little recourse to tenants.",
+            "url": "https://www.businessinsider.com/landlord-illegal-lockout-court-tenant-2024-7",
+            "urlToImage": "https://i.insider.com/667c7dca40cf2af6e4f60a11?width=1200&format=jpeg",
+            "publishedAt": "2024-07-10T10:13:02Z",
+            "content": "Henisha Dunn, right, and her fiancé were forced out of their basement apartment in Atlanta in February 2023.Alyssa Pointer for Business Insider\r\nIn April 2022, a young aspiring permanent makeup artis… [+29101 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Caroline Kitchener",
+            "title": "These GOP women begged the party to abandon abortion. Then came backlash.",
+            "description": "The fight waged by a group of Republican women at the Texas Republican Convention highlights the deep divisions on abortion within the GOP.",
+            "url": "https://www.washingtonpost.com/politics/2024/07/09/texas-abortion-republican-women/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T37SMWJWALH4HQM4TX5BEAGQSY.JPG&w=1440",
+            "publishedAt": "2024-07-10T10:00:50Z",
+            "content": "Gilda Bayegan did not have the time or the patience to choose her words carefully. She felt the party of Lincoln was in peril and she had to speak her mind.\r\nEvery time we talk about abortion, we are… [+14346 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheJournal.ie"
+            },
+            "author": "AFP",
+            "title": "At least eight killed after Storm Beryl sweeps across southern US",
+            "description": "Millions were without power and were under a heat advisory in the aftermath of the storm.",
+            "url": "https://www.thejournal.ie/at-least-eight-killed-storm-beryl-united-states-6432167-Jul2024/",
+            "urlToImage": "https://img2.thejournal.ie/article/6432167/river/?height=400&version=6432168",
+            "publishedAt": "2024-07-10T08:03:47Z",
+            "content": "AT LEAST EIGHT people were killed in the southern United States after Storm Beryl felled trees and caused heavy flooding, before being downgraded to a post-tropical cyclone.\r\nIn the aftermath, as mil… [+3733 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Millions in Texas remain without power after Beryl",
+            "description": "Millions are without power in Texas after Beryl, now a post-tropical cyclone, brought heavy winds, rain and flooding to the region Monday. CBS News correspondent Omar Villafranca has the latest from Houston.",
+            "url": "https://www.cbsnews.com/video/millions-in-texas-remain-without-power-after-beryl/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/07/09/fe4dc775-f412-4458-b0e7-c959902cf535/thumbnail/1200x630/ed5bf12b565f05a6274c3e5a52331a3f/cbsn-fusion-millions-in-texas-remain-without-power-after-beryl-thumbnail.jpg?v=2287029998c5246c93d6dd038eb30603",
+            "publishedAt": "2024-07-09T23:50:00Z",
+            "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ARTnews"
+            },
+            "author": "Karen K. Ho",
+            "title": "Shahzia Sikander Sculpture Beheaded at the University of Houston",
+            "description": "The artist's 18-foot bronze sculpture drew criticism from Texas Right to Life, a Christian anti-abortion group.",
+            "url": "https://www.artnews.com/art-news/news/shahzia-sikander-witness-statue-beheaded-university-of-houston-1234711711/",
+            "urlToImage": "https://www.artnews.com/wp-content/uploads/2024/06/web-Witness-2023-Photo-Credit-Lynda-churilla-1.jpg?w=1024",
+            "publishedAt": "2024-07-09T22:58:57Z",
+            "content": "A Shahzia Sikander statue at the University of Houston was vandalized following previous protests by right-wing groups.\r\nThe 18-foot-tall bronze monument to women and justice was beheaded in the earl… [+2541 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Beryl's deadly damage in Houston, millions without power in Texas",
+            "description": "Millions of Texans are still without power after Beryl, which entered south of Houston as a Category 1 storm, devastated parts of the coast and flooded homes in the region. CBS News' Janet Shamlian reports.",
+            "url": "https://www.cbsnews.com/video/beryls-deadly-damage-in-houston-millions-without-power-in-texas/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/07/09/2388749d-48c7-45a0-bcd3-50b2b520c687/thumbnail/1200x630/e5b5d0b4f8ec8169a5eb9308d1fdfcce/cbsn-fusion-beryls-deadly-damage-in-houston-millions-without-power-in-texas-thumbnail.jpg?v=2287029998c5246c93d6dd038eb30603",
+            "publishedAt": "2024-07-09T19:21:00Z",
+            "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "The Feed",
+            "title": "Tropical Storm Beryl kills six, cuts electricity for millions in Texas. Details here",
+            "description": "Tropical Storm Beryl caused severe weather in Texas, leading to a death toll of six people. The storm resulted in widespread power outages affecting counties like Calhoun and Montgomery. Heavy rain and flooding significantly impacted Houston.",
+            "url": "https://economictimes.indiatimes.com/news/international/us/tropical-storm-beryl-kills-six-cuts-electricity-for-millions-in-texas-details-here/articleshow/111614532.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-111614547,width-1200,height-630,imgsize-345410,overlay-economictimes/photo.jpg",
+            "publishedAt": "2024-07-09T17:46:15Z",
+            "content": "(Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.)\r\nDownload The Economic Times News App to get Daily International News… [+8 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Atlanta Black Star"
+            },
+            "author": "Chantz S.",
+            "title": "'We Don't Play By the Same Rules': Ryan Garcia Doubles Down After Stephen Jackson Warns Boxer for Saying He Wants to 'Dig George Floyd Up'",
+            "description": "'We Don't Play By the Same Rules': Ryan Garcia Doubles Down After Stephen Jackson Warns Boxer for Saying He Wants to 'Dig George Floyd Up'atlantablackstar.com",
+            "url": "https://atlantablackstar.com/2024/07/09/ryan-garcia-stephen-jackson-warning-boxer-n-word-george-floyd/",
+            "urlToImage": "https://atlantablackstar.com/wp-content/uploads/2024/07/stephen-jackson-ryan-garcia.webp",
+            "publishedAt": "2024-07-09T15:35:05Z",
+            "content": "Boxer Ryan Garcia has come under fire over using racial slurs and ill remarks about George Floyd during a recent social media rant, prompting former NBA player and friend of Floyd Stephen Jackson to … [+7968 chars]"
+        },
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "Joey Nolfi",
+            "title": "'The Jinkx & DeLa Holiday Show' 2024 tour dates revealed: See full list",
+            "description": "Jinkx Monsoon and BenDeLaCreme will roast your chestnuts on the road. See the full list of 'The Jinkx & DeLa Holiday Show' 2024 tour dates.",
+            "url": "https://ew.com/jinkx-monsoon-bendelacreme-holiday-show-2024-tour-dates-full-list-8673010",
+            "urlToImage": "https://ew.com/thmb/ShRFgmT-17gHZiDz76QdNy6ZJm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/jinkx-tout-2-070124-9b9b6ef2c9c6490f943c45b0dad04964.jpg",
+            "publishedAt": "2024-07-09T15:05:38Z",
+            "content": "Jinkx Monsoon and BenDeLaCreme drags hottest Yuletide ho, ho, hoes are hitching their sleighs once again this Christmas season, and Entertainment Weekly can exclusively reveal the festive friends Jin… [+5298 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Queerty.com"
+            },
+            "author": "Alex Reimer",
+            "title": "With Texas facing another weather disaster, Ted Cruz gets slammed for his Cancun trip",
+            "description": "Ted Cruz was roundly mocked for posting warning messages about Hurricane Beryl hitting Texas.",
+            "url": "https://www.queerty.com/with-texas-facing-another-weather-disaster-ted-cruzs-constituents-havent-let-him-forget-about-cancun-20240709",
+            "urlToImage": "https://adabgmwwup.cloudimg.io/v7/_queerty-prodweb_/2023/11/ted-cruz-microphone-shutterstock-2186937139-scaled.jpg?auto=format&auto=compress&fit=crop&gravity=smart&w=1200&h=630&force_format=jpeg&wat=1&wat_gravity=southeast&wat_pad=70",
+            "publishedAt": "2024-07-09T15:02:08Z",
+            "content": "Ted Cruz is known for an array of shameful stunts. But the lowest moment of his contemptible political career came in 2021, when he fled Texas for Cancun in the aftermath of a historic winter storm t… [+5577 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -377,932 +1300,35 @@
             "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8667x4875+0+446/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2F2c%2F45db8241474bb6dfa27f3a2a6ac2%2Fgettyimages-2161025110.jpg",
             "publishedAt": "2024-07-07T20:07:21Z",
             "content": "Beryl is set to make landfall early Monday morning along the Texas coast as the storm regains hurricane-level strength in the Gulf of Mexico, according to the National Weather Service. On Sunday, rai… [+3277 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "gcaptain.com"
-            },
-            "author": "Reuters",
-            "title": "Ports Along Texas Coast Close As Tropical Storm Beryl Approaches",
-            "description": "By Arathy Somasekhar HOUSTON, July 7 (Reuters) – Ports along the Texas coast started to close or restrict vessel traffic on Sunday to prepare for Tropical Storm Beryl, which was expected to strengthen...",
-            "url": "https://gcaptain.com/ports-along-texas-coast-close-as-tropical-storm-beryl-approaches/",
-            "urlToImage": "https://gcaptain.com/wp-content/uploads/2024/07/2024-07-01T181901Z_978360987_RC2BM8AMMBXN_RTRMADP_3_STORM-BERYL-scaled.jpg",
-            "publishedAt": "2024-07-07T16:45:16Z",
-            "content": "By Arathy Somasekhar\r\nHOUSTON, July 7 (Reuters) – Ports along the Texas coast started to close or restrict vessel traffic on Sunday to prepare for Tropical Storm Beryl, which was expected to strength… [+2762 chars]"
-        },
+        }
+    ],
+    "columbia": [
         {
             "source": {
                 "id": null,
                 "name": "New York Post"
             },
-            "author": "Nicholas McEntyre",
-            "title": "Husband charged after his wife discovers he married another woman through Facebook post",
-            "description": "The scandalizing discovery forced Tammie to confront her husband over the surprising nuptials.",
-            "url": "https://nypost.com/2024/07/07/us-news/texas-man-marcus-shorten-charged-with-bigamy-after-his-wife-discovers-he-married-another-woman-through-facebook-post/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/newspress-collage-zankuponm-1720342003601.jpg?quality=75&strip=all&1720327704&w=1024",
-            "publishedAt": "2024-07-07T08:54:11Z",
-            "content": "Double trouble!\r\nA Texas husband was charged with bigamy when his third wife discovered he was getting re-married to another woman through a social media post as the married couple never divorced.\r\nM… [+2499 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Brie Stimson",
-            "title": "Family of Jocelyn Nungaray grateful for Trump's support after girl’s alleged murder by illegal migrants",
-            "description": "The family of Jocelyn Nungaray, a 12-year-old allegedly killed by migrants in the U.S. illegally, said they are grateful for former President Trump's support.",
-            "url": "https://www.foxnews.com/us/family-jocelyn-nungaray-grateful-support-trump-girls-alleged-murder-hands-illegal-migrants",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/Nungary.png",
-            "publishedAt": "2024-07-07T01:34:03Z",
-            "content": "Jocelyn Nungarays grandfather said he's grateful to former President Trump for his support of their family after the 12-year-old girl's alleged murder by two Venezuelan nationals in Texas illegally. … [+2168 chars]"
+            "author": "Christian Arnold",
+            "title": "Liverpool planning ‘urgent talks’ with Darwin Nunez after ugly Copa America brawl",
+            "description": "English Premier League club Liverpool is planning on holding “urgent talks” with striker Darwin Núñez and the Uruguayan Football Federation (UFF) following an ugly scene after Uruguay’s Copa America semifinals loss to Colombia on Wednesday night in Charlotte.",
+            "url": "https://nypost.com/2024/07/11/sports/liverpool-planning-urgent-talks-with-striker-involved-in-ugly-copa-america-brawl/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/newspress-collage-2m434ad0d-1720741954928.jpg?quality=75&strip=all&1720727622&w=1024",
+            "publishedAt": "2024-07-12T00:44:53Z",
+            "content": "English Premier League club Liverpool is planning to hold urgent talks with striker Darwin Núñez and the Uruguayan Football Federation (UFF) following an ugly scene after Uruguays Copa America semifi… [+2932 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Forbes"
-            },
-            "author": "Brian Bushard, Forbes Staff, \n Brian Bushard, Forbes Staff\n https://www.forbes.com/sites/brianbushard/",
-            "title": "Beryl Could Hit Texas With Winds By Sunday",
-            "description": "At least 11 people were killed as Hurricane Beryl swept through the Caribbean Islands, and forecasters warn it could intensify again as it nears Texas.",
-            "url": "https://www.forbes.com/sites/brianbushard/2024/07/06/beryl-could-hit-texas-with-winds-by-sunday/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66898b23371f457513b0cc6d/0x0.jpg?format=jpg&crop=1999,1124,x0,y101,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-07-06T19:02:21Z",
-            "content": "Forecasters warn Tropical Storm Beryl could once again intensify into a Category 1 hurricane before it barrels toward Texas, likely bringing intense winds, flooding and life-threatening storm surge t… [+4202 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Wnd.com"
-            },
-            "author": "Around the Web",
-            "title": "Dems want us to believe the Supreme Court is 'out of control'",
-            "description": "Final vote tallies demolish that narrative",
-            "url": "https://www.wnd.com/2024/07/dems-want-us-believe-supreme-court-control/",
-            "urlToImage": "https://www.wnd.com/wp-content/uploads/2024/02/Supreme-Court-justices-in-2022-video-screenshot.jpg",
-            "publishedAt": "2024-07-06T16:44:04Z",
-            "content": "Supreme Court justices in 2022\r\nKatelynn RichardsonDaily Caller News Foundation\r\nWhile Democrats continue to cast the Supreme Court as dangerous, the line-ups in majority decisions from the recently … [+7848 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Signal"
-            },
-            "author": "Virginia Allen",
-            "title": "RIP: 13 Men, Women, and Children Whose Lives Were Cut Short by Illegal Immigrants in Past Year",
-            "description": "Over the past 12 months, illegal aliens have been arrested in connection with the deaths of at least 13 Americans. Seven of those victims were... Read More\nThe post RIP: 13 Men, Women, and Children Whose Lives Were Cut Short by Illegal Immigrants in Past Year…",
-            "url": "https://www.dailysignal.com/2024/07/06/13-lives-lost-hands-illegal-aliens-past-12-months/",
-            "urlToImage": "https://first-heritage-foundation.s3.amazonaws.com/live_files/2024/06/Swing-Border.jpg",
-            "publishedAt": "2024-07-06T07:01:00Z",
-            "content": "Over the past 12 months, illegal aliens have been arrested in connection with the deaths of at least 13 Americans. Seven of those victims were minors.\r\nThe simple fact is that every crime committed b… [+8014 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Daily Caller"
-            },
-            "author": "Katelynn Richardson",
-            "title": "Dems Want Us To Believe The Supreme Court Is ‘Out Of Control.’ Final Vote Tallies Demolish That Narrative",
-            "description": "While Democrats continue to cast the Supreme Court as \"right-wing\" and dangerous, the vote breakdowns across the term don't support their narrative.",
-            "url": "https://dailycaller.com/2024/07/05/democrats-supreme-court-final-vote-tallies/",
-            "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/07/GettyImages-2159699945-scaled-e1720015205580.jpg",
-            "publishedAt": "2024-07-06T00:19:11Z",
-            "content": "While Democrats continue to cast the Supreme Court as dangerous, the line-ups in majority decisions from the recently concluded term don’t support their narrative.\r\nThe term’s statistics reflect that… [+8246 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Aria Bendix and Elysee Barakett",
-            "title": "Mosquito season is here — more than a third of states have detected West Nile virus",
-            "description": "Nine cases of West Nile virus have been confirmed so far this year, as disease experts say the virus appears to be circulating more than usual for this time of summer.",
-            "url": "https://www.nbcnews.com/health/health-news/mosquito-season-third-states-detected-west-nile-virus-rcna160478",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-07/240705-west-nile-rising-wm-1249p-68f0c4.jpg",
-            "publishedAt": "2024-07-05T21:40:24Z",
-            "content": "Nine cases of West Nile virus have been confirmed so far this year, as disease experts say the virus appears to be circulating more than usual for this time of summer.\r\nAs of June 25, the Centers for… [+6342 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Viewfromthewing.com"
-            },
-            "author": "Gary Leff",
-            "title": "The Most Overrated, Underrated, And Best Cities For You Visit, Live And Eat",
-            "description": "It's not enough to go to a place once and develop more than a contingent view. Every city has both positives and negatives, and you may experience more of one or the other on a given visit but that doesn't mean you have a full sense of the place. \nIf you don'…",
-            "url": "https://viewfromthewing.com/the-most-overrated-underrated-and-best-cities-for-you-visit-live-and-eat/",
-            "urlToImage": "https://viewfromthewing.com/wp-content/uploads/2022/07/nyc.jpg",
-            "publishedAt": "2024-07-05T15:58:49Z",
-            "content": "Most people who would answer what cities they love, dislike, and even hate… probably haven’t been to them? I’m underweight cities in Africa but have been all over the world and have strong thoughts o… [+10197 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Daily Caller"
-            },
-            "author": "Jason Hopkins",
-            "title": "Biden’s Illegal Immigration Problem Has Gone From Bad To Worse As High-Profile Murders Rock US",
-            "description": "Illegal migrant crimes against women has brought the issue of illegal immigration into sharper focus as the 2024 presidential election draws closer for Biden.",
-            "url": "https://dailycaller.com/2024/07/05/joe-biden-illegal-immigration-murders-2024/",
-            "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/06/GettyImages-1975524434-scaled-e1719426334199.jpg",
-            "publishedAt": "2024-07-05T15:19:32Z",
-            "content": "A slate of high-profile crimes against women, allegedly committed at the hands of illegal migrants, has brought the issue of illegal immigration into sharper focus as the 2024 presidential election d… [+8896 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Mike Iscovitz",
-            "title": "Tropical Storm Beryl tracker: Latest update on path, Mexico landfall, Texas impacts",
-            "description": "Hurricane Beryl tracker including the latest update on path, location, a tracking map and how it may impact Texas and Houston.",
-            "url": "https://www.yahoo.com/news/hurricane-beryl-tracker-latest-path-112957939.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oFBOzDfOu6H6D25iAuyjpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/kriv_fox_local_articles_563/c3a9a0e67457ab19b4370e5fcee80ecb",
-            "publishedAt": "2024-07-05T11:29:57Z",
-            "content": "Beryl has spent the day moving across Mexico after making landfall on the Yucatan Peninsula near Tulum on Friday morning as a small Category 2 hurricane.\r\nAs of 10 p.m., Beryl has weakened to a tropi… [+3743 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Boston Herald"
-            },
-            "author": "Howie Carr",
-            "title": "Howie Carr: The land of the freebie, for illegals",
-            "description": "Thank you, Democrats! How are these open borders working out for you?",
-            "url": "https://www.bostonherald.com/2024/07/05/howie-carr-the-land-of-the-freebie-for-illegals/",
-            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/05/migrantsms010.jpg?w=1024&h=692",
-            "publishedAt": "2024-07-05T08:20:52Z",
-            "content": "Meanwhile, the illegal-alien crime wave continues unabated.\r\nAs everyone’s been mesmerized by the twin train wrecks of Karen Read and Dementia Joe Biden, Third World thugs continue to openly terroriz… [+6544 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Daily Dot"
-            },
-            "author": "Marlin Ramos",
-            "title": "‘Jamaica didn’t know they were going to have such a direct hit’: Woman shares why you shouldn’t trust local news weather forecasts",
-            "description": "If you've never heard of the ICON weather model, there's a chance you're not getting the most accurate weather predictions. A recent TikTok video details how the European and American weather systems differ and some reasons to add the European model into your…",
-            "url": "https://www.dailydot.com/news/american-weather-model-vs-european-model/",
-            "urlToImage": "https://uploads.dailydot.com/2024/07/hurricane-prediction.jpg?auto=compress&fm=pjpg",
-            "publishedAt": "2024-07-05T04:45:00Z",
-            "content": "If you’ve never heard of the ICON weather model, there’s a chance you’re not getting the most accurate weather predictions. A recent TikTok video details how the European and American weather systems… [+2677 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Truthout"
-            },
-            "author": "Edwin Rubis",
-            "title": "This Fourth of July, I’m in My 26th Year Behind Bars for Cannabis",
-            "description": "A victim of the \"war on drugs” reflects upon watching the fireworks from prison.",
-            "url": "https://truthout.org/articles/this-fourth-of-july-im-in-my-26th-year-behind-bars-for-cannabis/",
-            "urlToImage": "https://truthout.org/app/uploads/2024/07/2024_0704-fireworks-scaled.jpg",
-            "publishedAt": "2024-07-04T15:35:21Z",
-            "content": "When the clock strikes 10:00 pm, I’ll be sitting in the darkness gazing out a grimy, metal barred window. Miles away, the starlit sky will explode with cheerful colors. Two seconds after each rocket … [+7219 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Worldconstructionnetwork.com"
-            },
-            "author": "GlobalData",
-            "title": "Construction begins on Ryehill and Del Webb Sugar Land communities",
-            "description": "Upon completion, the communities are expected to offer approximately 2,500 homes.",
-            "url": "https://www.worldconstructionnetwork.com/news/ryehill-del-webb-sugar-land-communities/",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MZJj5NWOLmkekn_xtiY_Aw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/world_construction_network_914/8f36159af36e0853b87761a72af4f95b",
-            "publishedAt": "2024-07-04T10:33:16Z",
-            "content": "PulteGroup has announced the start of construction on Ryehill and Del Webb Sugar Land, two new planned communities in Sugar Land, Texas, US, near Hwy 59 and Grand Parkway.\r\nA ground-breaking event, w… [+2109 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Adam Shaw",
-            "title": "Honduran illegal immigrant charged with sexually assaulting 12-year-old girl in Iowa",
-            "description": "A Honduran illegal immigrant has been charged with sexually assaulting a 12-year-old girl in the state of Iowa, Fox News Digital has confirmed.",
-            "url": "https://www.foxnews.com/politics/honduran-illegal-immigrant-charged-sexually-assaulting-12-year-old-girl-iowa",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/GettyImages-2157517546.jpg",
-            "publishedAt": "2024-07-04T08:00:43Z",
-            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+3341 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Michael Ruiz",
-            "title": "FBI uncovers new lead in murder of New Mexico musician 'taken' from motel, mom says",
-            "description": "The FBI has a new lead in the cold case murder of New Mexico 23-year-old Zachariah Shorty, who disappeared from a motel under suspicious circumstances.",
-            "url": "https://www.foxnews.com/us/fbi-uncovers-new-lead-murder-new-mexico-musician-taken-from-motel-mom-says",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/vlcsnap-2024.jpg",
-            "publishedAt": "2024-07-04T08:00:23Z",
-            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+3736 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Americanthinker.com"
-            },
-            "author": null,
-            "title": "Venezuelan thug arrested for Jocelyn Nungaray's murder is son of a former Chavista official -report",
-            "description": "Anybody surprised to read that one of the two Venezuelans accused of raping and murdering 12-year-old Jocelyn Nungaray of Houston, is the son of a former Chavista official?\r\n\r\nThe Daily Mail's Germania Rodriguez Poleo reported the story:\r\n\r\n\r\nOne...",
-            "url": "https://www.americanthinker.com/blog/2024/07/venezuelan_thug_arrested_for_jocelyn_nungaray_s_murder_is_son_of_a_former_chavista_official_report.html",
-            "urlToImage": "https://images.americanthinker.com/fq/fquhzdbvnztnyj72ypil_800.JPG",
-            "publishedAt": "2024-07-04T04:00:00Z",
-            "content": "Anybody surprised to read that one of the two Venezuelans accused of raping and murdering 12-year-old Jocelyn Nungaray of Houston, is the son of a former Chavista official?\r\nThe Daily Mail's Germania… [+5334 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Raw Story"
-            },
-            "author": "Matthew Chapman",
-            "title": "Ex-White House staffer impersonated judge assigned to his criminal case: report",
-            "description": "A former Biden administration White House staffer who has been charged with impersonating a local man to send racist hoax messages to his own campaign, now appears to have impersonated a criminal court judge assigned to his case.According to the Houston Chron…",
-            "url": "https://www.rawstory.com/biden-white-house-aide-impersonated-judge/",
-            "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=24821339&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
-            "publishedAt": "2024-07-03T21:26:32Z",
-            "content": "According to court records obtained by The Post and Courier, John Gallman, who lost an election four years ago for a Horry County seat is suing state Reps. Lee Hewitt and Chris Murphy. Both lawmakers… [+3045 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Anna Turning",
-            "title": "Mysterious disappearance of Texas man Chase Lackey still an open investigation 7 years later",
-            "description": "25-year-old Chase Lackey was reported missing on July 2, 2017. All of his personal belongings were found in his Texas apartment. The Harris County Sheriff’s Office is investigating.",
-            "url": "https://www.nbcnews.com/dateline/missing-in-america/mysterious-disappearance-texas-man-chase-lackey-still-open-investigati-rcna160228",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-07/chase-lackey-wide-social-art-194582.jpg",
-            "publishedAt": "2024-07-03T21:12:37Z",
-            "content": "Watching your child do something theyre passionate about can create lasting memories for a parent.\r\nIt was June 30, 2017, in Crosby, Texas. Craig Lackey was at his 25-year-old son Chases softball gam… [+4288 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Task & Purpose"
-            },
-            "author": "Patty Nieberg",
-            "title": "This 41-year-old soldier just graduated from Army boot camp",
-            "description": "Jason Pelletier, 41, graduated this year from Army Basic Combat Training and will soon finish Combat Medic Advanced Individual Training.",
-            "url": "https://taskandpurpose.com/news/41-year-old-basic-training/",
-            "urlToImage": "https://taskandpurpose.com/wp-content/uploads/2024/07/41-year-old-enlisted.jpg",
-            "publishedAt": "2024-07-03T20:39:31Z",
-            "content": "Among the biggest shocks that hit Jason Pelletier at Army basic training was when he realized he was older than most of his drill instructors.\r\nPelletier, 41, graduated earlier this year from Basic C… [+4653 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Lexington Herald Leader"
-            },
-            "author": "Christopher  Leach",
-            "title": "Former church of accused rapist had previous scandal involving Lexington staff",
-            "description": "The church changed its name in recent years.",
-            "url": "https://www.kentucky.com/news/local/counties/fayette-county/article289730024.html",
-            "urlToImage": "https://media.zenfs.com/en/lexington_herald_leader_mcclatchy_articles_314/fd0031c4bc8aadd35847f520e6c987f6",
-            "publishedAt": "2024-07-03T17:55:31Z",
-            "content": "The Lexington church at the center of a former pastor sex crime investigation was previously involved in another scandal roughly 10 years ago, according to previous reporting from the Herald-Leader.\r… [+3054 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Federalist"
-            },
-            "author": "Monroe Harless",
-            "title": "After Sexual Assault And Murder Of 12-Year-Old Girl, NYT Reporter Blames Republicans For Noticing The Alleged Killers Are Illegals",
-            "description": "The reporter minimized illegals' crimes while implying Republicans who criticized Biden's open-border policy were making the situation worse.",
-            "url": "https://thefederalist.com/2024/07/03/after-sexual-assault-and-murder-of-12-year-old-girl-nyt-reporter-blames-republicans-for-noticing-the-alleged-killers-are-illegals/",
-            "urlToImage": "https://thefederalist.com/wp-content/uploads/2024/07/jocelyn.png",
-            "publishedAt": "2024-07-03T17:30:27Z",
-            "content": "New York Times reporter J. David Goodman in a recent report accused Republicans of having seized on the brutal murder of Jocelyn Nungaray in order to politicize border security.\r\nGoodman included quo… [+4068 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Mike Axisa",
-            "title": "2024 MLB Mock Draft: Healthy JJ Wetherholt goes No. 1, Cardinals use highest pick in decades on high schooler",
-            "description": "The draft begins Sunday, July 14",
-            "url": "https://www.cbssports.com/mlb/news/2024-mlb-mock-draft-healthy-jj-wetherholt-goes-no-1-cardinals-use-highest-pick-in-decades-on-high-schooler/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/07/01/764e6495-eb89-45a4-b3e8-4f68baa3b544/thumbnail/1200x675/c92ea52c8d693698dbb9d8706c2ce202/wetherholt-getty.png",
-            "publishedAt": "2024-07-03T15:01:42Z",
-            "content": "The 2024 MLB Draft is a little less than two weeks away. Three years ago, MLB pushed the draft back from the first week of June to the All-Star break in an effort to better market the event, and it w… [+22304 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Rachel Treisman",
-            "title": "Hurricane Beryl barrels toward Jamaica after battering southeast Caribbean islands",
-            "description": "Hurricane Beryl is nearing Jamaica as a Category 4 storm, and forecast to make landfall on Wednesday. Officials there have declared a \"major disaster area\" and implemented an island-wide curfew.",
-            "url": "https://www.npr.org/2024/07/03/nx-s1-5027778/hurricane-beryl-jamaica-damage-carribean",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F32%2F27%2Fe95afc294faf93db59527b8bd6ae%2Fgettyimages-2160430100.jpg",
-            "publishedAt": "2024-07-03T13:26:09Z",
-            "content": "Hurricane Beryl is hurtling toward Jamaica as a Category 4 storm after weaving a path of destruction across several southeast Caribbean islands.\r\nThe National Hurricane Center (NHC) said Wednesday mo… [+7846 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Yahoo Sports",
-            "title": "Inside the Texas-sized party announcing the Longhorns' SEC arrival",
-            "description": "It's a new era in college sports. The rich are getting richer and more powerful than ever. Nowhere was that more clear than at a lavish celebration of Texas' SEC move.",
-            "url": "https://sports.yahoo.com/its-bigger-and-it-just-means-more-texas-jump-to-the-sec-shows-how-much-college-sports-is-about-to-change-115835101.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ILqlfooV2cEP4H5c4RfF6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzk-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/46726910-38f9-11ef-9cff-36df3aa861dd",
-            "publishedAt": "2024-07-03T11:58:35Z",
-            "content": "AUSTIN, Texas High above the University of Texas campus, within the schools iconic clock tower, a party ensues.\r\nThis is not any ol party. While more than 18,000 orange-clad fans sprawl across the 40… [+17348 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Freerepublic.com"
-            },
-            "author": "The Federalist",
-            "title": "Counting The Most Horrific Crimes Allegedly Committed By Illegals Who Crossed The Border Under Biden’s Watch: Illegal aliens have been convicted of more than 66,000 crimes already",
-            "description": "Illegal aliens have been convicted of more than 66,000 crimes under Biden’s watchLast updated July 2, 2024.If it wasn’t clear at the beginning of President Joe Biden’s tenure at the White House, which kicked off the largest border invasion this nation has eve…",
-            "url": "https://freerepublic.com/focus/f-news/4248374/posts",
-            "urlToImage": null,
-            "publishedAt": "2024-07-02T20:54:54Z",
-            "content": "Last updated July 2, 2024.\r\nIf it wasnt clear at the beginning of President Joe Bidens tenure at the White House, which kicked off the largest border invasion this nation has ever seen, it is clear n… [+9621 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Federalist"
-            },
-            "author": "Jordan Boyd",
-            "title": "Counting The Most Horrific Crimes Allegedly Committed By Illegals Who Crossed The Border Under Biden’s Watch",
-            "description": "It’s time to count the consequences President Joe Biden's bloody border policies has on American lives and livelihoods.",
-            "url": "https://thefederalist.com/2024/07/02/counting-the-most-horrific-crimes-allegedly-committed-by-illegals-who-crossed-the-border-under-bidens-watch/",
-            "urlToImage": "https://thefederalist.com/wp-content/uploads/2024/06/Screenshot-2024-07-02-at-8.27.53-AM-e1719926901899.png",
-            "publishedAt": "2024-07-02T19:05:52Z",
-            "content": "Last updated July 2, 2024.\r\nIf it wasnt clear at the beginning of President Joe Bidens tenure at the White House, which kicked off the largest border invasion this nation has ever seen, it is clear n… [+9651 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-post",
-                "name": "Financial Post"
-            },
-            "author": "The Associated Press",
-            "title": "In wake of Supreme Court ruling, Biden administration tells doctors to provide emergency abortions",
-            "description": "WASHINGTON (AP) — The Biden administration told emergency room doctors they must perform emergency abortions when necessary to save a pregnant woman’s health, following last week’s Supreme Court ruling that failed to settle a legal dispute over whether state …",
-            "url": "https://financialpost.com/pmn/business-pmn/in-wake-of-supreme-court-ruling-biden-administration-tells-doctors-to-provide-emergency-abortions",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/07/wx103-the-associated-press.jpg",
-            "publishedAt": "2024-07-02T18:07:24Z",
-            "content": "Author of the article:\r\nFILE - Sacred Heart Emergency Center is pictured March 29, 2024, in Houston. The Biden administration is telling emergency room doctors they must perform emergency abortions w… [+7459 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "mgoblog.com"
-            },
-            "author": "Alex.Drain",
-            "title": "Hello: Jacob Washington",
-            "description": "Mike Miller (Not That Mike Miller), Come On Down\n\n May 29th, 2019 at 4:24 PM\n\n Brian\nMay 29th, 2019 at 4:24 PM\n\n\n \n \n \n \n \n\n \r\n\n\n\n \n Per Tony Paul, this is the guy Michigan is targeting to fill the ex-head-coach slot:\r\n\n\n\nHearing this is almost certainly happ…",
-            "url": "https://mgoblog.com/content/hello-jacob-washington",
-            "urlToImage": "https://mgoblog.com/sites/default/files/2024-06/mopkqptrpc0biadvsd7a.jpg",
-            "publishedAt": "2024-07-02T14:07:55Z",
-            "content": "Michigan snagged a commitment from their first wide receiver in the 2025 class last week in Louisiana WR Jacob Washington. The 6'3\" wideout profiles as the big body in this class and today we get to … [+12073 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Chris Kelly",
-            "title": "11 can’t-miss concerts in the D.C. area this July",
-            "description": "Hip-hop fans, rejoice: Ice Spice performs at the Anthem, Schoolboy Q will be at Fillmore Silver Spring and Bktherula is coming to the Howard Theatre.",
-            "url": "https://www.washingtonpost.com/dc-md-va/2024/07/02/best-concerts-dc-july-2024/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NG6QMG3VDGMRVC7BONIKYANBOI_size-normalized.jpg&w=1440",
-            "publishedAt": "2024-07-02T14:00:04Z",
-            "content": "Just when it seemed like the dust had finally settled on raps biggest, loudest and pettiest beef, Kendrick Lamar celebrated Juneteenth with a victory lap. Fresh off besting Drake in a back-and-forth … [+7187 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Bill Connelly",
-            "title": "ACC preview: Can newcomers challenge Florida State and Clemson?",
-            "description": "What's ahead in the ACC in 2024? We break down the best players and games and title odds in the league.",
-            "url": "https://www.espn.com/college-football/insider/story/_/id/40453081/acc-2024-college-football-preview-florida-state-clemson-more",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0701%2Fr1353038_1296x729_16%2D9.jpg",
-            "publishedAt": "2024-07-02T13:26:50Z",
-            "content": "Thank goodness actual football is starting soon. No offense to the good folks of the Atlantic Coast Conference, but when lawsuits and countersuits are the primary storyline of your offseason, well, y… [+59258 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Joe Edwards",
-            "title": "Texas Woman Arrested After Inventing Fake Child",
-            "description": "An El Paso resident was arrested by police after claiming her non-existent child was missing.",
-            "url": "https://www.newsweek.com/texas-woman-arrested-inventing-fake-child-1920050",
-            "urlToImage": "https://d.newsweek.com/en/full/2420852/stacie-dashay-marie-smith.jpg",
-            "publishedAt": "2024-07-02T13:12:16Z",
-            "content": "A 19-year-old woman has been arrested in Texas after providing a false report to police claiming her nonexistent child was missing.\r\nStacie Dashay Marie Smith placed a 911 call on June 30, during whi… [+2910 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Freerepublic.com"
-            },
-            "author": "FOR DAILYMAIL.COM",
-            "title": "(State Farm) Major insurer gives brutal ultimatum to entire state: Let us put up prices by 50 percent or we will leave",
-            "description": "READ MORE: The insurance on my 2012 Mazda went up 72% to $233 a month!' A prominent insurance provider has aired an ultimatum to the entire state of California. The firm, State Farm General, asked the state’s Department of Insurance Thursday to let them raise…",
-            "url": "https://freerepublic.com/focus/f-chat/4248239/posts",
-            "urlToImage": null,
-            "publishedAt": "2024-07-02T12:28:56Z",
-            "content": "Skip to comments.\r\n(State Farm) Major insurer gives brutal ultimatum to entire state: Let us put up prices by 50 percent or we will leaveFOR DAILYMAIL.COM ^\r\n | 1 July 2024 | UPDATED: 08:15 EDT, 2 Ju… [+9012 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Freerepublic.com"
-            },
-            "author": "FOR DAILYMAIL.COM",
-            "title": "(State Farm) Major insurer gives brutal ultimatum to entire state: Let us put up prices by 50 percent or we will leave",
-            "description": "READ MORE: The insurance on my 2012 Mazda went up 72% to $233 a month!' A prominent insurance provider has aired an ultimatum to the entire state of California. The firm, State Farm General, asked the state’s Department of Insurance Thursday to let them raise…",
-            "url": "https://freerepublic.com/focus/f-news/4248239/posts",
-            "urlToImage": null,
-            "publishedAt": "2024-07-02T12:28:56Z",
-            "content": "Skip to comments.\r\n(State Farm) Major insurer gives brutal ultimatum to entire state: Let us put up prices by 50 percent or we will leaveFOR DAILYMAIL.COM ^\r\n | 1 July 2024 | UPDATED: 08:15 EDT, 2 Ju… [+9096 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fangraphs.com"
-            },
-            "author": "Jon Becker",
-            "title": "Top of the Order: AL Trade Deadline Preview",
-            "description": "With four weeks to go until the July 30 trade deadline, let’s take a look at what the AL teams might do — and which players might be on the move.",
-            "url": "https://blogs.fangraphs.com/top-of-the-order-al-trade-deadline-preview/",
-            "urlToImage": "https://blogs.fangraphs.com/wp-content/uploads/2024/06/USATSI_23197502.jpg",
-            "publishedAt": "2024-07-02T02:02:12Z",
-            "content": "Jeff Curry-USA TODAY Sports\r\n\nWelcome back to Top of the Order, where every Tuesday and Friday I’ll be starting your baseball day with some news, notes, and thoughts about the game we love.\nWith just… [+13413 chars]"
+                "name": "Thenation.com"
+            },
+            "author": "Chris Lehmann",
+            "title": "Biden’s Salvo Against Party “Elites” Is a Cop-Out",
+            "description": "Chris Lehmann\n\n\n\nFrom his perch in the nation’s highest office, the president has positioned himself as the underdog—against elected Democratic representatives.\r\n\n\r\n\n\nThe post Biden’s Salvo Against Party “Elites” Is a Cop-Out appeared first on The Nation.",
+            "url": "https://www.thenation.com/article/politics/biden-elites-democrats/",
+            "urlToImage": "https://www.thenation.com/wp-content/uploads/2024/07/Biden_points-ap.jpg",
+            "publishedAt": "2024-07-09T14:21:05Z",
+            "content": "From his perch in the nations highest office, the president has positioned himself as the underdogagainst elected Democratic representatives.\r\nAd Policy\r\nDemocratic presidential candidate former vice… [+8786 chars]"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Legalinsurrection.com"
-            },
-            "author": "Mary Chastain",
-            "title": "Illegal Aliens Could Face Death Penalty After Test Shows Murdered 12-Year-Old was Sexually Assaulted",
-            "description": "Harris County DA Kim Ogg has also received backlash after she blamed America's broken immigration system.\nThe post Illegal Aliens Could Face Death Penalty After Test Shows Murdered 12-Year-Old was Sexually Assaulted first appeared on Le·gal In·sur·rec·tion.",
-            "url": "https://legalinsurrection.com/2024/07/illegal-aliens-could-face-death-penalty-after-test-shows-murdered-12-year-old-was-sexually-assaulted/",
-            "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2024/07/Jocelyn-Nungaray.jpg",
-            "publishedAt": "2024-07-02T01:00:05Z",
-            "content": "The Houston Forensic Center confirmed Jocelyn Nungaray, 12, had been sexually assaulted.\r\nTwo illegal aliens face murder charges after Nungaray’s body was found in a creek in north Houston:\r\nJohan Jo… [+1492 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Louis Casiano",
-            "title": "Texas leaders draft 'Jocelyn's Law' after 12-year-old's murder, would deny bail for capital murder suspects",
-            "description": "Texas Lt. Gov. Dan Patrick said he wants lawmakers to pass \"Jocelyn's Law,\" which would deny bail to capital murder suspects.",
-            "url": "https://www.foxnews.com/us/texas-leaders-draft-jocelyns-law-12-year-olds-murder-would-deny-bail-capital-murder-suspects",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/jn4.jpg",
-            "publishedAt": "2024-07-02T00:30:03Z",
-            "content": "Texas Lt. Gov. Dan Patrick said he told the mother of a 12-year-old Houston girl who was allegedly killed by two illegal immigrants that he wants state lawmakers to pass a bill named after the victim… [+4163 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vulture"
-            },
-            "author": "Tim Grierson,Will Leitch",
-            "title": "Every Kevin Costner Movie, Ranked",
-            "description": "Kevin Costner’s career is full of peaks, valleys, and ‘Waterworlds.’ With the first part of his western epic ‘Horizon’ in theaters, we ranked his movie roles.",
-            "url": "http://www.vulture.com/article/best-kevin-costner-movies-ranked.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/5e9/1f9/23ef1565ff7575e070d55fc7f787881078-kevin-costner.1x.rsocial.w1200.jpg",
-            "publishedAt": "2024-07-01T16:00:00Z",
-            "content": "This list was originally published on November 13, 2020. It has been updated to include Horizon: An American Saga. \r\nThere are some celebrities who so seem to represent American masculinity well, str… [+35032 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
-            "author": "Warner Todd Huston, Warner Todd Huston",
-            "title": "A Wave of Migrant Crime Engulfing America",
-            "description": "A wave of serious migrant crime continues to sweep across America as President Joe Biden and his surrogates defend the wide-open border policies drawing millions of aliens to cascade unvetted across our borders.\nThe post A Wave of Migrant Crime Engulfing Amer…",
-            "url": "https://www.breitbart.com/immigration/2024/07/01/a-wave-of-migrant-crime-engulfing-america/",
-            "urlToImage": "https://media.breitbart.com/media/2018/12/file-photo-ice-arrest-criminal-illegal-aliens-12-ap.jpg",
-            "publishedAt": "2024-07-01T15:23:16Z",
-            "content": "A wave of serious migrant crime continues to sweep across America as President Joe Biden and his surrogates defend the wide-open border policies drawing millions of aliens to cascade unvetted across … [+7085 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Louis Casiano",
-            "title": "Harris County DA decries 'broken' immigration system",
-            "description": "Harris County District Attorney Kim Ogg blamed the \"broken\" immigration system as two illegal immigrants were accused of killing 12-year-old Jocelyn Nungaray in Houston, Texas.",
-            "url": "https://www.foxnews.com/us/jocelyn-nungaray-murder-texas-county-dubbed-sanctuary-criminals-dem-da-tries-shift-blame",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/jn4.jpg",
-            "publishedAt": "2024-07-01T08:00:59Z",
-            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+3737 chars]"
-        },
-        {
-            "source": {
-                "id": "time",
-                "name": "Time"
-            },
-            "author": "Alice Park / Minneapolis, Minn.",
-            "title": "Meet the U.S. Gymnastics Team for the Paris Olympics",
-            "description": "The group features five veteran Olympians and five who will make their Olympic debuts at the Bercy Arena.",
-            "url": "https://time.com/6994078/paris-olympics-us-gymnastics-team-men-women/",
-            "urlToImage": "https://api.time.com/wp-content/uploads/2024/07/us-olympics-gymnastic-team-paris-trials.jpg?quality=85&w=1024&h=628&crop=1",
-            "publishedAt": "2024-07-01T07:33:00Z",
-            "content": "The U.S. has set its womens and mens gymnastics teams for Paris. The group features five Olympians, including Simone Biles, who is competing in her third Summer Games, and five who will make their Ol… [+19295 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Naturalnews.com"
-            },
-            "author": "Kevin Hughes",
-            "title": "Texas Children’s Hospital forced to temporarily SHUT DOWN transgender program following whistleblower revelations",
-            "description": "Texas Children’s Hospital (TCH) in Houston has shut down its gender reassignment clinic for minors following recent disclosures in connection with its underage sex-change practices. On Tuesday, June 18, Manhattan Institute journalist and New College of Florid…",
-            "url": "https://www.naturalnews.com/2024-07-01-childrens-hospital-closes-transgender-program-whistleblower-revelations.html",
-            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2024/07/Transgender-Gender-Dysphoria-Block-Symbols.jpg",
-            "publishedAt": "2024-07-01T06:00:00Z",
-            "content": "Texas Children's Hospital (TCH) in Houston has shut down its gender reassignment clinic for minors following recent disclosures in connection with its underage sex-change practices.\r\nOn Tuesday, June… [+4970 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Alyssa Roenigk",
-            "title": "Suni Lee, Shilese Jones and the toughest U.S. Olympic gymnastics team to make",
-            "description": "The journeys of Suni Lee, Shilese Jones, Leanne Wong and Joscelyn Roberson highlight the transformation of U.S. gymnastics.",
-            "url": "https://www.espn.com/olympics/story/_/id/40444608/suni-lee-shilese-jones-2024-olympic-gymnastics-team-fight",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0701%2Fr1352879_1296x729_16%2D9.jpg",
-            "publishedAt": "2024-07-01T03:55:59Z",
-            "content": "MINNEAPOLIS -- Look around the arena and it's tough to know where to focus. On Friday night, an hour before the first of two days of competition that will determine the 2024 U.S. Olympic gymnastics t… [+41067 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Jon Dolan",
-            "title": "The 25 Most Controversial Rap Albums of All Time",
-            "description": "They shocked parents, scandalized politicians, and had radio programmers running for the hills",
-            "url": "http://www.rollingstone.com/music/music-lists/most-controversial-rap-albums-1235044854/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/06/most-controversial-rap-albums.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2024-06-30T14:38:25Z",
-            "content": "It may be a reckless exercise to try and list 25 rap albums memorable for the controversy they induced. Since the mid-Eighties, after the genre slowly evolved from a mostly 12-inch medium to one wher… [+27032 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Freerepublic.com"
-            },
-            "author": "Customer at work",
-            "title": "Illegal immigrants setting up organized crime of every category in the U.S.",
-            "description": "The flood of illegal immigrants is starting to take effect on the crime situation. It's already bad with our homegrown bunch reared with little or no values, but now we have to deal with thousands out of the millions of illegal immigrants who not only have no…",
-            "url": "https://freerepublic.com/focus/f-chat/4247710/posts",
-            "urlToImage": null,
-            "publishedAt": "2024-06-29T19:44:40Z",
-            "content": "Skip to comments.\r\nIllegal immigrants setting up organized crime of every category in the U.S.Customer at work\r\n | 29 June 2024\r\n | Mene Mene Tekel Upharsin\r\nPosted on 06/29/2024 12:44:40 PM PDT by M… [+5359 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Westernjournal.com"
-            },
-            "author": "Jack Davis",
-            "title": "79,000 DACA Recipients Were Approved Despite Arrest Records, Some Arrested 10x or More",
-            "description": "One of Barack Obama's signature programs blocked deportation for more than 79,000 illegal immigrants who had arrest records.",
-            "url": "https://www.westernjournal.com/79000-daca-recipients-approved-despite-arrest-records-arrested-10x/",
-            "urlToImage": "https://www.westernjournal.com/wp-content/uploads/2024/06/smiley-joebama.jpg",
-            "publishedAt": "2024-06-29T19:05:40Z",
-            "content": "At the dawn of the program allowing the children of illegal immigrants to remain in the United States, thousands who had arrest records were allowed to remain.\r\nA report from 2019 that covers the Def… [+3622 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Michael Dorgan",
-            "title": "Trump called Jocelyn Nungaray’s mother 10 minutes before debate against Biden",
-            "description": "Former President Trump called the mother of murdered 12-year-old Houston girl Jocelyn Nungaray to offer his condolences just minutes before he took to the debate stage against President Biden on Thursday.",
-            "url": "https://www.foxnews.com/us/trump-called-jocelyn-nungarays-mother-10-minutes-before-debate-against-biden",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/Nungary.png",
-            "publishedAt": "2024-06-29T13:13:48Z",
-            "content": "Former President Trump called the mother of murdered 12-year-old Houston girl Jocelyn Nungaray just minutes before he took to the debate stage against President Biden on Thursday, with the slain girl… [+3361 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Michael Dorgan",
-            "title": "Trump called Jocelyn Nungaray’s mother 10 minutes before debate against Biden: report",
-            "description": "Former President Trump called the mother of murdered 12-year-old Houston girl Jocelyn Nungaray to offer his condolences just minutes before he took to the debate stage against President Biden on Thursday.",
-            "url": "https://www.foxnews.com/us/trump-called-jocelyn-nungarays-mother-10-minutes-before-debate-against-biden-report",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/Nungary.png",
-            "publishedAt": "2024-06-29T11:59:34Z",
-            "content": "Former President Trump called the mother of murdered 12-year-old Houston girl Jocelyn Nungaray just minutes before he took to the debate stage against President Biden on Thursday, with the slain girl… [+3267 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Wnd.com"
-            },
-            "author": "Around the Web",
-            "title": "Illegal migrant suffocated woman to death on her birthday",
-            "description": "Tried to hide her body in a local park",
-            "url": "https://www.wnd.com/2024/06/illegal-migrant-suffocated-woman-death-birthday/",
-            "urlToImage": "https://www.wnd.com/wp-content/uploads/2021/07/pixabay-crime-scene.jpg",
-            "publishedAt": "2024-06-28T20:13:32Z",
-            "content": "Jason HopkinsDaily Caller News Foundation\r\nAn illegal immigrant from Ecuador killed a woman on her birthday and then tried to hide her body in a local park, New York prosecutors are alleging.\r\nJhon M… [+3737 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "peterdeadline",
-            "title": "Carlos King Wants More Black Reality Shows To Be Produced By Black Production Companies",
-            "description": "Carlos King, who runs Kingdom Reign Entertainment, the company behind the hit Love & Marriage franchise, knows a thing or two about producing African American-focused reality television. Kingdom Reign is behind three Love & Marriage series for OWN set in Hunt…",
-            "url": "http://deadline.com/2024/06/carlos-king-interview-1235985053/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2024/06/MixCollage-27-Jun-2024-12-18-PM-1655.jpg?w=1000",
-            "publishedAt": "2024-06-28T19:21:00Z",
-            "content": "Carlos King, who runs Kingdom Reign Entertainment, the company behind the hit Love &amp; Marriage franchise, knows a thing or two about producing African American-focused reality television.\r\nKingdom… [+5850 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Freerepublic.com"
-            },
-            "author": "Christian Post",
-            "title": "2 Chick-fil-A employees killed by illegal immigrant in Texas restaraunt: 'Our hearts are broken'",
-            "description": "A Chick-fil-A restaurant in Texas has been temporarily closed after two employees were shot and killed inside the fast-food establishment by an immigrant in the country unlawfully from El Salvador. Authorities do not believe the double homicide was a random a…",
-            "url": "https://freerepublic.com/focus/f-news/4247431/posts",
-            "urlToImage": null,
-            "publishedAt": "2024-06-28T17:10:32Z",
-            "content": "Skip to comments.\r\n2 Chick-fil-A employees killed by illegal immigrant in Texas restaraunt: 'Our hearts are broken'Christian Post ^\r\n | 06/28/2024\r\n | CP Staff\r\nPosted on 06/28/2024 10:10:32 AM PDT b… [+7250 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Chip Patterson",
-            "title": "2024 ACC win totals, odds, picks: Clemson, Florida State have highest number, Virginia Tech plays dark horse",
-            "description": "Analyzing win totals for each team in the ACC as the conference expands to 17 teams for the 2024 season",
-            "url": "https://www.cbssports.com/college-football/news/2024-acc-win-totals-odds-picks-clemson-florida-state-have-highest-number-virginia-tech-plays-dark-horse/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/06/27/59652fbd-a42f-4b42-819d-2bec514b7d97/thumbnail/1200x675/d6cf0bf0ae852c4df78de80bda5399ea/dabo-swinney-getty.jpg",
-            "publishedAt": "2024-06-28T14:21:22Z",
-            "content": "The 2024 ACC season will be a landmark one as membership balloons to 17 full-time football members with the offseason additions of California, Stanford and SMU. With only eight games on the conferenc… [+14324 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fangraphs.com"
-            },
-            "author": "Eric Longenhagen and Travis Ice",
-            "title": "Baltimore Orioles Top 45 Prospects",
-            "description": "This is one of the best handful of farm systems in baseball, with the vast majority of the prospects who project to have everyday futures (or close to it) on the position player side, while the system's depth is in its pitching.",
-            "url": "https://blogs.fangraphs.com/baltimore-orioles-top-45-prospects-2024/",
-            "urlToImage": "https://blogs.fangraphs.com/wp-content/uploads/2024/06/USATSI_23034175.jpg",
-            "publishedAt": "2024-06-28T14:07:14Z",
-            "content": "Tommy Gilligan-USA TODAY Sports\r\n\n\n \n \n FGWebsite_head_section.buildProspectsNavWidget({\n currentSeason: 2024,\n previousSeason: 2023,\n currentReportTermId: 4064,\n currentPrelimTermId: 4065,\n previous… [+100066 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SiliconANGLE News"
-            },
-            "author": "Dave Vellante",
-            "title": "Dave Vellante’s Breaking Analysis: The complete collection",
-            "description": "Breaking Analysis is a weekly editorial program combining knowledge from SiliconANGLE’s theCUBE with spending data from Enterprise Technology Research. Branded as theCUBE Insights, Powered by ETR, the program is our opportunity to share independent, unfiltere…",
-            "url": "https://siliconangle.com/2024/06/28/dave-vellantes-breaking-analysis-complete-collection/",
-            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/dave-breaking-analysis.png",
-            "publishedAt": "2024-06-28T10:33:12Z",
-            "content": "Breaking Analysis is a weekly editorial program combining knowledge from SiliconANGLEs theCUBE with spending data from Enterprise Technology Research.\r\nBranded as theCUBE Insights, Powered by ETR, th… [+182838 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Rosy Cordero",
-            "title": "CAPE & STARZ #TakeThe Lead Set Showrunners Incubator Inaugural Class for Asian & Pacific Islander TV Writers",
-            "description": "EXCLUSIVE: The Coalition of Asian Pacifics in Entertainment reveals the inaugural class for their latest program, the CAPE Showrunners Incubator, powered by Starz #TakeTheLead. They are Kiel McNaughton, Chris Bessounian, Johanna Le, Aaron Ho, Oanh Ly, Tianna …",
-            "url": "http://deadline.com/2024/06/cape-showrunners-incubator-inaugural-class-1235985021/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2024/06/Cape.jpg?w=1024",
-            "publishedAt": "2024-06-27T23:30:26Z",
-            "content": "EXCLUSIVE: The Coalition of Asian Pacifics in Entertainment reveals the inaugural class for their latest program, the CAPE Showrunners Incubator, powered by Starz #TakeTheLead.\r\nThey are Kiel McNaugh… [+5793 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Cory Woodroof",
-            "title": "LeBron James and Bronny James through the years as the two join forces with the Lakers",
-            "description": "Let's follow LeBron James and Bronny James through the years as they join together with the Lakers.",
-            "url": "https://ftw.usatoday.com/lists/lebron-james-and-bronny-james-through-the-years-lakers-photos-nba",
-            "urlToImage": "https://ftw.usatoday.com/wp-content/uploads/sites/90/2024/06/USATSI_21939728.jpg?w=1024&h=576&crop=1",
-            "publishedAt": "2024-06-27T22:55:42Z",
-            "content": "LeBron James and Bronny James are finally playing together in the NBA. \r\nThe younger James being selected by the Los Angeles Lakers on Thursday afternoon in the second round of the 2024 NBA Draft, pa… [+7100 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
-            "author": "John Binder, John Binder",
-            "title": "Migrant Crime on Joe Biden's Watch Haunts American Communities Ahead of First Presidential Debate",
-            "description": "High-profile murders of American women, allegedly at the hands of illegal aliens, loom over communities ahead of the first presidential debate.\nThe post Migrant Crime on Joe Biden’s Watch Haunts American Communities Ahead of First Presidential Debate appeared…",
-            "url": "https://www.breitbart.com/politics/2024/06/27/migrant-crime-joe-bidens-watch-haunts-american-communities-ahead-first-presidential-debate/",
-            "urlToImage": "https://media.breitbart.com/media/2024/06/Female-Victims-of-Open-Borders-640x335.png",
-            "publishedAt": "2024-06-27T17:40:13Z",
-            "content": "A string of high-profile murders of American women, allegedly at the hands of illegal alien men, looms over communities ahead of the first presidential debate, where President Joe Biden is expected t… [+7020 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Daily Caller"
-            },
-            "author": "Mary Rooke",
-            "title": "Will They Say Her Name?",
-            "description": "It's a sad reality that the horrific rape and killing of a little girl by two illegal immigrants will likely be ignored at a presidential debate.",
-            "url": "https://dailycaller.com/2024/06/27/jocelyn-nungaray-murder-cnn-debate-trump-biden/",
-            "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/06/MixCollage-27-Jun-2024-01-12-PM-7683-scaled-e1719508520647.jpg",
-            "publishedAt": "2024-06-27T17:18:25Z",
-            "content": "The rape and murder of 12-year-old Jocelyn Nungaray in Houston, Texas, allegedly by two illegal immigrants, quickly captured the sympathies of Americans nationwide as yet another tragic example of Pr… [+4107 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-post",
-                "name": "Financial Post"
-            },
-            "author": "GlobeNewswire",
-            "title": "BlockQuarry Corp. Announces Strategic Partnership with Hawkeye Industrial Services to Lead AI Computing Transformation",
-            "description": "Collaborative Effort Focuses on Advancing AI Operations and Localized Data Processing Solutions HOUSTON, June 27, 2024 (GLOBE NEWSWIRE) — via IBN — BlockQuarry Corp. (OTC: BLQC), a leading Texas-based energy and infrastructure company, today announced a trans…",
-            "url": "https://financialpost.com/globe-newswire/blockquarry-corp-announces-strategic-partnership-with-hawkeye-industrial-services-to-lead-ai-computing-transformation",
-            "urlToImage": null,
-            "publishedAt": "2024-06-27T16:02:55Z",
-            "content": "Author of the article:\r\nArticle content\r\nCollaborative Effort Focuses on Advancing AI Operations and Localized Data Processing Solutions\r\nHOUSTON, June 27, 2024 (GLOBE NEWSWIRE) via IBN  BlockQuarry … [+7802 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Mike Hixenbaugh",
-            "title": "Pastor Robert Morris asked his accuser how much her silence would cost, phone transcript shows",
-            "description": "A document that a former Gateway staff member says he found on Robert Morris’ church laptop details a call with the woman who accused him of sexually abusing her as a child.",
-            "url": "https://www.nbcnews.com/news/us-news/robert-morris-gateway-church-sex-abuse-accuser-phone-call-rcna159153",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-06/240626-Texas-Megachurch-Pastor-Accused-Robert-Morris-2020-ac-948p-ecbcaf.jpg",
-            "publishedAt": "2024-06-27T16:01:00Z",
-            "content": "Robert Morris, a pastor and the founder of Gateway Church, wanted to know what it was going to take to prevent the woman on the phone from going public with her accusation that hed sexually abused he… [+9760 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Futurity: Research News"
-            },
-            "author": "James Devitt-NYU",
-            "title": "‘Glue’ discovery reveals how memories last a lifetime",
-            "description": "New research uncovers a biological explanation for how our memories can last so long.",
-            "url": "https://www.futurity.org/how-long-term-memories-last-3235022/",
-            "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2024/06/how-do-long-term-memories-last-biology-1600.jpg",
-            "publishedAt": "2024-06-27T15:31:18Z",
-            "content": "Researchers have uncovered a biological explanation for long-term memories.\r\nWhether it’s a first-time visit to a zoo or when we learned to ride a bicycle, we have memories from our childhoods kept w… [+4470 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Greg Norman",
-            "title": "Houston girl allegedly killed by illegal immigrants to have funeral hours before CNN Presidential Debate",
-            "description": "Jocelyn Nungaray is set to be remembered at a funeral Thursday hours before the CNN Presidential Debate, where immigration is expected to be a key issue.",
-            "url": "https://www.foxnews.com/us/houston-girl-allegedly-killed-illegal-immigrants-have-funeral-hours-before-cnn-presidential-debate",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/nungaray.jpg",
-            "publishedAt": "2024-06-27T12:33:07Z",
-            "content": "The funeral for murdered 12-year-old Houston girl Jocelyn Nungaray is set to be held Thursday afternoon just hours ahead of the CNN Presidential Debate, where immigration and Americas border security… [+2309 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Thefutoncritic.com"
-            },
-            "author": null,
-            "title": "A&E to Premiere the Two-Night Documentary Event \"The Chicano Squad\" Beginning Monday, September 2nd at 9PM ET/PT",
-            "description": "The project chronicles a groundbreaking team of bilingual patrol officers plucked from their beats and suddenly promoted to Detectives to form the first all-Latin homicide unit dedicated to tackling Houston's soaring rate of Latin homicide cases in 1979.",
-            "url": "http://www.thefutoncritic.com/news/2024/06/27/aande-to-premiere-the-two-night-documentary-event-the-chicano-squad-beginning-monday-september-2nd-at-9pm-et-pt-937011/20240627aande01/",
-            "urlToImage": null,
-            "publishedAt": "2024-06-27T08:03:00Z",
-            "content": "A&amp;E TO PREMIERE THE TWO-NIGHT DOCUMENTARY EVENT \"THE CHICANO SQUAD\" BEGINNING MONDAY, SEPTEMBER 2ND AT 9PM ET/PT\r\nTHE SPECIAL TELLS THE FIRST-HAND STORY OF THE FIRST ALL-LATIN HOMICIDE UNIT WITHI… [+5807 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "NBC Sports",
-            "title": "2024 NBA Draft Tracker: Round-by-round picks, analysis, trades for every first-round selection",
-            "description": "Who will go No. 1? Where does two-time college player of the year Zach Edey go? What about Bronny James?",
-            "url": "https://www.nbcsports.com/nba/news/2024-nba-draft-tracker-round-by-round-picks-analysis-trades-for-every-first-round-selection",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/tbmmaN_Ly0gIaHavOs0LBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/nbcsports.com/6b2553bbbc505b3cf6868155b7489710",
-            "publishedAt": "2024-06-27T02:15:41Z",
-            "content": "No. 26, Oklahoma City Thunder select:Dillon Jones, 6'4\" wing, Weber State. This is by far the biggest upset pick of the first round Jones was projected to go in the late second-round pick if he got s… [+27696 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Louis Casiano",
-            "title": "Houston's 'Mattress Mack' to pay for funeral for Jocelyn Nungaray, girl allegedly killed by illegal immigrants",
-            "description": "\"Mattress Mack\" will pay for the funeral service for Jocelyn Nungaray, the Houston girl allegedly killed by two illegal immigrants from Venezuela.",
-            "url": "https://www.foxnews.com/us/houstons-mattress-mack-pay-funeral-jocelyn-nungaray-girl-killed-illegal-immigrants",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/MatressMack.jpg",
-            "publishedAt": "2024-06-27T02:05:28Z",
-            "content": "The funeral for Jocelyn Nungaray, the 12-year-old Houston girl allegedly killed by two illegal immigrants and left for dead in a creek, will be held Thursday.\r\nJim McIngvale, known in and around the … [+3307 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Freerepublic.com"
-            },
-            "author": "New York Post",
-            "title": "Tone-deaf Mayorkas claims ‘only the criminal’ to blame for slaughter of 12-year-old Texas girl, not Biden border policy",
-            "description": "Tone-deaf Department of Homeland Security Secretary Alejandro Mayorkas on Wednesday shrugged off attempts to blame Biden’s border policy for the horrific slaughter of Americans at the hands of illegal migrants, saying, “The individual who is responsible for a…",
-            "url": "https://freerepublic.com/focus/f-news/4247011/posts",
-            "urlToImage": null,
-            "publishedAt": "2024-06-27T01:09:08Z",
-            "content": "Skip to comments.\r\n Tone-deaf Mayorkas claims only the criminal to blame for slaughter of 12-year-old Texas girl, not Biden border policy New York Post ^\r\n | June 26, 2024 Updated June 26, 2024, 6:28… [+7397 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-post",
-                "name": "Financial Post"
-            },
-            "author": "Bloomberg News",
-            "title": "Banker-Lawyer Duo Make Billions From Audacious Natural Gas Bet",
-            "description": "The founders of Venture Global stand at the forefront of a US natural gas export boom that’s now in question.",
-            "url": "https://financialpost.com/pmn/business-pmn/banker-lawyer-duo-make-billions-from-audacious-natural-gas-bet",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/06/wolf-image.jpg",
-            "publishedAt": "2024-06-27T00:37:33Z",
-            "content": "The founders of Venture Global stand at the forefront of a US natural gas export boom thats now in question.\r\nAuthor of the article:\r\nVenture Global's Plaquemines plant is expected to begin shipments… [+17213 chars]"
-        }
-    ],
-    "columbia": [
         {
             "source": {
                 "id": null,
@@ -1627,87 +1653,282 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/a-south-carolina-department-of-corrections-inmate.jpg",
             "publishedAt": "2024-06-13T20:36:07Z",
             "content": "A South Carolina corrections officer was stabbed in the head by an inmate on Thursday morning, officials said. \r\nA spokesperson for the South Carolina Department of Corrections told Fox News Digital … [+602 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Boston Globe"
-            },
-            "author": null,
-            "title": "House Republicans vote to hold Garland in contempt",
-            "description": "They vote was over Garland's refusal to turn over audio of President Biden’s interview in his classified documents case.",
-            "url": "https://www.bostonglobe.com/2024/06/12/nation/house-republicans-vote-hold-garland-contempt/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/pfdBHtTxOsYdbmp_SWS_ZJWCSBg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/IA4TXGGUNUO7IIHGAMCJ3QYXNQ.jpg",
-            "publishedAt": "2024-06-12T21:21:31Z",
-            "content": "Garland is now the third attorney general to be held in contempt of Congress. Yet it is unlikely that the Justice Department which Garland oversees will prosecute him. The White Houses decision to ex… [+7849 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Typepad.com"
-            },
-            "author": "Paul Caron",
-            "title": "Law, Society, And Taxation Panels",
-            "description": "Law, Society, and Taxation panels at last week's 2024 Law & Society Association Annual Meeting in Denver: Thursday: Tax, Ethics, and Charity (Neil Buchanan (Florida; Google Scholar), Chair/Discussant): While tax law often seems to operate in something like a …",
-            "url": "https://taxprof.typepad.com/taxprof_blog/2024/06/law-society-and-taxation-panels.html",
-            "urlToImage": "https://taxprof.typepad.com/.a/6a00d8341c4eab53ef02c8d3b649f6200b-220si",
-            "publishedAt": "2024-06-12T19:01:00Z",
-            "content": "Law, Society, and Taxation panels at last week's 2024 Law &amp; Society Association Annual Meeting in Denver:\r\nThursday:  \r\nTax, Ethics, and Charity(Neil Buchanan (Florida; Google Scholar), Chair/Dis… [+62150 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Bill Hutchinson, Jennifer Vilcarino",
-            "title": "$20 switch fueling surge in machine-gun violence: Experts",
-            "description": "Before he was killed in a hail of gunfire at a Sweet 16 birthday party in Dadeville, Alabama, Marsiah Collins told his father about teenagers armed with machine guns.",
-            "url": "https://abcnews.go.com/US/machine-gun-conversion-device-taking-violence-level-experts/story?id=110855649",
-            "urlToImage": "https://i.abcnewsfe.com/a/f070a332-2ad2-449a-b534-f0b02d4973d4/Akron-shooting-2-abc.jm-240602_1717341025909_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2024-06-12T16:57:38Z",
-            "content": "Just weeks before he was killed along with three others in a hail of gunfire at a Sweet 16 birthday party in Dadeville, Alabama, 19-year-old Marsiah Collins told his father about a growing national c… [+16496 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "HuffPost"
-            },
-            "author": "Drusilla Moorhouse",
-            "title": "Woman Who Unwittingly Married Serial Killer Connects With Surviving Victim On TikTok",
-            "description": "Survivor Kara Robinson Chamberlain said she’s learned a powerful lesson since going viral herself on the platform: Share your story when it’s a scar, not a wound.",
-            "url": "https://www.huffpost.com/entry/tik-tok-serial-killer-wife_n_66689c87e4b076bcfea0c4c3",
-            "urlToImage": "https://img.huffingtonpost.com/asset/66689fb12200001c001a51ed.png?cache=v96MdDmHSV&ops=1200_630",
-            "publishedAt": "2024-06-12T12:00:25Z",
-            "content": "In her first-ever post to TikTok, Bonnie Lou Gower revealed shed been married at 17, divorced at 25, remarried, had two children then discovered her first husband was a serial killer responsible for … [+6244 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Atlantic"
-            },
-            "author": "George Packer",
-            "title": "The Valley",
-            "description": "Searching for the future in the most American city",
-            "url": "https://www.theatlantic.com/magazine/archive/2024/07/phoenix-climate-drought-republican-politics/678494/?utm_source=feed",
-            "urlToImage": null,
-            "publishedAt": "2024-06-10T10:00:00Z",
-            "content": "Photographs by Ashley GilbertsonNo one knows why the Hohokam Indians vanished. They had carved hundreds of miles of canals in the Sonoran Desert with stone tools and channeled the waters of the Salt … [+146225 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Indianapolis Star"
-            },
-            "author": "IndyStar | The Indianapolis Star",
-            "title": "Curt Cignetti building recruiting momentum with IU football. Here's how 2025 class looks.",
-            "description": "IU football and Curt Cignetti have 11 commitments in a 2025 recruiting class ranked in the top-40 by On3.com.",
-            "url": "https://www.indystar.com/story/sports/college/indiana/2024/06/09/closer-look-at-iu-football-2025-recruiting-class-under-curt-cignetti-indiana-hoosiers-commits/74016697007/",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XLnDzNbkSKb3zQMqfSumXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjEw/https://media.zenfs.com/en/indystar-the-indianapolis-star/03d582c20c2d56cbc675086fe3e65af2",
-            "publishedAt": "2024-06-10T02:24:22Z",
-            "content": "Upon his arrival in Bloomington, Curt Cignetti overhauled IU football's recruiting department. And so far, the Hoosiers are starting to see the fruits of their labor with 11 commitments in a 2025 rec… [+10312 chars]"
         }
     ],
     "orlando": [
+        {
+            "source": {
+                "id": null,
+                "name": "Inside the Magic"
+            },
+            "author": "Emmanuel Detres",
+            "title": "Theme Parks in Crisis: Earth-Shattering Heat Waves Prompt National Emergency at Disneyland, Other Major Parks",
+            "description": "This past weekend and week saw some of the highest recorded temperatures on Earth, significantly impacting the Disney Parks in California and other major theme parks across Death Valley and other states. UPDATES AS OF JULY 12: The National Weather Service has…",
+            "url": "https://insidethemagic.net/?p=710864&preview=true&preview_id=710864",
+            "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/07/Untitled-design-2024-07-02T143251.897.jpg",
+            "publishedAt": "2024-07-13T12:01:33Z",
+            "content": "This past weekend and week saw some of the highest recorded temperatures on Earth, significantly impacting the Disney Parks in California and other major theme parks across Death Valley and other sta… [+6334 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Peter Burke",
+            "title": "Japanese soufflé pancake gaining popularity in US, yet origin story begins in Hawaii 15 years ago",
+            "description": "The Japanese soufflé pancake has become more popular as a dessert café that specializes in the dish has made its way to the United States, but a chef in Hawaii says it's been around since 2008.",
+            "url": "https://www.foxnews.com/food-drink/japanese-souffle-pancake-gaining-popularity-us-origin-story-hawaii-15-years-ago",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/iStock-1035715456-scaled.jpg",
+            "publishedAt": "2024-07-13T09:59:57Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+6357 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Billie Schwab Dunn",
+            "title": "Mickey Mouse Club Star Brands Show 'Juilliard on Steroids'",
+            "description": "During a chat with Newsweek, actor Nikki DeLoach spoke fondly of her time on the show but detailed the intense work schedule.",
+            "url": "https://www.newsweek.com/mickey-mouse-club-star-nikki-deloach-juilliard-steroids-1918047",
+            "urlToImage": "https://d.newsweek.com/en/full/2425283/mickey-mouse-club-star-juilliard-steroids.png",
+            "publishedAt": "2024-07-13T09:00:01Z",
+            "content": "A former member of the All-New Mickey Mouse Club told Newsweek that the TV show was \"Juilliard on steroids for kids,\" comparing the program to the prestigious performing arts school in New York City.… [+14297 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WFTV Orlando"
+            },
+            "author": "Daryl Matthews",
+            "title": "Family of slain 13-year-old Orange County teen says they moved to Orlando for a better life",
+            "description": "Dieuriper Colin said his sister, 13-year-old Rose Dieujuste, was sweet and kind and didn't deserve to lose her life.",
+            "url": "https://www.wftv.com/news/local/family-slain-13-year-old-orange-county-teen-says-they-moved-orlando-better-life/52GQCB2J7ZB2VBNHKFOMSJSNQA/",
+            "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/YXKOnuXrZn6-w2ZfuITZoeESkVo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/PYTDHN65PVFDDCPZMGYE2UIVBQ.jpeg",
+            "publishedAt": "2024-07-13T03:00:56Z",
+            "content": "ORANGE COUNTY, Fla. — Dieuriper Colin said his sister, 13-year-old Rose Dieujuste, was sweet and kind and didnt deserve to lose her life.\r\nShe was the youngest at the same time she was the favorite i… [+2583 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Aria Bendix and Elysee Barakett",
+            "title": "Why infants are at risk during extreme heat waves",
+            "description": "Amid record-breaking heat waves, doctors caution that some of the most vulnerable people dying from extreme heat — infants — can easily get overlooked.",
+            "url": "https://www.nbcnews.com/health/health-news/infants-are-risk-extreme-heat-waves-rcna161432",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-07/240712-baby-parent-beach-stock-ac-453p-90a5d1.jpg",
+            "publishedAt": "2024-07-12T21:56:04Z",
+            "content": "Amid record-breaking heat waves, doctors caution that some of the most vulnerable people dying from extreme heat infants can easily get overlooked.\r\nLast week, a 4-month-old child died after developi… [+5903 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Orlando Weekly"
+            },
+            "author": "Mckenna Schueler",
+            "title": "New peer respite center opens in Orlando for mental health, a first for Central Florida",
+            "description": "Eva's Casita, a peer respite center run by the local nonprofit Peer Support Space, officially opened its doors two months ago — the first of its kind in Central Florida, and the first and only in the nation designed and led by LGBTQ+ mental-health advocates.",
+            "url": "https://www.orlandoweekly.com/news/new-peer-respite-center-opens-in-orlando-for-mental-health-a-first-for-central-florida-37305728",
+            "urlToImage": "https://media1.orlandoweekly.com/orlando/imager/u/slideshow/37312943/schueler_7540.jpg",
+            "publishedAt": "2024-07-12T21:06:24Z",
+            "content": "Eva's Casita, a peer respite center run by the local nonprofit Peer Support Space, officially opened its doors two months ago the first of its kind in Central Florida, and the first and only in the n… [+9978 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Inside the Magic"
+            },
+            "author": "Chloe James",
+            "title": "Mass Injuries Reported After Theme Park Ride “Falls to the Floor,” Urgent Update Given",
+            "description": "Several riders have been left injured following an incident at a popular theme park (which has already experienced several headline-making incidents in the past). As we’ve stressed multiple times in the past, the odds of being hurt at a theme park are extreme…",
+            "url": "https://insidethemagic.net/2024/07/theme-park-incident-injuries-cj1/",
+            "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/07/bounce-oakwood.jpg",
+            "publishedAt": "2024-07-12T12:40:45Z",
+            "content": "Several riders have been left injured following an incident at a popular theme park (which has already experienced several headline-making incidents in the past).\r\nAs we’ve stressed multiple times in… [+4862 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Inside the Magic"
+            },
+            "author": "Chloe James",
+            "title": "SeaWorld Releases Animal, Months After DeSantis Declares Another Resident’s Freedom",
+            "description": "SeaWorld Orlando has announced the release of yet another animal resident. The use of animals for entertainment at theme parks such as SeaWorld is extremely controversial – and for good reason. The documentary Blackfish (2013) made the impact living in captiv…",
+            "url": "https://insidethemagic.net/2024/07/seaworld-orlando-animal-freedom-desantis-cj1/",
+            "urlToImage": "https://insidethemagic.net/wp-content/uploads/2022/11/seawolrd-orlando-header.png",
+            "publishedAt": "2024-07-12T11:54:47Z",
+            "content": "SeaWorld Orlando has announced the release of yet another animal resident.\r\nThe use of animals for entertainment at theme parks such as SeaWorld is extremely controversialand for good reason. The doc… [+5749 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fox News",
+            "title": "Florida mother Sharitta Grier makes emotional return home from Turks and Caicos after ammo arrest",
+            "description": "Grier does not expect to ever return to Turks and Caicos, though she said she was \"very satisfied\" with the outcome of her case.",
+            "url": "https://nypost.com/2024/07/12/us-news/florida-woman-sharitta-grier-returns-home-after-arrest-in-turks-and-caicos/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/85332230.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-07-12T10:50:11Z",
+            "content": "Sharitta Grier, a 45-year-old mother and grandmother from Florida, returned home Thursday for the first time since April, when she was arrested in Turks and Caicos for having stray bullets in the lin… [+3009 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Audrey Conklin",
+            "title": "Florida woman makes emotional return home from Turks and Caicos after ammo arrest",
+            "description": "Sharitta Grier of Florida returned home Thursday after she was arrested in Turks and Caicos in May for having stray bullets in the lining of her luggage.",
+            "url": "https://www.foxnews.com/us/florida-woman-makes-emotional-return-home-from-turks-caicos-after-ammo-arrest",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/image00025.jpg",
+            "publishedAt": "2024-07-12T02:42:03Z",
+            "content": "Sharitta Grier, a 45-year-old mother and grandmother from Florida,\r\n returned home Thursday for the first time since April, when she was arrested in Turks and Caicos for having stray bullets in the l… [+3096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WFTV Orlando"
+            },
+            "author": "Nikki Demarco",
+            "title": "Federal judge give go-ahead to challenge Florida pronoun law",
+            "description": "A federal judge this week refused to toss out a lawsuit challenging a controversial Florida law requiring teachers to use pronouns that align with their sex assigned at birth, saying plaintiffs “plausibly” alleged the law violates protections against workplac…",
+            "url": "https://www.wftv.com/news/local/federal-judge-give-go-ahead-challenge-florida-pronoun-law/H3HRWY7T2JCYDKOK254A4Z43X4/",
+            "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/9gpEFw6jg7iG-OLWEIYPPQGUQSs=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/RGHKR6PX4BHGBB66Q6GWND4QRU.jpg",
+            "publishedAt": "2024-07-12T02:00:48Z",
+            "content": "TALLAHASSEE, Fla. — A federal judge this week refused to toss out a lawsuit challenging a controversial Florida law requiring teachers to use pronouns that align with their sex assigned at birth, say… [+7078 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Nikki DeMarco",
+            "title": "Federal judge give go-ahead to challenge Florida pronoun law",
+            "description": "A federal judge this week refused to toss out a lawsuit challenging a controversial Florida law requiring teachers to use pronouns that align with their sex ...",
+            "url": "https://www.yahoo.com/news/federal-judge-ahead-challenge-florida-014809757.html",
+            "urlToImage": "https://media.zenfs.com/en/wftv_cox_articles_135/1e401ea9ad7b5fd5b03f1d8191efe1f6",
+            "publishedAt": "2024-07-12T01:48:09Z",
+            "content": "A federal judge this week refused to toss out a lawsuit challenging a controversial Florida law requiring teachers to use pronouns that align with their sex assigned at birth, saying plaintiffs plaus… [+7035 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Inside the Magic"
+            },
+            "author": "Emmanuel Detres",
+            "title": "Scientists Warn Thousands of Worst-Case Scenario, Disney Guests Advised To Withdraw Vacations",
+            "description": "Hurricane season is now through the end of October, with places like Disneyland California and Walt Disney World Resort being directly in the path of these monstrous storms. Unfortunately, officials and scientists have updated their predictions for this hurri…",
+            "url": "https://insidethemagic.net/2024/07/disney-parks-science-climate-huricane-season-emd1/",
+            "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/07/Untitled-design-2024-07-11T170338.802.jpg",
+            "publishedAt": "2024-07-11T21:06:03Z",
+            "content": "Hurricane season is now through the end of October, with places like Disneyland California and Walt Disney World Resort being directly in the path of these monstrous storms. Unfortunately, officials … [+4112 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WFTV Orlando"
+            },
+            "author": "Daryl Matthews",
+            "title": "‘It starts with transparency’: Holly Hill’s new police chief talks department’s future",
+            "description": "Holly Hill’s newest Police Chief, Byron Williams, plans to uphold accountability, respect, and integrity in the department.",
+            "url": "https://www.wftv.com/news/local/it-starts-with-transparency-holly-hills-new-police-chief-talks-departments-future/AL6PM2NKQBE7TFPG56Q3BAQJDI/",
+            "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/fFAliQVg9RXTdxAD-KFFbntUKjQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/DBPYB2QEJ5HDNJ6QH23664IAXA.jpeg",
+            "publishedAt": "2024-07-11T15:45:00Z",
+            "content": "DAYTONA BEACH, Fla. — Holly Hills newest Police Chief, Byron Williams, plans to uphold accountability, respect, and integrity in the department.\r\nChief Williams sat down with WFTV Tonight in his new … [+2452 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Plos.org"
+            },
+            "author": "Charles Baggott, Deirdré Kruger, Riaan Pretorius",
+            "title": "Impact of the Soweto football derby on the trauma emergency department at Chris Hani Baragwanath Academic Hospital, a tertiary level hospital in South Africa",
+            "description": "Introduction The Soweto Derby is one of Africa’s largest football derbies. The two rival teams, Kaizer Chiefs and Orlando Pirates, both originate in Soweto, a sprawling township 20km outside Johannesburg. Soweto is infamous for the high levels of violent crim…",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306836",
+            "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0306836.g003&size=inline",
+            "publishedAt": "2024-07-11T14:00:00Z",
+            "content": "Abstract\r\nIntroduction\r\nThe Soweto Derby is one of Africas largest football derbies. The two rival teams, Kaizer Chiefs and Orlando Pirates, both originate in Soweto, a sprawling township 20km outsid… [+27570 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Inside the Magic"
+            },
+            "author": "Eva Miller",
+            "title": "Disney Cast Member Faces 10-Years for Stealing $180,000 in Guest Refunds",
+            "description": "Nestled within the magical grounds of Walt Disney World Resort, Shades of Green stands as a unique and welcoming retreat for military families. This charming resort caters specifically to service members and their loved ones, offering a peaceful haven amidst …",
+            "url": "https://insidethemagic.net/2024/07/disney-cast-member-exposed-for-stealing-180000-from-walt-disney-world-guests-em1/",
+            "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/06/shades-of-green-disney.jpg",
+            "publishedAt": "2024-07-11T12:31:40Z",
+            "content": "Nestled within the magical grounds of Walt Disney World Resort, Shades of Green stands as a unique and welcoming retreat for military families. This charming resort caters specifically to service mem… [+2869 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "blogTO"
+            },
+            "author": "Jack Landau",
+            "title": "Ontario's record-breaking bridge links across U.S. border in astonishing new photos",
+            "description": "The new $6.4 billion Gordie Howe International Bridge reached its biggest milestone yet this summer, when U.S. and Canadian construction crews linked the two halves of the bridge in a celebration high above the Detroit River.\r\nNow that the two sides are conne…",
+            "url": "https://www.blogto.com/city/2024/07/gordie-howe-bridge-construction-update/",
+            "urlToImage": "https://media.blogto.com/articles/20240709-gordie-howe-bridge.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70",
+            "publishedAt": "2024-07-09T17:50:56Z",
+            "content": "The new $6.4 billion Gordie Howe International Bridge reached its biggest milestone yet this summer, when U.S. and Canadian construction crews linked the two halves of the bridge in a celebration hig… [+2434 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Inside the Magic"
+            },
+            "author": "Alessia Dunn",
+            "title": "Six Flags Ceases Operations of 154-Year-Old Theme Park Giant, Termination Finalized",
+            "description": "Cedar Point, as we know it, is officially losing its roots, with an uncontrollable transfer of power. Located on a picturesque peninsula jutting into Lake Erie, Cedar Point boasts a rich and vibrant history as America’s second-oldest operating amusement park.…",
+            "url": "https://insidethemagic.net/2024/07/six-flag-officially-terminates-cedar-point-ad1/",
+            "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/07/Untitled-design-2024-07-09T121247.967.jpg",
+            "publishedAt": "2024-07-09T16:13:29Z",
+            "content": "Cedar Point, as we know it, is officially losing its roots, with an uncontrollable transfer of power.\r\nCredit: Cedar Point (@cedarpoint) on X\r\nLocated on a picturesque peninsula jutting into Lake Eri… [+10031 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Reason"
+            },
+            "author": "C.J. Ciaramella",
+            "title": "9th Circuit Rejects Qualified Immunity for Honolulu Cops Who Handcuffed 10-Year-Old Girl",
+            "description": "Officers should have known that handcuffing a compliant 10-year-old is unnecessary, the court ruled.",
+            "url": "https://reason.com/2024/07/09/9th-circuit-rejects-qualified-immunity-for-honolulu-cops-who-handcuffed-10-year-old-girl/",
+            "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2024/05/dreamstime_xxl_170022764-scaled.jpg",
+            "publishedAt": "2024-07-09T15:48:08Z",
+            "content": "A federal appeals court ruled that three Honolulu police officers are not immune from a lawsuit filed on behalf of a 10-year-old girl who was handcuffed and arrested at school for allegedly drawing a… [+4679 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Inside the Magic"
+            },
+            "author": "Alessia Dunn",
+            "title": "Orlando Theme Park Crisis Unfolds: SeaWorld Responds to Urgent Police Inquiry",
+            "description": "Things at SeaWorld are going from bad to worse, as a new tragedy has struck at Discovery Cove. SeaWorld Orlando, a cornerstone of Florida tourism, offers a multifaceted marine mammal experience. While SeaWorld itself focuses on larger-scale shows and exhibits…",
+            "url": "https://insidethemagic.net/2024/07/discovery-cove-man-drown-seaworld-responds-police-ad1/",
+            "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/07/Untitled-design-2024-07-09T110711.794.jpg",
+            "publishedAt": "2024-07-09T15:14:38Z",
+            "content": "Things at SeaWorld are going from bad to worse, as a new tragedy has struck at Discovery Cove.\r\nCredit: Discovery Cove\r\nSeaWorld Orlando, a cornerstone of Florida tourism, offers a multifaceted marin… [+7221 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Inside the Magic"
+            },
+            "author": "Chloe James",
+            "title": "Florida Man Stabbed at Theme Park, Urgent Update Given",
+            "description": "A popular theme park has issued an update after a Florida man was stabbed during his visit. Considering how scary some people find roller coasters, it’s ironic that often, the most dangerous thing in a theme park is the guests themselves. Over the years, seve…",
+            "url": "https://insidethemagic.net/2024/07/florida-man-stabbed-theme-park-adventureland-cj1/",
+            "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/07/adventureland-park.jpg",
+            "publishedAt": "2024-07-09T11:53:39Z",
+            "content": "A popular theme park has issued an update after a Florida man was stabbed during his visit.\r\nConsidering how scary some people find roller coasters, it’s ironic that often, the most dangerous thing i… [+3210 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -2734,279 +2955,6 @@
             "urlToImage": "https://d.newsweek.com/en/full/2401714/florida-cities-set-back-back-heat-records.jpg",
             "publishedAt": "2024-06-18T09:33:19Z",
             "content": "Florida is facing record-breaking temperatures and rip current warnings, creating heightened dangers for beachgoers, with state officials urging residents and visitors to exercise caution under the e… [+3220 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Dakin Andone",
-            "title": "Anderson Lee Aldrich: Club Q shooter sentenced to life in prison plus 190 years",
-            "description": "The shooter who opened fire in a Colorado LGBTQ+ nightclub in 2022, killing five people and injuring 19, was sentenced in federal court Tuesday to life in prison without the possibility of parole plus 190 years.",
-            "url": "https://www.cnn.com/2024/06/18/us/club-q-shooter-hate-crime-sentencing/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap23053767928262.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-06-18T09:23:16Z",
-            "content": "The shooter who opened fire in a Colorado LGBTQ+ nightclub in 2022, killing five people and injuring 19, was sentenced in federal court Tuesday to life in prison without the possibility of parole plu… [+5739 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Minneapolis Star Tribune"
-            },
-            "author": "TED ANTHONY",
-            "title": "When violence and trauma visit American places, a complex question follows: Demolish, or press on?",
-            "description": "Last week in Parkland, Florida, wrecking equipment began demolishing the building at Marjory Stoneman Douglas High School where a gunman's rampage in 2018 ended with 17 people dead. As the rumble of destruction echoed, people in the community set to explainin…",
-            "url": "https://www.startribune.com/when-violence-and-trauma-visit-american-places-a-complex-question-follows-demolish-or-press-on/600374247/",
-            "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1717510706",
-            "publishedAt": "2024-06-18T04:14:01Z",
-            "content": "PITTSBURGH Last week in Parkland, Florida, wrecking equipment began demolishing the building at Marjory Stoneman Douglas High School where a gunman's rampage in 2018 ended with 17 people dead. As the… [+7242 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Mcnews.com.au"
-            },
-            "author": "Motorcycle News",
-            "title": "Moto News | MX | Enduro | Flat Track | Trial | Speedway | AFT",
-            "description": "Trackmasters rained out, Team Australia MXoN fundraiser, Crump on Zmarzlik, KRT reach 300 wins, Six-rider Aussie JMXWC team, Mumford joins Firepower Honda, Lettenbichler injured, AFTN entries open, GYTR Yamaha Junior Racing Team update, Honda celebrate Manjim…",
-            "url": "https://www.mcnews.com.au/moto-news-mx-enduro-flat-track-trial-speedway-aft/",
-            "urlToImage": "https://www.mcnews.com.au/wp-content/uploads/2024/06/2024-TrialGP-Italy-Rnd3-D1-George-Hemingway-F7M.jpg",
-            "publishedAt": "2024-06-18T02:01:44Z",
-            "content": "Trackmasters rained out – To be rescheduled\r\nThe annual Trackmasters meeting was washed out last weekend without a wheel getting on to the track. Rain from Friday afternoon continued well in to Satur… [+57367 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Todd Boss, Contributor, \n Todd Boss, Contributor\n https://www.forbes.com/sites/toddboss/",
-            "title": "Undefeated Weekends For New York And Las Vegas At the DC Major League Pickleball Event",
-            "description": "The New York Hustlers, led by Lea Jansen and Jackie Kawamoto, went undefeated on the weekend to take first place in the Premier division.  Meanwhile, the Las Vegas Night Owls behind dominant performances from Judit Castillo and Chao Yi Wang put up their own u…",
-            "url": "https://www.forbes.com/sites/toddboss/2024/06/17/undefeated-weekends-for-new-york-and-las-vegas-at-the-dc-major-league-pickleball-event/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66705cbc61c35df6e0670a5d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-06-17T16:03:40Z",
-            "content": "CJ Klinger (L) and Jackie Kawamoto powered the New York Hustlers to an undefeated weekend in DC.\r\nMLP\r\nMajor League Pickleball (MLP) rolled into Washington DC last weekend to bring pro pickleball to … [+8517 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Reason"
-            },
-            "author": "C.J. Ciaramella",
-            "title": "Does Miami Have the Answer to Homelessness?",
-            "description": "There may not be a perfect solution to ending homelessness, but there are some clear principles to reduce the friction for those working to do so.",
-            "url": "https://reason.com/2024/06/15/gimme-shelter-2/",
-            "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2024/05/feature-cj-homeless.jpg",
-            "publishedAt": "2024-06-17T11:51:50Z",
-            "content": "When Gov. Ron DeSantis needed a place to host a signing ceremony for a bill banning homeless people from sleeping in public, the Florida Republican chose Miami Beach. It wasn't picked just for its ic… [+25108 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Samantha Delouya",
-            "title": "Chinese citizens grapple with Florida law that bars them from buying property",
-            "description": "After his employer implemented a return-to-office policy last year, Jin Bian decided to cut down his one-hour commute time by purchasing a house closer to the office in Tampa, Florida. Then, he was told the purchase might get him prison time.",
-            "url": "https://www.cnn.com/2024/06/17/homes/florida-law-bans-chinese-citizens-buying-homes/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1935926903.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-06-17T04:01:15Z",
-            "content": "After his employer implemented a return-to-office policy last year, Jin Bian decided to cut down his one-hour commute time by purchasing a house closer to the office in Tampa, Florida. Then, he was t… [+5780 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Inside the Magic"
-            },
-            "author": "Alessia Dunn",
-            "title": "Dolly Parton Breaks Silence on Dollywood Crisis, Provides Critical Update",
-            "description": "Dollywood is taking some proactive measures following a recent health scare in the park that almost left one guest leaving in a casket. Nestled amidst the breathtaking beauty of Tennessee’s Great Smoky Mountains lies Dollywood, a theme park recently crowned t…",
-            "url": "https://insidethemagic.net/2024/06/dolly-parton-dollywood-crisis-update-water-safety-day-ad1/",
-            "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/06/Untitled-design-71.jpg",
-            "publishedAt": "2024-06-16T16:06:47Z",
-            "content": "Dollywood is taking some proactive measures following a recent health scare in the park that almost left one guest leaving in a casket.\r\nCredit: Smoky Mountain Park, X\r\nNestled amidst the breathtakin… [+6959 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Brian Bushard, Forbes Staff, \n Brian Bushard, Forbes Staff\n https://www.forbes.com/sites/brianbushard/",
-            "title": "Even Before Heat Dome Strikes These Cities Broke Daily High Temperature Records",
-            "description": "A heat dome brought dangerously high temperatures and the first heat wave of the season to parts of California, Nevada and Arizona.",
-            "url": "https://www.forbes.com/sites/brianbushard/2024/06/15/even-before-heat-dome-strikes-these-cities-broke-daily-high-temperature-records/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6654e6c37409b0b0bf9ab337/0x0.jpg?format=jpg&crop=3000,1686,x0,y142,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-06-15T20:54:52Z",
-            "content": "The latest in a parade of early summer heat waves shattered daily heat records across the Southwest this month, while forecasters warn a heat dome will form over the Northeast, bringing excessive hea… [+6781 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Inside the Magic"
-            },
-            "author": "Ed Aguila",
-            "title": "Crisis Reported Near Florida Theme Park, Fatal Injuries Confirmed",
-            "description": "A tragic accident near a Florida theme park resulted in the death of a man despite life-saving measures implemented by authorities. Regardless of their parent company, theme parks in the United States prioritize the health and safety of all guests and employe…",
-            "url": "https://insidethemagic.net/2024/06/tragic-accident-one-dead-near-florida-theme-park-ea1/",
-            "urlToImage": "https://insidethemagic.net/wp-content/uploads/2023/08/Untitled-design-55-1.jpg",
-            "publishedAt": "2024-06-15T17:28:02Z",
-            "content": "A tragic accident near a Florida theme park resulted in the death of a man despite life-saving measures implemented by authorities.\r\nRegardless of their parent company, theme parks in the United Stat… [+3908 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Chantal Da Silva and Matthew Mulligan and Marin Scott and Tavleen Tarrant and Larissa Gao and Rima Abdelkader and Sara Mhaidli and Paul Goldman and Dan De Luce and Abigail Williams and Caroline Radnofsky and Jean Lee and Emma Li and Matteo Moschella and Anisha Banerjee and Matthew Danbury",
-            "title": "Inside Israel’s deadly day-time hostage rescue that left dozens dead in its wake",
-            "description": "Israeli Defense Forces is under scrutiny over a daytime raid that freed four hostages but killed at least 274 people, including children, health officials said.",
-            "url": "https://www.nbcnews.com/news/world/israel-hostage-rescue-what-we-know-rcna156937",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-06/240613-hostage-raid-lr-fe3d08.jpg",
-            "publishedAt": "2024-06-15T09:00:00Z",
-            "content": "For Palestinians in Nuseirat refugee camp, the dramatic daytime raid that freed four Hamas hostages was over in a matter of hours after gunfire and Hellfire missiles left bodies strewn on the streets… [+12285 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Brian Bushard, Forbes Staff, \n Brian Bushard, Forbes Staff\n https://www.forbes.com/sites/brianbushard/",
-            "title": "2024 Heat Waves: Record-High Temps From California To Florida—And Heat Dome Forms Over Northeast",
-            "description": "A heat dome brought dangerously high temperatures and the first heat wave of the season to parts of California, Nevada and Arizona.",
-            "url": "https://www.forbes.com/sites/brianbushard/2024/06/14/2024-heat-waves-record-high-temps-from-california-to-florida-and-heat-dome-forms-over-northeast/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6654e6c37409b0b0bf9ab337/0x0.jpg?format=jpg&crop=3000,1686,x0,y142,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-06-14T20:51:25Z",
-            "content": "The latest in a parade of early summer heat waves shattered daily heat records from Florida and Louisiana to Nevada and California this month, while forecasters warn a heat dome expected to form in t… [+6518 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Marketscreener.com"
-            },
-            "author": null,
-            "title": "Nothing Hits Like EA SPORTS™ Madden NFL 25 With All-New BOOM Tech Gameplay",
-            "description": "(marketscreener.com) \nBOOM Tech’s Physics-Based Tackling System Brings True-to-Life Motion & Physical Outcomes to Madden NFL 25 Gameplay on PlayStation®5, Xbox Series X|S and PC\n\n\nPre-Order* Now to Get Early Access to Madden NFL 25 and its Refreshed Presentat…",
-            "url": "https://www.marketscreener.com/quote/stock/ELECTRONIC-ARTS-INC-9664624/news/Nothing-Hits-Like-EA-SPORTS-Madden-NFL-25-With-All-New-BOOM-Tech-Gameplay-46977017/",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-            "publishedAt": "2024-06-14T15:06:06Z",
-            "content": "BOOM Techs Physics-Based Tackling System Brings True-to-Life Motion &amp; Physical Outcomes to Madden NFL 25 Gameplay on PlayStation®5, Xbox Series X|S and PC\r\nPre-Order* Now to Get Early Access to M… [+8351 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "InvestorsObserver"
-            },
-            "author": "InvestorsObserver",
-            "title": "Nothing Hits Like EA SPORTS(TM) Madden NFL 25 With All-New BOOM Tech Gameplay",
-            "description": "BOOM Tech&#x2019;s Physics-Based Tackling System Brings True-to-Life Motion &amp; Physical Outcomes to Madden NFL 25 Gameplay on PlayStation&#xAE;5, Xbox Series X|S and PC           Pre-Order* Now       to Get Early Access to Madden NFL 25 and its Refr...",
-            "url": "https://www.investorsobserver.com/news/qm-pr/5320685329454360",
-            "urlToImage": "https://s3.amazonaws.com/images.investorsobserver.com/io-logo-800x450.jpg",
-            "publishedAt": "2024-06-14T11:05:00Z",
-            "content": "News HomeMentioned in this article\r\nBOOM Tech’s Physics-Based Tackling System Brings True-to-Life Motion &amp; Physical Outcomes to Madden NFL 25 Gameplay on PlayStation®5, Xbox Series X|S and PC\r\nPr… [+8591 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Melissa Cristina Marquez, Contributor, \n Melissa Cristina Marquez, Contributor\n https://www.forbes.com/sites/melissacristinamarquez/",
-            "title": "All Sawfish Are Critically Endangered - Now What?",
-            "description": "Although exact sawfish populations are unknown, they are acknowledged to have experienced dramatic declines. Still, there is hope for their global recovery.",
-            "url": "https://www.forbes.com/sites/melissacristinamarquez/2024/06/14/all-sawfish-are-critically-endangerednow-what/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/660236bd00b26c8097e589d3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-06-14T10:00:00Z",
-            "content": "A critically endangered small tooth sawfish roams its new home at Oceanworld in Sydney on August 18, ... [+] 2011. Measuring over 1.5 metres in length, sawfish have adapted to live in both salt and f… [+6536 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Inside the Magic"
-            },
-            "author": "Ed Aguila",
-            "title": "SeaWorld Theme Park Releases Urgent Notice, Shutdown Imminent",
-            "description": "A SeaWorld-owned and operated theme park just revealed an urgent notice affecting hundreds of families with an imminent shutdown. Florida theme parks continue to make headlines, from an upcoming permanent shutdown at Walt Disney World Resort to massive change…",
-            "url": "https://insidethemagic.net/2024/06/seaworld-theme-park-busch-gardens-urgent-notice-ea1/",
-            "urlToImage": "https://insidethemagic.net/wp-content/uploads/2022/11/iron-gwazi-resized-header.png",
-            "publishedAt": "2024-06-14T01:44:58Z",
-            "content": "A SeaWorld-owned and operated theme park just revealed an urgent notice affecting hundreds of families with an imminent shutdown.\r\nFlorida theme parks continue to make headlines, from an upcoming per… [+3831 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Reader's Digest"
-            },
-            "author": "Melissa Klurman",
-            "title": "13 Things You Didn’t Know About Tiana’s Bayou Adventure, Disney’s Newest Attraction",
-            "description": "Walt Disney World's new bayou water ride is making a splash!\nThe post 13 Things You Didn’t Know About Tiana’s Bayou Adventure, Disney’s Newest Attraction appeared first on Reader's Digest.",
-            "url": "https://www.rd.com/article/tianas-bayou-adventure-disney/",
-            "urlToImage": "https://www.rd.com/wp-content/uploads/2024/06/RD_Tianas-Bayou-Adventure_Olga-Thompson-Courtesy-Disney_01_KSedit_FT-SQ.jpg",
-            "publishedAt": "2024-06-13T20:38:41Z",
-            "content": "Updated: Jun. 13, 2024Olga Thompson/Courtesy Disney\r\nIf you’re looking for a dose of magic that transports you to a completely new world, there’s no place like Disney. And that’s especially true for … [+8592 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Emily Mae Czachor",
-            "title": "Maps and photos show massive rainfall forecasts in Florida",
-            "description": "Meteorologists warned as much as 8 more inches of rain could accumulate in low-lying areas in Florida before the weekend.",
-            "url": "https://www.cbsnews.com/news/florida-rainfall-flooding-forecast-maps-photos/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/06/13/4d281678-4879-41f9-ae60-5c8ace3cf800/thumbnail/1200x630/29da9bebea3ce7cda7825e21465b411b/ap24165602709574.jpg?v=5842509bb796a146f9b20d3e8b03dac6",
-            "publishedAt": "2024-06-13T20:02:33Z",
-            "content": "A relentless string of powerful storms have soaked much of South Florida this week and today's forecasts predict massive amounts of rain will continue to pummel sections of the state through Friday. … [+8754 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Inside the Magic"
-            },
-            "author": "Emmanuel Detres",
-            "title": "BREAKING: Disney World Kills Final Legal Battle Against Ron DeSantis, Officially Ending 24-Month Warfare",
-            "description": "Walt Disney World Resort has officially ended its legal feud with Florida Governor Ron DeSantis as the final lawsuit still up and running has been dropped by the House of Mouse, ending 24 months of battles, fiascos, drama, and more. Disney World and Ron DeSan…",
-            "url": "https://insidethemagic.net/2024/06/desantis-disney-world-lawsuit-final-over-emd1/",
-            "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/06/Untitled-design-2024-06-13T152602.936.jpg",
-            "publishedAt": "2024-06-13T19:30:02Z",
-            "content": "Walt Disney World Resort has officially ended its legal feud with Florida Governor Ron DeSantis as the final lawsuit still up and running has been dropped by the House of Mouse, ending 24 months of b… [+4826 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nextgov"
-            },
-            "author": "Doris Burke and Renee Dudley",
-            "title": "Microsoft Chose Profit Over Security and Left U.S. Government Vulnerable to Russian Hack, Whistleblower Says",
-            "description": "Microsoft dismissed his warnings, telling him they would work on a long-term alternative — leaving cloud services around the globe vulnerable to attack in the meantime.",
-            "url": "https://www.nextgov.com/cybersecurity/2024/06/microsoft-chose-profit-over-security-and-left-us-government-vulnerable-russian-hack-whistleblower-says/397349/",
-            "urlToImage": "https://cdn.nextgov.com/media/img/cd/2024/06/13/061324MicrosoftNG/open-graph.jpg",
-            "publishedAt": "2024-06-13T15:53:00Z",
-            "content": "This story was originally published by ProPublica. ProPublica is a Pulitzer Prize-winning investigative newsroom. Sign up for The Big Story newsletter to receive stories like this one in your inbox.M… [+35305 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Raw Story"
-            },
-            "author": "Brad Reed",
-            "title": "Trump dropped 'frequent F-bombs' during call with Mike Johnson after conviction: report",
-            "description": "A new report from Politico's Playbook details how former President Donald Trump reacted with pure fury after being convicted in New York on 34 felony charges.According to Politico, Trump had a phone call with House Speaker Mike Johnson (R-LA) shortly after th…",
-            "url": "https://www.rawstory.com/trump-mike-johnson/",
-            "urlToImage": "https://www.rawstory.com/media-library/rage-and-bile-cnn-panel-buries-trump-for-human-scum-memorial-day-rant.jpg?id=52333205&width=1200&height=600&coordinates=0%2C57%2C0%2C57",
-            "publishedAt": "2024-06-13T10:48:10Z",
-            "content": "The breach troubled Harris for two reasons. First, it involved the companys cloud a virtual storehouse typically containing an organizations most sensitive data. Second, the attackers had pulled it o… [+34849 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Raw Story"
-            },
-            "author": "John Stoehr",
-            "title": "The stunning reason Donald Trump thinks he’s going to win",
-            "description": "It doesn’t look it, but Donald Trump is weak. It doesn’t look it, because he keeps saying scary things. That gives the impression of strength. He’s weak, though. My evidence? Those scary things he keeps saying.No presidential candidate in his right mind would…",
-            "url": "https://www.rawstory.com/raw-investigates/raw-story-trump/",
-            "urlToImage": "https://www.rawstory.com/media-library/former-u-s-president-donald-trump-afp.jpg?id=25444803&width=1200&height=600&coordinates=0%2C24%2C0%2C25",
-            "publishedAt": "2024-06-13T10:45:00Z",
-            "content": "The breach troubled Harris for two reasons. First, it involved the companys cloud a virtual storehouse typically containing an organizations most sensitive data. Second, the attackers had pulled it o… [+34849 chars]"
         }
     ],
     "florence": []
