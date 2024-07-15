@@ -1,6 +1,45 @@
 {
-    "timestamp": "7/14/2024, 1:15:04 PM",
+    "timestamp": "7/14/2024, 11:23:51 PM",
     "houston": [
+        {
+            "source": {
+                "id": null,
+                "name": "Richmond.com"
+            },
+            "author": "MARK KENNEDY Associated Press",
+            "title": "Richard Simmons, a fitness guru who mixed laughs and sweat, dies at 76",
+            "description": "Simmons, who revealed a skin cancer diagnosis in March, lately dropped out of sight, sparking speculating about his health and well-being.",
+            "url": "https://richmond.com/news/nation-world/obituaries/health-obituary-celebrity/article_47364bee-385f-515e-b895-3230b5327efd.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/4/73/47364bee-385f-515e-b895-3230b5327efd/6692fa327f8ab.preview.jpg?crop=1263%2C663%2C1%2C93&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2024-07-13T22:15:00Z",
+            "content": "NEW YORK Richard Simmons, television's hyperactive court jester of physical fitness who built a mini-empire in his trademark tank tops and short shorts by urging the overweight to exercise and eat be… [+61081 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "KEVIN MCGILL Associated Press",
+            "title": "A popular tour guide's death leads to more scrutiny of border issues",
+            "description": "Kristie Thibodeaux’s gunfire death made news first because it happened in New Orleans’ famous French Quarter",
+            "url": "https://abcnews.go.com/Politics/wireStory/popular-tour-guides-death-leads-scrutiny-border-issues-111910441",
+            "urlToImage": "https://i.abcnewsfe.com/a/a7402de9-6ae2-4aab-a10d-5e101747a5a5/wirestory_3726fd14c77495b121b9f0245dbbf749_16x9.jpg?w=1600",
+            "publishedAt": "2024-07-13T17:26:25Z",
+            "content": "Kristie Thibodeaux's gunfire death made headlines first because it happened in the French Quarter New Orleans' oldest neighborhood and a place where residents of historic homes and owners of tourist-… [+4211 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "KEVIN MCGILL Associated Press",
+            "title": "A popular tour guide's death leads to more scrutiny of border issues",
+            "description": "Kristie Thibodeaux’s gunfire death made news first because it happened in New Orleans’ famous French Quarter",
+            "url": "https://abcnews.go.com/US/wireStory/popular-tour-guides-death-leads-scrutiny-border-issues-111910440",
+            "urlToImage": "https://i.abcnewsfe.com/a/a7402de9-6ae2-4aab-a10d-5e101747a5a5/wirestory_3726fd14c77495b121b9f0245dbbf749_16x9.jpg?w=1600",
+            "publishedAt": "2024-07-13T17:18:35Z",
+            "content": "Kristie Thibodeaux's gunfire death made headlines first because it happened in the French Quarter New Orleans' oldest neighborhood and a place where residents of historic homes and owners of tourist-… [+4211 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -130,6 +169,19 @@
             "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1720545114",
             "publishedAt": "2024-07-13T04:07:07Z",
             "content": "HOUSTON The deafening hum of a generator was a welcome noise Thursday evening at a Houston independent living center where several dozen seniors had lost power in the wake of Hurricane Beryl.\r\nJoe an… [+5278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "JAMES POLLARD",
+            "title": "Houston community groups strain to keep feeding and cooling a city battered by repeat storms",
+            "description": "The deafening hum of a generator was a welcome noise Thursday evening at a Houston independent living center where several dozen seniors had lost power in...",
+            "url": "https://www.yahoo.com/news/houston-community-groups-strain-keep-040651751.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/11OOw3MqdtAUAf4.e3hhCA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/2fbdcf27f24915037380f66af3ccc6e6",
+            "publishedAt": "2024-07-13T04:06:51Z",
+            "content": "HOUSTON (AP) The deafening hum of a generator was a welcome noise Thursday evening at a Houston independent living center where several dozen seniors had lost power in the wake of Hurricane Beryl.\r\nJ… [+5237 chars]"
         },
         {
             "source": {
@@ -1248,58 +1300,6 @@
             "urlToImage": null,
             "publishedAt": "1970-01-01T00:00:00Z",
             "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": "the-times-of-india",
-                "name": "The Times of India"
-            },
-            "author": "Reuters",
-            "title": "What to know about Hurricane Beryl as it barrels across Texas",
-            "description": "Hurricane Beryl, the earliest Category 5 hurricane on record in the Atlantic, made landfall near Matagorda, Texas, causing significant storm surges, strong winds, and heavy rain. The storm is expected to weaken quickly. Scientists link this severe hurricane s…",
-            "url": "https://economictimes.indiatimes.com/news/international/world-news/what-to-know-about-hurricane-beryl-as-it-barrels-across-texas/articleshow/111578875.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-111579239,width-1200,height-630,imgsize-37340,overlay-economictimes/photo.jpg",
-            "publishedAt": "2024-07-08T10:54:08Z",
-            "content": "Hurricane Beryl made landfall near the coastal town of Matagorda in Texas on Monday, bringing dangerous storm surges along the coast and packing strong winds and heavy rain as it moved inland, the U.… [+4431 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-post",
-                "name": "Financial Post"
-            },
-            "author": "Bloomberg News",
-            "title": "Doug Burgum Charms Trump and Donors to Emerge as VP Contender",
-            "description": "About this time last year, voters didn’t know the name Doug Burgum. Just to get on a debate stage with other Republican presidential primary contenders, he had to give out $20 gift cards in return for $1 campaign donations.",
-            "url": "https://financialpost.com/pmn/business-pmn/doug-burgum-charms-trump-and-donors-to-emerge-as-vp-contender",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/07/776164345.jpg",
-            "publishedAt": "2024-07-08T09:19:40Z",
-            "content": "About this time last year, voters didnt know the name Doug Burgum. Just to get on a debate stage with other Republican presidential primary contenders, he had to give out $20 gift cards in return for… [+10492 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "NBC Sports",
-            "title": "Pirates' Skenes an All-Star just 8 weeks after debut, and 7 Phillies are picked for July 16 game",
-            "description": "Pittsburgh Pirates pitcher Paul Skenes was picked for the All-Star Game on Sunday just eight weeks after his debut, and the major league-leading Philadelphia Phillies had a big league-high seven selections.",
-            "url": "https://www.nbcsports.com/mlb/news/pirates-skenes-an-all-star-just-8-weeks-after-debut-and-7-phillies-are-picked-for-july-16-game",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oI0t_2Mu7yZG3s.41LmgzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/nbcsports.com/f3ba56ae6708e42c23c2ceb2e03da1d1",
-            "publishedAt": "2024-07-08T00:10:34Z",
-            "content": "Pittsburgh Pirates pitcher Paul Skenes was picked for the All-Star Game on Sunday just eight weeks after his debut, and the major league-leading Philadelphia Phillies had a big league-high seven sele… [+5757 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Boston Globe"
-            },
-            "author": "Staff reports",
-            "title": "Pirates’ Paul Skenes is an All-Star eight weeks after his MLB debut, and the National League roster is stacked with Phillies",
-            "description": "While the rookie fireballer has been a show-stopper, MLB-best Philadelphia has a team-record seven players named to the July 16 summer classic in Arlington, Texas.",
-            "url": "https://www.bostonglobe.com/2024/07/07/sports/2024-mlb-all-star-selections/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/cFJkbTPbW5CZUJLeSn_yDQOVRmw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/LR2FFJB7WZWXNAY4SWVC4T6OII.jpg",
-            "publishedAt": "2024-07-07T23:29:22Z",
-            "content": "Chicago Cubs pitcher Shoto Imanaga joined Skenes and San Diego outfielder Jackson Merrill as the only rookie All-Stars for the July 16 game at Arlington, Texas.\r\nPhiladelphia pitchers Zack Wheeler, R… [+7065 chars]"
         }
     ],
     "columbia": [
@@ -1627,35 +1627,22 @@
             "urlToImage": null,
             "publishedAt": "2024-06-14T04:39:35Z",
             "content": "Author of the article:\r\nArticle content\r\nATLANTA (AP) In a dreary part of downtown Atlanta, shipping containers have been transformed into an oasis for dozens of previously unsheltered people who now… [+9997 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Bradford Betz",
-            "title": "Wild video shows moment inmate attacks deputy with makeshift knife",
-            "description": "A California inmate serving time for murder attempted to stab a sheriff’s deputy and a fellow inmate with a makeshift knife, prompting a chaotic brawl that was captured on video.",
-            "url": "https://www.foxnews.com/us/wild-video-shows-moment-inmate-attacks-deputy-makeshift-knife",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/prisonattack4-1.gif",
-            "publishedAt": "2024-06-14T02:24:35Z",
-            "content": "A California inmate serving time for murder attempted to stab a sheriffs deputy and a fellow inmate with a makeshift knife, prompting a chaotic brawl in the prison that was caught on video. \r\nThe vio… [+1636 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Bradford Betz",
-            "title": "Corrections officer stabbed in head by South Carolina inmate",
-            "description": "A South Carolina corrections officer at the Broad River Correctional Institute was stabbed in the head by an inmate Thursday morning and is recovering, officials said.",
-            "url": "https://www.foxnews.com/us/corrections-officer-stabbed-head-south-carolina-inmate",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/a-south-carolina-department-of-corrections-inmate.jpg",
-            "publishedAt": "2024-06-13T20:36:07Z",
-            "content": "A South Carolina corrections officer was stabbed in the head by an inmate on Thursday morning, officials said. \r\nA spokesperson for the South Carolina Department of Corrections told Fox News Digital … [+602 chars]"
         }
     ],
     "orlando": [
+        {
+            "source": {
+                "id": null,
+                "name": "Richmond.com"
+            },
+            "author": "MARK KENNEDY Associated Press",
+            "title": "Richard Simmons, a fitness guru who mixed laughs and sweat, dies at 76",
+            "description": "Simmons, who revealed a skin cancer diagnosis in March, lately dropped out of sight, sparking speculating about his health and well-being.",
+            "url": "https://richmond.com/news/nation-world/obituaries/health-obituary-celebrity/article_47364bee-385f-515e-b895-3230b5327efd.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/4/73/47364bee-385f-515e-b895-3230b5327efd/6692fa327f8ab.preview.jpg?crop=1263%2C663%2C1%2C93&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2024-07-13T22:15:00Z",
+            "content": "NEW YORK Richard Simmons, television's hyperactive court jester of physical fitness who built a mini-empire in his trademark tank tops and short shorts by urging the overweight to exercise and eat be… [+61081 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -2942,19 +2929,6 @@
             "urlToImage": null,
             "publishedAt": "2024-06-18T13:00:29Z",
             "content": "Author of the article:\r\nArticle content\r\nThis relationship expands HotelPlanners national reach with the #1 full-service relocation company in South Florida, which serves 17 college and pro sports te… [+7268 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Theo Burman",
-            "title": "Florida Weather Update: Hot Temperatures and a Warning for Swimmers",
-            "description": "Florida remains subject to some of its highest temperatures on record, with official guidance recommending residents avoid too much time in the heat.",
-            "url": "https://www.newsweek.com/florida-weather-update-warning-swimmers-floods-hot-sun-1914082",
-            "urlToImage": "https://d.newsweek.com/en/full/2401714/florida-cities-set-back-back-heat-records.jpg",
-            "publishedAt": "2024-06-18T09:33:19Z",
-            "content": "Florida is facing record-breaking temperatures and rip current warnings, creating heightened dangers for beachgoers, with state officials urging residents and visitors to exercise caution under the e… [+3220 chars]"
         }
     ],
     "florence": []
